@@ -1,0 +1,24 @@
+stages:
+  1_first_preprocessing:
+    cmd: scripts/1_first_preprocessing.py -o data/stage1 python3 scripts/1_first_preprocessing.py
+      data/X_train.csv data/X_test.csv
+    deps:
+    - data/X_test.csv
+    - data/X_train.csv
+  2_data_preprocessing:
+    cmd: scripts/2_data_preprocessing.py
+    deps:
+    - data/X_test.csv
+    - data/X_train.csv
+  3_data_preparation:
+    cmd: scripts/3_data_preparation.py
+    deps:
+    - data/X_train.csv
+    - data/y_train.csv
+  4_model_testing:
+    cmd: scripts/4_model_testing.py -o data/stage4 python3 scripts/4_model_testing.py
+      data/X_test.csv data/y_test.csv scripts/knn.joblib
+    deps:
+    - data/X_test.csv
+    - data/y_test.csv
+    - scripts/knn.joblib
