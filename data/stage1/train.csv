@@ -1,4250 +1,3755 @@
-107,no,yes,103
-137,no,no,110
-84,yes,no,88
-75,yes,no,122
-121,no,yes,108
-147,yes,no,94
-117,no,no,80
-141,yes,yes,111
-65,no,no,83
-74,no,no,148
-168,no,no,71
-95,no,no,75
-161,no,no,97
-85,no,yes,90
-76,no,yes,65
-73,no,no,88
-147,no,no,93
-77,no,no,121
-130,no,no,99
-111,no,no,102
-132,no,no,72
-57,no,yes,112
-54,no,no,100
-20,no,no,84
-49,no,no,109
-75,no,no,107
-12,no,no,119
-57,no,yes,75
-36,no,yes,80
-78,no,no,116
-136,yes,yes,99
-98,no,no,85
-135,yes,yes,107
-34,no,no,98
-160,no,no,110
-64,no,no,118
-59,no,yes,92
-65,no,no,122
-142,no,no,74
-97,no,yes,58
-52,no,no,96
-60,no,no,115
-10,no,no,66
-96,no,no,67
-81,no,no,85
-141,no,no,62
-121,no,yes,77
-125,no,no,126
-174,no,no,94
-116,no,yes,142
-149,no,yes,64
-38,no,no,97
-40,no,yes,88
-43,yes,no,104
-113,yes,no,119
-126,no,no,80
-150,no,no,110
-138,no,no,83
-162,no,yes,84
-147,no,no,85
-90,no,no,117
-85,no,no,94
-50,no,no,72
-82,no,no,100
-144,no,no,85
-46,no,no,104
-70,no,no,102
-144,no,no,74
-116,yes,no,79
-70,no,yes,98
-128,no,yes,86
-94,no,no,101
-111,no,no,76
-74,no,yes,84
-128,no,no,93
-82,no,no,105
-155,no,no,104
-80,no,no,107
-78,no,no,112
-90,no,no,81
-73,no,no,72
-99,no,no,76
-120,no,no,104
-77,no,no,126
-98,no,yes,83
-108,no,no,76
-95,no,no,106
-122,no,no,109
-95,no,no,98
-36,no,yes,76
-93,no,yes,115
-157,no,no,121
-120,no,no,83
-98,no,no,113
-125,no,no,90
-63,no,no,59
-36,yes,yes,122
-64,no,no,109
-74,no,no,48
-46,no,no,77
-41,no,yes,86
-121,no,no,117
-193,no,no,95
-130,no,no,98
-85,no,no,104
-162,no,no,87
-61,no,yes,103
-92,no,no,123
-90,no,no,114
-75,no,no,86
-78,no,no,140
-82,no,no,102
-163,no,no,128
-91,yes,no,83
-127,no,yes,76
-113,no,yes,60
-110,no,no,84
-120,no,yes,97
-157,no,yes,74
-103,no,no,84
-117,yes,no,87
-121,no,no,98
-145,no,yes,95
-113,no,no,125
-117,no,no,91
-65,no,no,117
-56,no,no,118
-96,no,no,46
-151,no,no,138
-83,no,no,116
-139,no,yes,96
-6,no,no,72
-115,no,yes,129
-141,no,no,111
-62,no,no,122
-185,no,yes,133
-148,no,no,128
-94,no,yes,116
-32,no,no,90
-68,no,no,105
-25,no,no,101
-65,no,no,93
-179,no,no,125
-94,no,no,125
-62,no,no,107
-116,no,no,76
-70,no,no,112
-94,yes,yes,136
-126,no,no,118
-67,no,yes,94
-19,no,no,57
-170,yes,no,122
-73,no,no,135
-106,no,no,139
-93,no,no,108
-51,no,no,95
-130,no,no,104
-80,no,no,77
-94,no,no,88
-118,no,yes,111
-117,no,yes,86
-78,no,no,115
-208,no,no,113
-131,yes,yes,97
-63,no,no,106
-53,no,yes,136
-62,no,no,93
-97,no,no,94
-105,no,no,51
-157,no,no,80
-66,no,yes,77
-122,no,no,72
-38,no,no,95
-106,no,no,70
-99,no,no,89
-99,no,no,98
-144,yes,no,103
-93,no,no,98
-120,no,no,82
-106,no,no,98
-81,no,no,98
-127,no,yes,103
-65,no,no,96
-35,no,no,122
-88,no,no,76
-65,no,no,94
-123,no,no,78
-126,no,yes,83
-45,no,yes,92
-93,yes,no,100
-63,yes,yes,111
-100,no,no,126
-53,no,no,87
-92,yes,no,105
-139,no,no,98
-110,no,yes,128
-110,no,no,98
-215,no,no,91
-138,no,no,125
-137,yes,no,102
-85,no,no,63
-22,no,no,93
-107,no,yes,80
-51,no,no,58
-94,no,no,98
-33,no,yes,80
-106,no,no,109
-86,no,yes,134
-97,yes,no,82
-106,no,yes,93
-108,no,no,117
-114,no,no,86
-92,yes,no,126
-59,no,no,123
-24,no,yes,105
-151,no,no,112
-117,no,no,108
-78,no,no,73
-155,no,no,113
-114,no,yes,91
-114,no,yes,117
-119,no,no,78
-118,yes,no,96
-101,no,no,117
-117,no,no,83
-49,no,yes,100
-139,no,no,96
-92,no,yes,79
-148,yes,no,85
-144,no,yes,67
-131,no,yes,105
-146,yes,no,90
-143,no,no,108
-81,no,no,108
-48,no,yes,84
-145,no,yes,108
-137,no,no,102
-137,no,no,86
-167,no,no,63
-89,no,no,114
-199,no,yes,99
-132,no,no,80
-94,no,no,112
-96,no,yes,113
-166,no,no,152
-74,no,no,67
-36,no,no,58
-113,no,no,117
-67,no,no,81
-127,no,no,168
-158,no,no,114
-136,no,no,77
-196,no,no,114
-113,no,no,118
-122,no,no,89
-112,no,no,82
-209,no,no,92
-62,no,no,118
-110,no,yes,112
-16,no,no,93
-73,no,no,122
-128,no,no,107
-39,no,no,120
-103,no,yes,100
-119,no,yes,114
-86,no,no,97
-114,no,yes,105
-104,no,no,113
-148,no,no,92
-129,no,no,121
-100,no,yes,107
-121,no,yes,69
-143,no,yes,112
-76,no,no,86
-158,no,no,77
-116,no,no,135
-54,no,no,74
-86,no,no,93
-108,no,no,87
-151,no,yes,90
-99,no,no,77
-55,no,no,110
-78,no,no,127
-89,no,no,71
-44,no,yes,85
-98,no,yes,86
-64,no,yes,103
-141,no,no,120
-81,no,yes,90
-162,no,no,121
-83,no,yes,107
-59,no,no,95
-179,yes,yes,71
-79,no,no,132
-117,no,no,88
-64,yes,no,85
-122,no,yes,132
-90,no,yes,103
-159,yes,no,127
-148,no,no,81
-39,no,yes,113
-77,no,no,138
-194,no,no,118
-112,no,no,123
-45,no,no,108
-132,no,no,137
-135,no,no,114
-56,no,no,102
-151,yes,no,88
-32,no,no,96
-87,no,yes,114
-138,no,no,116
-79,no,no,108
-95,yes,no,112
-127,no,no,113
-137,no,no,93
-97,no,no,96
-149,yes,no,81
-117,yes,yes,82
-84,no,no,90
-137,no,no,79
-54,no,no,83
-85,no,no,139
-43,no,no,89
-35,no,no,129
-98,no,no,152
-112,no,no,100
-16,no,no,108
-98,no,yes,143
-84,no,no,112
-66,no,no,68
-74,no,no,94
-96,no,yes,89
-119,no,no,107
-92,yes,no,115
-21,no,no,79
-122,no,no,122
-133,yes,no,81
-145,no,no,117
-25,no,no,72
-64,no,no,90
-85,no,no,117
-76,no,no,87
-224,yes,no,103
-117,no,no,106
-128,no,yes,79
-115,no,no,73
-141,no,yes,126
-51,no,no,94
-100,no,no,76
-96,no,yes,77
-112,no,yes,123
-129,yes,no,101
-163,no,no,108
-67,no,yes,93
-140,no,no,106
-49,no,no,92
-46,no,no,90
-148,no,no,110
-112,no,no,97
-78,no,no,101
-61,no,yes,102
-58,no,yes,91
-100,no,no,74
-113,no,no,106
-81,no,no,102
-135,no,yes,99
-99,no,no,95
-135,no,no,121
-85,yes,no,126
-88,no,no,138
-55,no,no,121
-79,no,yes,118
-85,no,no,124
-86,no,yes,105
-91,no,no,105
-149,no,yes,88
-97,no,no,100
-88,no,no,112
-60,no,no,69
-54,no,no,64
-109,no,no,119
-90,no,no,104
-115,no,no,117
-144,no,yes,113
-91,no,no,87
-71,yes,no,94
-132,no,yes,125
-41,no,yes,110
-44,no,no,83
-78,no,no,87
-149,no,no,100
-72,no,yes,98
-139,no,yes,132
-141,no,yes,118
-140,no,no,98
-99,no,no,107
-166,no,no,54
-124,no,no,104
-74,no,no,63
-117,no,no,110
-85,no,no,101
-36,no,yes,113
-102,yes,no,131
-76,no,no,139
-165,no,no,65
-130,no,no,99
-55,yes,no,110
-92,yes,no,122
-129,no,yes,88
-18,no,no,116
-161,yes,no,63
-75,yes,no,119
-126,no,yes,103
-93,yes,no,120
-109,yes,yes,111
-80,no,no,98
-41,no,no,75
-136,no,yes,65
-92,no,no,88
-143,no,yes,116
-118,no,yes,125
-193,no,yes,81
-73,no,no,101
-62,no,no,97
-30,no,yes,86
-60,yes,yes,94
-96,no,no,88
-52,no,no,138
-87,no,no,100
-41,no,no,104
-112,no,no,102
-88,no,no,82
-122,no,yes,109
-61,no,no,74
-87,no,no,108
-30,no,no,100
-95,no,yes,90
-46,no,no,143
-100,yes,no,115
-77,no,no,89
-98,no,yes,104
-125,no,yes,78
-194,no,no,138
-190,no,yes,92
-165,no,no,104
-59,no,no,125
-47,no,yes,108
-150,no,yes,52
-152,yes,yes,94
-26,no,no,129
-79,no,yes,135
-95,no,yes,90
-69,yes,no,91
-95,yes,yes,61
-31,no,yes,97
-121,no,yes,117
-44,no,no,92
-74,no,yes,103
-58,no,yes,89
-74,no,no,94
-125,no,no,100
-80,no,no,109
-99,no,yes,116
-99,no,no,106
-66,no,yes,84
-97,no,no,100
-75,no,yes,110
-85,yes,no,117
-108,no,no,101
-51,no,no,87
-186,no,yes,116
-44,yes,no,82
-64,no,yes,109
-44,no,no,79
-114,no,yes,89
-110,no,no,93
-90,no,yes,95
-72,no,yes,86
-113,no,no,113
-171,no,yes,118
-104,no,no,90
-165,no,no,93
-104,no,no,92
-110,no,no,124
-90,yes,no,134
-114,no,no,86
-101,no,no,79
-117,no,yes,103
-82,no,no,137
-92,no,no,125
-82,no,yes,137
-90,no,no,83
-124,no,no,79
-39,no,no,103
-75,no,yes,111
-102,no,no,77
-143,no,no,104
-53,no,no,131
-30,no,no,118
-112,no,no,109
-129,no,no,105
-63,no,yes,56
-28,no,no,86
-90,no,no,79
-151,no,no,118
-105,yes,yes,110
-41,no,yes,115
-48,no,yes,64
-166,yes,yes,113
-79,no,no,121
-153,no,no,96
-110,yes,no,90
-163,no,no,87
-105,no,yes,140
-172,no,no,84
-126,no,no,125
-97,no,no,137
-95,yes,yes,99
-87,no,no,102
-97,no,no,109
-140,no,no,99
-169,no,no,69
-68,no,yes,94
-122,no,yes,103
-36,no,no,87
-120,no,yes,73
-121,no,no,133
-64,no,yes,92
-13,no,yes,95
-106,no,no,114
-88,no,no,108
-74,no,no,106
-83,no,no,83
-49,no,no,93
-111,no,yes,99
-50,no,yes,99
-88,no,no,127
-131,no,yes,136
-79,no,no,48
-140,no,no,130
-105,no,no,52
-87,no,yes,115
-96,no,yes,106
-79,no,no,92
-55,no,no,118
-130,no,no,114
-34,no,no,101
-139,no,no,100
-109,no,no,120
-65,no,yes,89
-152,no,no,76
-147,no,no,128
-112,no,yes,123
-120,no,no,106
-171,no,no,74
-101,no,yes,122
-32,no,yes,107
-151,no,no,87
-60,no,no,62
-119,no,no,81
-43,no,no,121
-84,no,no,68
-65,no,no,109
-75,yes,no,111
-116,no,no,118
-107,no,no,82
-189,no,yes,120
-123,no,no,119
-110,no,no,93
-63,no,yes,113
-176,no,no,131
-108,no,no,126
-71,no,no,121
-137,no,no,91
-82,no,no,134
-92,no,yes,104
-165,no,no,108
-96,no,no,118
-156,no,no,97
-63,no,no,75
-37,no,no,88
-98,no,no,114
-121,no,no,82
-94,no,no,92
-99,no,no,102
-163,no,yes,64
-161,no,no,82
-108,no,no,119
-84,no,yes,118
-83,yes,yes,98
-139,no,no,99
-69,no,no,108
-106,no,no,101
-158,no,no,128
-168,no,yes,105
-115,yes,no,104
-57,yes,yes,116
-67,no,no,86
-127,no,no,110
-78,no,no,89
-100,no,yes,108
-103,no,yes,110
-113,no,no,127
-129,no,yes,83
-57,no,no,110
-82,no,no,99
-64,no,no,101
-86,no,yes,101
-151,no,yes,111
-94,no,no,105
-90,no,no,104
-48,no,no,103
-93,yes,yes,94
-169,yes,no,78
-91,yes,no,102
-101,no,no,103
-67,no,yes,58
-66,no,no,61
-116,no,yes,131
-158,no,no,86
-119,no,yes,110
-120,no,no,128
-155,no,no,117
-106,no,no,95
-146,no,yes,91
-101,no,yes,100
-22,no,yes,59
-90,no,no,108
-41,no,no,105
-33,no,no,119
-112,no,no,111
-108,no,yes,113
-136,no,yes,97
-128,no,no,95
-27,no,no,100
-161,yes,no,117
-33,no,yes,69
-120,no,yes,96
-122,yes,no,99
-148,no,yes,138
-74,no,no,78
-106,no,no,117
-179,no,no,108
-149,yes,yes,102
-77,no,no,95
-127,yes,no,100
-106,no,no,71
-61,no,yes,96
-135,yes,yes,105
-115,no,yes,77
-167,yes,no,90
-112,yes,no,114
-35,no,yes,101
-103,yes,no,66
-107,no,yes,130
-69,no,no,80
-24,no,no,102
-90,no,no,117
-137,no,no,111
-92,yes,yes,103
-38,no,no,76
-69,yes,yes,102
-73,no,no,90
-92,no,no,105
-113,no,yes,124
-68,yes,no,125
-135,no,yes,95
-100,no,yes,146
-96,no,yes,101
-108,no,no,134
-84,no,no,119
-134,no,no,89
-72,no,no,78
-83,no,no,111
-56,no,yes,116
-171,no,yes,138
-123,no,no,114
-58,no,no,131
-156,no,no,80
-166,no,no,83
-75,no,yes,110
-75,no,no,86
-83,no,no,115
-243,no,no,63
-153,no,no,73
-150,no,no,95
-92,no,yes,134
-80,no,no,88
-77,no,yes,72
-74,no,no,99
-143,no,no,136
-64,no,no,87
-120,no,no,73
-121,yes,no,121
-88,no,no,93
-87,no,no,93
-100,no,no,84
-104,no,no,74
-27,no,no,117
-81,no,yes,97
-64,yes,yes,104
-107,no,yes,128
-111,no,no,136
-77,no,no,115
-67,yes,no,88
-102,no,no,112
-146,no,yes,66
-96,no,no,114
-70,no,yes,102
-149,no,no,107
-129,no,no,106
-166,no,no,109
-136,yes,no,96
-149,no,no,74
-70,no,no,90
-66,no,no,106
-104,no,no,98
-160,no,no,115
-129,no,yes,103
-93,no,no,74
-169,no,no,130
-58,no,no,105
-75,no,yes,113
-45,no,no,94
-155,no,no,103
-52,no,no,82
-119,no,yes,133
-86,no,no,95
-42,no,no,123
-127,yes,no,118
-149,no,yes,122
-160,no,no,117
-137,no,no,75
-129,yes,no,85
-62,no,no,108
-122,no,yes,110
-32,no,no,102
-130,no,no,111
-42,no,no,113
-73,no,no,80
-66,no,yes,135
-103,no,yes,104
-128,no,no,91
-103,no,no,90
-124,no,no,134
-87,no,no,115
-109,no,yes,92
-167,yes,no,105
-97,no,no,101
-125,no,no,131
-108,no,yes,107
-89,no,yes,104
-23,no,no,115
-149,no,no,107
-73,no,no,78
-61,no,no,127
-161,no,no,87
-118,no,yes,72
-23,no,no,108
-127,no,yes,109
-42,no,yes,123
-45,no,no,86
-50,no,yes,55
-179,no,no,114
-152,no,no,87
-72,no,no,96
-52,no,no,108
-125,no,no,97
-143,no,no,59
-65,no,no,84
-1,no,no,66
-60,no,no,85
-43,no,no,103
-143,no,no,80
-81,no,yes,61
-24,no,no,112
-77,no,no,86
-74,no,no,105
-74,yes,no,96
-200,no,no,105
-86,no,no,107
-91,no,yes,115
-130,no,no,52
-56,no,no,115
-117,no,no,107
-63,no,no,115
-126,no,no,114
-132,no,no,127
-81,no,yes,105
-122,no,no,77
-46,no,no,91
-150,no,yes,80
-99,no,no,121
-87,no,no,87
-101,no,no,89
-53,no,no,95
-132,no,yes,94
-158,no,no,112
-114,no,yes,142
-144,yes,no,73
-91,no,yes,88
-58,no,no,87
-5,no,no,12
-97,no,no,51
-107,no,no,88
-142,no,yes,97
-73,no,no,105
-48,no,yes,131
-43,no,no,121
-122,no,yes,105
-93,no,no,64
-85,no,no,123
-59,no,no,65
-87,no,no,99
-137,no,no,100
-21,no,yes,84
-129,no,no,104
-104,no,no,117
-93,no,yes,128
-63,no,no,114
-161,no,no,122
-50,no,no,104
-103,no,yes,102
-84,no,yes,101
-92,no,no,118
-77,no,no,111
-64,yes,no,79
-159,no,yes,146
-110,yes,yes,74
-178,no,no,62
-50,no,yes,101
-45,no,yes,119
-70,no,no,106
-94,no,no,95
-179,no,no,99
-116,no,no,95
-59,no,no,99
-165,no,no,94
-140,no,no,121
-93,no,yes,72
-52,no,yes,97
-64,no,yes,89
-48,no,no,85
-181,no,no,58
-168,no,yes,98
-155,no,no,92
-105,no,no,101
-182,no,no,120
-104,no,no,54
-102,no,no,126
-122,no,no,120
-41,no,no,108
-132,no,no,80
-76,no,no,69
-13,no,no,92
-115,no,yes,157
-67,no,no,69
-100,no,no,88
-146,yes,no,93
-148,no,yes,88
-67,no,yes,73
-161,yes,no,105
-70,no,no,113
-99,no,yes,104
-87,no,no,102
-131,no,no,101
-119,no,no,113
-119,no,yes,126
-87,yes,no,71
-112,no,no,143
-75,no,no,104
-150,no,no,105
-161,no,yes,102
-91,yes,yes,128
-124,no,no,77
-94,yes,no,88
-217,no,no,128
-158,no,no,108
-102,no,no,128
-85,no,no,103
-79,no,no,102
-139,no,yes,70
-103,no,no,69
-78,no,no,86
-50,no,no,118
-67,no,no,122
-86,no,yes,119
-174,no,no,124
-124,no,no,99
-190,no,yes,88
-101,no,no,104
-68,no,yes,105
-117,no,yes,69
-118,no,no,89
-22,no,no,88
-134,no,no,155
-164,no,yes,99
-177,no,no,97
-110,no,no,89
-53,no,yes,96
-80,no,no,95
-158,no,no,82
-114,no,no,78
-64,no,yes,123
-88,no,no,85
-82,yes,no,87
-111,no,no,129
-60,no,no,121
-113,no,no,107
-109,no,no,142
-105,no,yes,97
-85,no,no,88
-59,no,no,87
-148,no,no,96
-115,no,no,109
-106,no,no,82
-93,no,no,129
-57,no,yes,109
-98,no,no,88
-157,no,no,119
-116,no,yes,89
-30,no,no,122
-111,no,no,56
-52,no,no,89
-72,no,no,113
-135,no,yes,117
-86,no,no,130
-98,no,yes,89
-151,no,no,91
-118,no,no,60
-117,no,no,66
-55,no,no,99
-82,no,no,104
-152,no,no,82
-108,no,yes,93
-98,no,no,113
-130,no,no,97
-136,yes,no,114
-47,no,no,85
-189,no,no,123
-107,no,no,124
-91,no,no,121
-159,no,no,147
-11,no,yes,111
-167,no,no,135
-99,no,yes,86
-159,no,yes,71
-71,no,no,79
-122,no,no,89
-83,no,yes,101
-64,no,no,101
-144,no,yes,118
-106,yes,yes,90
-19,no,yes,97
-46,no,no,113
-127,no,no,124
-9,no,yes,115
-157,no,no,96
-105,no,yes,100
-155,no,no,125
-161,no,no,87
-95,no,yes,82
-122,no,no,84
-119,no,yes,52
-99,no,no,101
-76,no,yes,87
-167,no,no,96
-129,no,no,129
-116,no,no,113
-60,yes,no,93
-128,no,no,123
-47,no,yes,106
-40,yes,no,108
-173,no,no,91
-66,no,yes,90
-50,yes,yes,78
-130,no,no,106
-89,yes,no,90
-108,no,no,92
-32,no,no,132
-166,no,no,110
-72,no,yes,115
-134,no,yes,111
-13,no,no,90
-90,no,no,63
-111,no,yes,109
-72,no,no,110
-67,no,yes,102
-172,no,no,125
-154,no,yes,134
-69,no,no,81
-123,no,no,102
-130,no,yes,102
-142,no,yes,126
-29,no,no,75
-87,no,yes,147
-149,no,no,116
-146,yes,no,112
-88,yes,no,79
-119,yes,yes,110
-135,no,no,118
-100,no,no,95
-98,no,no,104
-180,no,yes,79
-100,no,yes,92
-119,no,yes,134
-86,no,no,63
-155,no,yes,101
-78,yes,no,101
-153,no,no,121
-92,no,yes,111
-13,no,yes,96
-154,no,no,119
-144,yes,yes,93
-48,no,no,108
-94,no,no,114
-139,no,no,86
-126,no,no,99
-122,no,no,109
-139,no,no,89
-95,no,no,108
-80,no,yes,74
-131,no,yes,138
-36,no,no,103
-180,no,no,64
-25,no,no,109
-113,no,no,85
-120,no,no,113
-74,no,no,104
-109,no,no,82
-162,no,yes,78
-124,no,yes,79
-177,no,no,109
-91,no,no,116
-24,no,no,77
-48,no,no,78
-86,no,no,112
-163,no,no,79
-91,no,no,142
-56,no,no,87
-147,yes,yes,116
-64,no,no,94
-108,no,yes,117
-159,no,no,91
-136,yes,no,104
-45,no,yes,108
-122,no,no,128
-138,no,no,97
-132,no,no,108
-101,yes,no,98
-58,no,no,108
-81,no,no,91
-116,no,no,111
-62,no,yes,136
-90,no,no,73
-98,no,no,109
-73,no,no,97
-107,yes,no,84
-55,no,yes,113
-76,no,yes,136
-30,no,no,112
-157,no,no,127
-40,no,yes,81
-72,no,no,103
-95,no,yes,111
-42,no,no,45
-86,no,no,81
-131,no,no,102
-74,no,no,105
-81,yes,yes,125
-81,no,no,112
-28,no,no,112
-111,no,no,124
-3,no,yes,78
-51,no,no,104
-68,no,yes,116
-163,no,no,108
-87,no,no,68
-58,no,no,108
-109,no,no,109
-111,no,no,99
-144,no,no,93
-135,no,no,116
-107,no,yes,91
-149,no,no,96
-56,no,no,116
-129,no,no,62
-92,no,no,95
-67,no,yes,104
-120,no,no,98
-166,no,no,118
-66,no,no,111
-76,no,no,127
-79,no,no,121
-98,no,yes,100
-141,no,yes,98
-46,no,no,83
-137,no,no,83
-171,no,no,112
-10,no,no,125
-88,no,no,114
-89,no,no,126
-82,no,no,117
-139,no,no,146
-87,no,no,107
-137,yes,no,115
-45,no,no,110
-90,no,no,91
-103,no,no,87
-100,no,no,69
-110,no,no,88
-124,no,no,104
-10,no,no,77
-89,no,yes,136
-121,no,no,96
-101,no,no,93
-103,no,yes,126
-51,no,no,64
-2,yes,no,88
-111,no,no,128
-118,no,no,105
-193,no,no,103
-114,no,no,101
-185,no,yes,88
-101,no,no,96
-95,no,yes,91
-7,no,yes,116
-126,no,no,93
-71,no,no,90
-124,no,no,98
-97,yes,no,105
-28,no,no,131
-90,yes,no,111
-190,no,no,129
-31,no,yes,86
-73,no,no,79
-111,no,no,113
-98,no,no,130
-106,yes,no,107
-111,no,no,127
-59,no,no,92
-71,no,yes,105
-55,no,no,106
-13,no,no,64
-136,no,yes,109
-123,no,no,123
-105,no,no,78
-50,no,yes,119
-97,no,no,86
-51,no,no,106
-73,no,no,97
-35,no,no,115
-64,no,no,76
-63,no,no,62
-117,no,yes,125
-115,no,no,75
-162,no,no,95
-89,no,no,104
-94,yes,no,107
-129,no,no,96
-86,no,no,109
-96,no,no,139
-190,no,no,113
-80,no,no,77
-108,no,no,110
-97,no,yes,97
-84,no,yes,107
-65,no,no,113
-58,yes,yes,100
-36,no,no,115
-54,no,no,123
-45,no,no,103
-72,no,yes,83
-141,no,no,83
-20,no,yes,127
-94,no,no,54
-40,no,no,113
-101,no,no,86
-170,no,no,124
-105,no,no,89
-103,no,no,83
-140,yes,yes,102
-101,no,no,119
-98,no,yes,97
-104,no,no,112
-115,no,no,75
-70,no,no,77
-126,no,no,71
-87,no,yes,63
-125,no,no,94
-86,no,no,93
-73,no,yes,91
-232,no,no,115
-133,no,no,94
-103,no,no,91
-131,no,yes,78
-95,no,yes,94
-182,no,no,106
-99,no,no,95
-141,no,no,104
-29,yes,yes,79
-65,no,no,100
-81,yes,no,98
-37,no,yes,110
-107,no,yes,70
-127,yes,yes,131
-78,no,no,114
-55,no,no,96
-86,no,yes,125
-176,no,no,100
-96,yes,no,120
-11,no,yes,84
-48,no,yes,121
-127,no,no,121
-79,no,no,97
-83,no,yes,97
-60,no,no,131
-122,no,no,137
-136,no,no,85
-172,no,yes,118
-79,no,no,82
-55,no,yes,94
-111,no,yes,52
-160,no,no,107
-110,no,no,140
-192,no,no,50
-93,no,no,103
-77,no,no,115
-105,no,yes,110
-133,no,yes,113
-131,no,no,48
-118,no,no,92
-125,no,no,83
-95,no,no,68
-80,no,no,87
-145,no,no,106
-37,no,no,110
-87,no,no,68
-195,no,no,88
-123,no,yes,78
-41,no,yes,120
-76,yes,no,121
-86,yes,no,92
-140,no,no,65
-70,no,no,104
-121,no,yes,97
-112,no,no,117
-118,no,no,78
-66,no,yes,105
-129,no,yes,113
-6,no,no,122
-107,yes,no,105
-107,yes,no,89
-138,no,no,110
-103,no,no,70
-116,no,yes,103
-161,no,no,120
-1,no,no,82
-89,no,no,115
-64,no,no,100
-129,no,no,114
-128,no,yes,80
-81,no,yes,95
-114,no,no,80
-86,no,no,110
-96,no,no,88
-72,no,no,125
-64,no,yes,89
-65,no,no,122
-136,no,no,81
-116,no,no,113
-93,no,no,88
-142,no,yes,93
-92,no,no,75
-70,no,no,81
-22,no,yes,103
-37,no,no,109
-51,no,no,107
-130,no,no,115
-104,no,no,119
-134,no,no,105
-108,no,yes,101
-103,no,no,65
-62,no,no,99
-162,no,no,111
-42,no,no,120
-36,no,no,117
-143,no,no,128
-197,no,no,102
-81,no,no,102
-138,yes,no,114
-103,no,yes,84
-127,yes,no,80
-99,no,no,89
-95,no,no,109
-113,no,no,88
-128,yes,no,101
-81,yes,no,120
-57,no,no,86
-140,no,no,109
-102,no,no,133
-107,no,no,125
-106,no,no,113
-225,no,no,109
-75,no,no,97
-86,no,no,95
-169,no,no,85
-122,no,yes,121
-106,no,no,123
-52,no,yes,77
-79,no,yes,78
-135,no,no,104
-70,no,no,90
-80,no,no,65
-37,no,no,113
-161,no,yes,94
-137,no,no,82
-123,no,no,94
-80,no,yes,68
-94,no,no,91
-105,no,yes,94
-73,no,yes,84
-112,no,no,90
-179,no,no,94
-57,no,no,85
-127,no,yes,91
-122,yes,yes,90
-33,no,yes,82
-94,no,no,57
-100,no,no,132
-106,no,no,99
-148,no,yes,73
-120,no,yes,89
-91,no,yes,122
-86,no,no,95
-94,no,no,111
-85,no,no,113
-89,no,no,80
-128,no,no,115
-115,yes,no,126
-76,no,no,108
-90,no,yes,113
-30,no,no,80
-105,yes,no,103
-102,no,yes,108
-63,no,yes,89
-155,no,no,102
-82,no,yes,112
-87,no,no,100
-115,no,yes,133
-121,yes,yes,108
-54,no,yes,112
-105,no,no,83
-73,no,no,114
-95,no,no,144
-21,no,yes,101
-163,no,yes,99
-57,no,no,112
-104,yes,no,103
-95,no,no,106
-74,no,no,36
-67,no,no,86
-104,yes,no,113
-71,no,yes,111
-149,no,no,110
-154,no,yes,99
-117,no,no,101
-130,no,no,104
-73,no,no,133
-100,no,yes,131
-149,no,no,82
-29,no,no,110
-131,no,no,90
-153,no,no,103
-133,no,no,128
-112,no,no,129
-87,no,no,80
-66,no,no,121
-74,no,no,120
-116,no,no,88
-68,no,no,90
-68,no,no,85
-54,yes,no,94
-107,no,no,94
-124,no,no,84
-95,no,yes,86
-173,no,no,134
-110,no,no,98
-102,no,no,136
-130,no,no,110
-91,no,yes,98
-64,yes,no,87
-176,no,yes,74
-93,yes,no,106
-84,no,yes,73
-138,no,no,106
-101,no,yes,107
-136,no,no,113
-132,no,yes,75
-128,no,no,60
-92,no,yes,144
-197,yes,no,115
-191,no,no,120
-99,no,yes,102
-78,no,no,105
-98,no,no,87
-56,no,yes,76
-84,no,no,60
-95,no,no,61
-16,no,no,122
-76,yes,no,96
-93,no,no,100
-83,no,no,78
-123,no,no,51
-82,no,no,120
-110,no,no,106
-96,no,yes,75
-47,no,yes,140
-115,no,no,96
-69,no,no,86
-163,no,yes,91
-98,no,no,103
-174,no,yes,115
-95,no,no,120
-79,no,no,111
-123,no,yes,105
-99,no,no,111
-141,no,no,81
-132,no,no,121
-133,no,no,116
-133,no,no,140
-93,no,yes,61
-34,no,no,71
-96,no,yes,84
-144,no,no,90
-24,no,yes,114
-54,no,no,156
-50,no,no,94
-92,no,yes,129
-96,no,no,53
-146,no,no,71
-138,yes,yes,88
-76,no,no,80
-99,no,no,104
-83,no,yes,105
-36,no,yes,67
-109,yes,no,131
-100,no,no,115
-104,no,no,111
-106,no,no,116
-100,no,no,56
-99,no,no,105
-50,no,no,103
-105,no,no,119
-161,no,no,46
-97,no,yes,115
-130,no,no,99
-92,no,no,100
-119,no,no,88
-115,no,no,74
-134,no,no,101
-127,no,yes,64
-80,no,no,147
-153,no,yes,103
-85,no,no,83
-79,no,no,95
-35,no,no,78
-120,no,yes,88
-68,no,no,129
-120,no,no,103
-23,no,no,95
-225,no,no,63
-181,yes,no,83
-63,no,no,102
-54,yes,no,108
-80,yes,yes,120
-118,yes,yes,111
-42,yes,no,94
-134,no,no,90
-66,no,yes,93
-127,no,yes,113
-146,no,no,128
-93,no,yes,84
-77,no,no,83
-111,no,no,67
-125,no,no,121
-115,no,yes,90
-115,yes,no,100
-114,no,no,81
-118,no,yes,113
-21,no,no,117
-142,no,yes,65
-62,no,no,100
-149,no,no,97
-54,no,yes,60
-112,no,no,71
-68,no,no,85
-201,no,yes,81
-88,no,no,60
-85,no,yes,102
-51,yes,no,85
-45,no,yes,101
-116,no,no,106
-146,no,yes,108
-63,no,yes,91
-133,no,no,135
-125,no,no,108
-72,no,no,102
-130,no,no,107
-97,no,no,105
-54,no,no,108
-160,no,yes,108
-79,no,no,91
-92,no,yes,130
-132,no,no,90
-93,no,no,130
-101,no,no,75
-125,yes,no,111
-63,no,no,137
-107,no,no,117
-110,no,no,123
-83,no,no,84
-117,no,no,119
-124,no,no,116
-115,no,no,87
-156,yes,no,106
-89,no,no,88
-72,no,no,121
-101,no,yes,74
-53,no,no,125
-116,no,no,123
-78,no,no,113
-56,no,no,115
-123,no,yes,110
-127,no,no,112
-116,no,yes,121
-138,no,yes,93
-120,no,no,66
-102,no,no,127
-95,no,no,89
-102,no,no,103
-89,no,yes,69
-50,no,no,118
-93,no,yes,102
-68,no,no,101
-70,no,no,83
-141,no,yes,128
-112,no,yes,125
-117,yes,no,84
-1,no,yes,113
-70,no,no,87
-87,no,yes,106
-52,no,yes,95
-97,no,no,106
-105,no,no,106
-77,no,yes,102
-80,yes,no,92
-120,no,yes,70
-54,no,yes,117
-148,yes,no,123
-119,no,no,99
-162,no,yes,129
-85,no,no,141
-101,no,yes,105
-172,no,no,71
-67,no,no,76
-86,no,no,44
-107,no,no,111
-116,no,no,103
-63,no,no,77
-119,yes,yes,96
-133,yes,no,80
-94,yes,no,94
-69,no,no,57
-146,no,no,130
-119,no,no,114
-142,yes,yes,120
-101,no,no,106
-43,no,no,126
-69,no,no,88
-15,yes,no,76
-107,no,yes,115
-67,no,no,107
-99,no,no,87
-46,no,no,153
-55,yes,no,97
-56,no,no,78
-76,no,no,95
-132,yes,yes,67
-140,no,yes,97
-51,yes,yes,134
-27,no,no,92
-224,no,no,66
-105,yes,yes,114
-117,no,no,56
-91,no,no,127
-135,no,no,64
-146,no,no,77
-147,yes,no,98
-68,no,no,118
-68,no,no,109
-86,no,yes,100
-131,no,no,107
-86,no,yes,112
-159,no,no,108
-134,no,yes,61
-113,no,no,80
-132,no,no,118
-85,no,no,76
-93,yes,yes,122
-174,no,yes,91
-61,no,no,96
-91,no,yes,116
-88,no,yes,105
-88,no,yes,101
-195,no,yes,88
-182,no,no,109
-118,no,no,64
-103,no,no,126
-61,no,yes,112
-172,no,no,101
-72,no,no,120
-113,no,no,85
-177,no,no,117
-100,no,no,102
-136,no,no,99
-71,no,no,119
-134,no,no,115
-39,no,no,112
-110,no,no,118
-102,no,no,129
-70,no,no,130
-142,no,no,98
-81,yes,no,50
-17,no,no,81
-119,no,no,68
-105,no,no,96
-108,yes,yes,128
-90,no,no,134
-100,no,yes,144
-155,no,yes,91
-113,no,no,67
-123,no,no,76
-42,no,no,93
-125,no,no,107
-131,no,yes,81
-107,no,no,80
-48,no,no,115
-76,no,no,100
-128,no,no,106
-73,no,no,83
-52,no,no,104
-126,yes,yes,114
-137,no,no,100
-71,no,no,94
-139,no,no,108
-107,no,yes,90
-147,no,no,91
-116,no,no,94
-60,no,yes,135
-38,no,no,78
-63,no,no,90
-131,no,no,116
-158,no,no,88
-139,no,no,107
-77,no,no,144
-140,no,no,99
-52,no,yes,123
-103,no,no,123
-74,no,yes,115
-124,no,no,112
-85,no,yes,108
-113,no,yes,56
-71,no,no,90
-49,yes,no,119
-106,yes,no,61
-60,no,no,48
-66,no,no,99
-125,no,no,85
-114,no,yes,88
-112,no,no,94
-101,no,yes,97
-70,no,no,83
-59,no,no,123
-59,no,no,98
-124,no,yes,101
-81,no,no,87
-86,no,no,77
-84,no,no,94
-118,no,yes,91
-89,no,no,92
-93,no,no,84
-85,no,no,95
-160,no,no,95
-28,no,no,92
-73,no,no,67
-156,no,no,128
-33,yes,no,104
-119,no,no,71
-91,no,yes,93
-102,no,no,89
-86,no,yes,94
-82,no,no,88
-89,no,no,142
-134,no,no,92
-92,no,no,89
-87,no,no,103
-64,no,no,99
-80,no,no,67
-153,no,yes,91
-104,no,yes,97
-87,no,no,122
-159,no,yes,88
-119,no,no,87
-69,no,no,105
-87,yes,yes,102
-93,no,no,89
-154,yes,no,141
-57,no,yes,122
-130,no,no,112
-151,no,no,65
-162,no,no,71
-60,no,no,92
-81,no,no,69
-132,no,no,91
-86,no,no,96
-136,no,no,101
-121,no,yes,102
-105,no,yes,142
-51,no,yes,97
-64,no,no,108
-80,yes,yes,109
-56,no,no,89
-120,no,no,88
-103,no,no,113
-164,no,yes,113
-116,no,yes,91
-121,no,no,116
-55,yes,no,91
-183,no,no,112
-90,no,no,102
-101,no,no,110
-9,no,yes,108
-97,no,no,91
-94,no,no,144
-127,no,yes,48
-125,no,yes,108
-90,no,no,154
-67,no,no,109
-113,no,no,105
-121,no,yes,90
-93,no,no,87
-121,no,no,94
-53,no,no,105
-75,no,no,75
-132,no,no,109
-162,no,no,122
-140,no,no,103
-91,no,no,98
-73,no,yes,123
-95,yes,no,71
-145,no,no,100
-100,no,no,81
-122,no,no,121
-109,no,no,120
-82,no,no,114
-65,no,yes,100
-52,no,no,79
-136,no,yes,114
-75,no,no,86
-146,no,no,98
-105,no,no,95
-48,no,no,98
-45,no,no,78
-33,no,no,96
-68,no,no,144
-106,no,no,82
-94,no,yes,102
-65,no,no,132
-85,no,no,126
-71,no,no,92
-112,no,yes,96
-110,no,no,98
-111,no,no,89
-74,no,no,100
-105,no,no,111
-40,no,no,97
-128,yes,yes,109
-123,no,no,88
-122,no,no,74
-114,no,yes,109
-102,no,yes,83
-126,no,no,107
-150,no,no,81
-60,no,no,115
-123,no,no,103
-29,no,no,74
-111,no,no,111
-37,yes,no,86
-111,no,no,106
-81,no,no,91
-46,no,no,77
-69,no,yes,89
-125,no,no,113
-43,no,no,97
-94,no,no,91
-46,no,no,74
-73,no,yes,97
-146,no,yes,124
-93,no,no,99
-52,no,yes,97
-129,no,yes,87
-94,no,no,115
-100,no,no,92
-43,no,no,80
-130,no,no,108
-124,no,no,120
-92,yes,no,112
-48,no,no,126
-98,no,yes,101
-100,no,no,133
-164,no,no,85
-105,no,no,124
-89,yes,no,105
-126,no,no,92
-96,no,no,73
-120,no,yes,84
-212,no,no,83
-72,no,no,94
-155,yes,yes,123
-89,no,no,81
-126,yes,no,112
-172,no,no,111
-75,no,no,79
-143,no,no,133
-166,yes,no,95
-132,no,no,116
-94,yes,no,106
-99,no,no,111
-136,no,yes,119
-119,no,no,97
-115,yes,no,96
-160,no,no,121
-120,no,no,106
-173,no,no,138
-156,no,no,116
-70,no,no,104
-41,no,no,104
-132,no,no,76
-93,no,no,86
-109,no,no,115
-80,no,no,110
-54,no,yes,98
-121,no,no,99
-157,no,yes,109
-138,no,no,142
-92,no,yes,91
-126,no,no,72
-41,no,no,88
-167,no,no,108
-91,no,no,125
-127,no,no,68
-88,no,yes,92
-113,no,no,100
-78,no,no,82
-136,yes,yes,85
-68,no,yes,119
-132,no,yes,68
-110,no,no,85
-121,no,no,88
-116,no,no,137
-112,yes,yes,91
-97,yes,no,93
-43,no,no,149
-110,no,no,126
-67,no,no,138
-166,no,no,105
-129,no,no,95
-103,yes,no,86
-71,no,no,67
-112,no,yes,101
-98,no,no,73
-90,no,no,115
-58,no,no,88
-116,no,no,126
-87,no,no,105
-120,no,no,86
-97,no,yes,81
-134,no,no,105
-68,no,no,65
-93,no,no,65
-120,no,no,129
-41,no,no,155
-80,no,no,97
-83,no,yes,136
-109,yes,no,93
-66,no,yes,94
-104,no,no,85
-89,no,no,63
-127,no,no,103
-117,no,yes,77
-128,no,no,126
-88,no,no,88
-61,no,no,131
-22,no,no,148
-78,no,no,100
-56,no,yes,111
-192,no,no,98
-70,no,no,116
-65,no,yes,77
-119,no,no,74
-80,no,no,93
-152,no,yes,111
-113,no,no,92
-75,no,no,121
-80,no,no,86
-63,yes,no,111
-97,no,yes,84
-166,no,no,93
-94,no,no,80
-85,no,yes,88
-80,yes,no,79
-210,no,yes,103
-88,yes,yes,74
-100,no,no,69
-154,no,yes,91
-32,no,yes,108
-18,no,no,107
-126,no,yes,65
-29,no,no,151
-86,no,yes,129
-138,no,yes,147
-175,no,no,74
-74,no,no,101
-48,no,no,127
-74,no,yes,59
-105,yes,no,108
-157,no,no,48
-217,no,no,105
-68,no,no,84
-80,no,no,97
-38,no,yes,109
-140,no,no,97
-98,no,no,103
-114,no,no,87
-46,no,no,98
-118,no,yes,105
-37,no,no,96
-98,yes,yes,83
-113,no,no,140
-69,no,no,66
-121,no,no,104
-59,yes,yes,79
-59,no,no,133
-190,no,no,96
-109,no,no,94
-136,no,no,115
-106,no,no,118
-129,no,no,90
-99,no,no,92
-61,no,yes,116
-71,no,no,96
-4,yes,no,93
-148,no,yes,109
-141,no,no,114
-56,no,no,97
-160,no,no,61
-42,no,no,96
-135,yes,no,94
-106,no,no,69
-83,no,yes,83
-110,no,no,99
-153,no,no,84
-109,no,yes,130
-31,no,no,107
-124,no,no,111
-110,no,no,122
-124,no,no,123
-82,no,no,79
-69,no,no,124
-103,no,no,117
-16,no,no,141
-119,no,no,68
-124,yes,no,114
-122,no,yes,118
-139,no,no,118
-67,no,no,116
-84,no,no,86
-101,no,yes,81
-61,no,no,116
-120,yes,no,98
-95,no,no,95
-98,no,no,93
-114,no,no,83
-68,yes,yes,96
-149,no,yes,123
-176,no,no,84
-152,no,no,94
-118,no,no,73
-102,no,no,82
-118,no,no,120
-105,no,no,106
-71,no,no,125
-71,no,yes,78
-68,no,no,102
-66,no,no,74
-101,no,no,128
-116,no,no,89
-54,no,yes,58
-112,no,yes,114
-122,no,yes,93
-74,no,no,96
-90,no,no,88
-85,no,no,98
-100,no,no,101
-114,no,no,97
-83,no,no,116
-157,yes,no,98
-51,no,no,104
-42,no,no,54
-112,no,no,94
-56,no,no,107
-53,no,no,123
-64,no,yes,84
-123,no,no,111
-68,no,yes,91
-40,yes,no,106
-132,no,no,98
-120,yes,no,78
-108,no,yes,64
-122,no,no,111
-130,no,yes,99
-139,no,yes,79
-57,no,no,70
-128,no,no,102
-127,yes,no,118
-177,no,no,83
-121,no,no,93
-99,yes,yes,115
-126,yes,no,92
-77,no,yes,102
-21,no,no,111
-56,no,no,96
-92,no,yes,115
-81,no,no,131
-139,yes,yes,72
-68,no,no,103
-183,no,yes,97
-90,no,no,114
-165,no,no,81
-89,no,no,110
-59,no,no,88
-16,yes,no,75
-114,no,no,111
-113,no,no,72
-120,no,no,85
-115,no,no,84
-132,no,no,119
-1,no,no,77
-97,no,yes,126
-55,no,yes,109
-75,no,no,119
-83,no,no,98
-40,no,no,108
-101,no,yes,84
-120,no,yes,78
-183,no,yes,74
-75,no,no,120
-80,no,no,76
-88,no,no,121
-63,no,no,112
-105,no,yes,119
-92,no,no,116
-177,no,no,90
-118,no,no,137
-111,no,yes,98
-82,no,yes,115
-74,no,no,100
-121,no,yes,118
-131,no,no,114
-125,no,no,138
-19,no,no,110
-138,no,no,96
-119,no,no,101
-137,no,no,86
-135,no,no,84
-134,no,yes,57
-45,no,no,134
-129,no,no,116
-142,no,no,142
-130,no,yes,95
-105,no,no,66
-119,no,no,80
-78,no,no,121
-92,no,no,98
-146,no,yes,90
-125,no,yes,109
-88,no,no,80
-83,no,yes,94
-3,yes,no,82
-48,no,no,109
-189,no,no,112
-129,no,no,110
-66,no,yes,89
-80,no,yes,109
-84,no,no,73
-96,no,no,105
-123,no,yes,109
-105,yes,no,123
-80,no,no,119
-157,no,no,98
-67,no,yes,76
-141,no,yes,88
-79,no,yes,56
-76,no,no,80
-94,no,no,108
-143,no,no,99
-138,no,no,107
-73,no,no,87
-21,no,no,70
-148,no,yes,96
-143,no,yes,99
-79,no,yes,87
-89,no,no,152
-120,no,no,103
-121,no,yes,92
-101,no,no,85
-168,no,no,73
-138,no,no,120
-43,no,no,88
-117,no,yes,107
-108,no,no,114
-118,no,no,112
-169,no,no,123
-62,no,yes,94
-86,no,no,113
-44,no,no,94
-111,no,no,84
-127,no,yes,101
-151,yes,no,106
-53,no,no,82
-15,no,no,79
-123,no,yes,78
-137,no,no,118
-106,no,no,139
-88,no,no,74
-106,no,no,87
-95,no,no,118
-57,yes,no,96
-184,no,no,77
-127,no,no,130
-174,no,no,70
-92,no,no,73
-81,no,no,117
-125,no,no,107
-119,no,no,53
-122,no,no,59
-34,no,no,93
-138,yes,yes,98
-90,no,yes,103
-73,no,no,83
-19,no,no,109
-120,no,yes,76
-160,no,no,69
-141,no,no,125
-90,no,no,93
-72,no,no,96
-117,no,yes,110
-87,no,no,83
-190,no,no,95
-120,no,no,149
-115,no,yes,109
-61,no,no,106
-143,no,yes,114
-110,no,no,94
-104,no,no,109
-16,no,no,90
-183,no,no,116
-58,no,no,103
-102,yes,no,90
-64,no,yes,108
-103,no,no,53
-152,no,no,100
-124,no,no,109
-131,no,no,109
-57,no,yes,79
-157,no,no,85
-194,no,no,150
-66,no,no,99
-155,no,no,119
-116,no,no,114
-64,no,no,115
-96,no,no,116
-53,no,no,56
-105,no,no,128
-53,no,yes,99
-101,no,no,101
-129,no,yes,102
-122,no,no,136
-163,no,no,46
-93,no,no,85
-115,yes,no,106
-25,no,no,66
-73,no,no,114
-120,no,no,99
-196,no,no,120
-97,no,no,127
-148,no,no,99
-85,no,yes,101
-86,yes,no,102
-147,no,yes,109
-91,no,no,107
-81,no,yes,103
-116,no,yes,94
-69,no,yes,105
-135,no,no,90
-73,no,no,110
-125,yes,no,142
-165,no,yes,111
-64,no,no,103
-116,yes,yes,60
-84,no,yes,116
-134,no,no,114
-105,no,no,77
-88,no,no,107
-90,no,yes,118
-86,no,no,88
-37,no,no,110
-148,no,no,87
-63,no,no,98
-102,no,no,102
-76,no,no,80
-104,no,no,87
-109,no,no,109
-105,no,no,95
-63,no,yes,89
-105,no,yes,118
-68,yes,yes,89
-63,yes,yes,89
-74,no,no,121
-101,no,no,123
-116,no,no,90
-131,no,yes,93
-84,no,no,107
-104,no,no,58
-108,no,no,73
-111,no,no,91
-155,no,yes,110
-66,no,no,112
-64,no,no,65
-116,no,no,87
-101,no,no,115
-15,no,no,86
-88,no,no,72
-197,no,no,111
-50,yes,no,102
-172,no,no,94
-188,yes,yes,67
-85,yes,no,127
-103,yes,no,92
-136,no,yes,147
-155,no,yes,84
-145,no,no,101
-116,no,yes,118
-152,no,no,96
-65,yes,no,112
-67,no,no,124
-60,no,no,112
-138,no,no,94
-44,no,no,94
-25,no,no,117
-145,no,no,103
-122,no,yes,88
-121,no,no,82
-55,yes,no,100
-77,no,no,125
-12,no,no,90
-92,no,yes,73
-125,yes,yes,112
-79,no,no,84
-36,no,no,104
-102,no,no,123
-138,yes,no,115
-164,no,no,94
-125,no,no,85
-72,no,no,112
-145,no,no,119
-136,no,no,111
-209,no,no,110
-66,yes,no,88
-152,no,yes,82
-162,no,no,136
-72,no,no,96
-101,no,no,114
-125,no,no,71
-193,no,yes,105
-63,no,no,135
-124,no,no,113
-144,no,no,127
-116,no,yes,90
-189,no,yes,50
-97,no,yes,98
-137,no,yes,106
-142,no,yes,114
-84,no,no,88
-119,no,yes,100
-158,no,no,95
-101,no,yes,86
-182,no,no,108
-51,no,no,69
-117,no,no,149
-92,yes,no,111
-86,no,no,91
-122,no,no,103
-127,no,no,92
-158,no,no,69
-145,yes,yes,116
-127,no,yes,102
-109,no,no,105
-88,no,no,87
-171,no,no,85
-21,no,no,114
-145,no,yes,123
-90,no,no,100
-33,no,no,118
-61,no,yes,100
-107,no,no,110
-147,no,no,82
-186,no,no,118
-128,no,no,92
-55,no,yes,117
-134,no,no,100
-96,no,yes,89
-123,no,no,101
-35,no,no,101
-74,no,no,104
-130,no,no,104
-137,yes,no,84
-80,no,no,98
-116,no,yes,118
-123,no,yes,105
-146,yes,no,95
-121,no,yes,120
-137,no,no,94
-67,no,yes,73
-161,no,no,125
-134,no,yes,133
-120,no,yes,71
-130,no,yes,141
-68,no,no,105
-77,no,no,98
-109,no,no,75
-108,no,no,86
-79,no,yes,93
-119,no,no,79
-38,no,no,97
-109,no,yes,98
-78,no,no,58
-134,no,no,111
-47,no,yes,118
-59,no,yes,99
-151,no,no,103
-129,no,no,105
-76,no,no,75
-24,no,no,129
-169,no,no,110
-30,no,no,96
-70,no,no,114
-52,yes,no,80
-3,no,no,108
-38,no,no,105
-104,no,no,75
-27,no,no,99
-166,yes,yes,76
-13,no,no,79
-52,no,no,83
-114,no,yes,110
-156,no,no,112
-62,no,no,95
-82,no,yes,128
-52,no,no,101
-146,no,no,100
-120,no,yes,84
-130,no,no,103
-90,no,no,94
-147,yes,no,110
-159,no,no,74
-74,no,yes,150
-130,no,no,105
-155,yes,no,108
-87,no,no,89
-81,no,no,82
-99,no,no,120
-131,no,no,101
-89,no,no,68
-123,yes,no,96
-130,no,yes,122
-99,no,no,70
-36,no,no,69
-87,no,no,105
-139,no,no,131
-96,no,yes,87
-112,no,no,67
-75,no,no,97
-178,no,yes,65
-112,no,no,94
-108,no,yes,78
-100,no,no,102
-121,no,yes,120
-116,no,no,95
-161,no,no,74
-104,no,no,106
-119,yes,yes,93
-125,no,no,87
-109,no,no,116
-95,no,no,107
-90,no,no,118
-105,no,yes,43
-95,no,no,116
-160,no,no,117
-141,no,yes,128
-87,no,no,116
-81,no,no,94
-75,no,yes,87
-126,no,yes,90
-28,no,no,87
-153,no,no,136
-17,yes,no,91
-121,no,no,113
-125,no,no,127
-124,no,no,119
-35,no,no,96
-134,no,no,117
-123,no,yes,78
-124,no,no,111
-133,no,no,97
-185,no,yes,94
-107,no,no,110
-178,yes,no,78
-123,no,no,117
-170,no,no,144
-135,no,no,109
-134,no,yes,104
-148,no,yes,60
-93,no,no,133
-138,no,no,92
-159,no,no,101
-103,no,yes,108
-150,no,yes,80
-37,no,no,130
-33,yes,no,102
-55,no,no,54
-134,no,yes,124
-107,no,no,109
-80,no,yes,78
-78,no,no,126
-61,no,yes,69
-97,no,yes,120
-136,yes,no,113
-135,no,no,84
-87,no,yes,89
-165,no,no,89
-148,no,no,87
-127,yes,no,101
-151,no,no,83
-185,no,no,115
-65,no,yes,106
-58,no,no,108
-44,no,no,96
-58,no,no,122
-108,no,no,103
-132,no,no,124
-80,no,no,112
-162,no,no,107
-110,no,no,86
-96,no,no,94
-72,no,no,126
-125,no,yes,115
-170,no,no,70
-71,no,no,129
-124,no,no,152
-97,no,no,0
-98,yes,no,66
-24,no,no,81
-136,no,no,95
-44,no,no,87
-96,no,yes,154
-31,no,no,78
-72,no,no,103
-24,no,no,101
-117,yes,no,84
-137,no,yes,146
-136,no,no,97
-95,no,no,90
-82,no,yes,65
-145,no,no,91
-155,yes,no,105
-53,no,no,84
-123,no,no,101
-136,no,no,119
-57,no,no,134
-62,no,no,104
-112,no,no,112
-55,no,yes,113
-125,no,no,93
-98,no,yes,125
-105,no,no,103
-113,no,yes,123
-99,no,no,105
-103,no,no,85
-177,no,no,97
-149,no,yes,94
-160,no,no,134
-116,no,no,82
-148,yes,no,71
-147,no,yes,99
-95,no,no,126
-201,no,no,90
-80,no,no,78
-122,yes,no,93
-132,no,no,95
-83,no,no,92
-99,no,no,103
-84,no,no,105
-87,no,no,117
-7,no,no,83
-89,no,yes,107
-131,yes,no,94
-105,no,no,97
-108,yes,no,70
-47,no,yes,94
-101,yes,no,114
-182,no,yes,127
-128,no,no,71
-69,no,yes,90
-113,no,yes,82
-87,no,yes,130
-71,no,no,122
-87,no,no,86
-117,no,no,108
-177,no,no,79
-66,no,no,77
-110,no,no,141
-204,no,no,95
-32,no,yes,111
-133,no,yes,77
-185,no,no,83
-91,no,no,104
-131,no,no,87
-153,no,no,121
-141,no,no,80
-169,no,no,88
-127,no,yes,85
-57,no,no,127
-123,no,yes,59
-103,no,yes,81
-101,no,no,97
-123,no,yes,86
-78,no,yes,83
-101,no,yes,72
-67,no,yes,115
-64,yes,no,91
-173,no,no,111
-135,no,no,68
-75,no,yes,108
-88,no,no,70
-112,no,no,104
-113,no,no,109
-121,no,yes,76
-70,no,no,102
-90,no,no,137
-39,no,no,114
-142,no,no,106
-176,no,no,78
-105,no,no,80
-57,no,no,85
-88,no,no,90
-95,no,no,70
-147,no,no,144
-101,no,no,117
-115,no,no,98
-103,no,no,89
-82,no,no,120
-141,no,no,98
-149,no,no,127
-131,no,no,74
-119,no,no,100
-112,no,no,89
-116,no,yes,106
-94,no,no,89
-114,no,yes,105
-63,no,yes,76
-130,no,no,128
-122,no,yes,93
-166,no,no,99
-78,no,yes,79
-148,no,yes,127
-154,no,no,71
-110,no,yes,114
-75,no,no,115
-113,no,no,112
-181,no,yes,79
-51,no,no,102
-102,no,yes,109
-107,no,no,85
-88,no,no,128
-82,no,no,122
-204,no,no,95
-130,no,no,93
-174,no,no,143
-129,no,no,97
-190,yes,no,124
-54,yes,no,130
-78,no,no,93
-100,no,yes,82
-70,no,yes,92
-117,no,no,131
-68,no,no,80
-27,no,no,109
-181,no,yes,127
-112,no,no,119
-93,no,no,131
-102,no,no,100
-93,no,no,108
-107,no,yes,145
-100,no,yes,101
-115,no,no,108
-63,no,yes,88
-57,no,no,65
-119,no,yes,121
-73,no,no,87
-98,no,yes,108
-139,yes,no,137
-31,no,yes,125
-129,no,yes,89
-115,no,no,95
-108,no,no,93
-139,no,no,93
-102,no,no,99
-149,no,no,81
-113,no,no,93
-131,no,yes,85
-83,no,no,92
-96,no,yes,150
-98,no,no,155
-3,no,no,129
-77,no,yes,102
-75,no,yes,108
-40,no,no,123
-108,no,no,127
-100,no,no,89
-16,no,no,138
-115,no,yes,111
-108,no,yes,113
-161,no,no,135
-147,no,no,78
-107,no,no,111
-120,no,no,105
-107,no,yes,91
-58,no,no,107
-91,no,no,87
-13,no,no,88
-104,no,no,79
-93,no,yes,100
-95,no,no,101
-104,no,no,140
-35,no,no,82
-143,no,no,92
-62,no,no,130
-60,yes,no,117
-56,no,no,122
-183,no,no,78
-94,no,no,67
-73,no,yes,114
-123,no,no,104
-64,no,no,97
-127,yes,no,159
-33,no,no,110
-123,no,no,80
-148,no,no,105
-81,no,no,105
-52,no,no,128
-91,no,yes,98
-152,no,no,106
-201,no,no,86
-78,no,no,102
-67,no,no,143
-100,no,no,102
-41,no,no,74
-133,no,no,131
-36,no,yes,117
-51,no,yes,99
-84,no,yes,117
-91,no,no,103
-110,no,no,118
-121,no,no,98
-109,no,no,103
-95,no,no,77
-72,no,no,129
-73,no,no,83
-108,no,no,85
-58,no,yes,76
-76,yes,no,63
-103,no,no,56
-87,no,no,106
-35,no,yes,98
-88,no,no,127
-77,no,yes,97
-30,no,no,76
-53,no,yes,125
-152,no,no,88
-59,no,yes,136
-143,no,no,104
-142,no,yes,88
-105,no,no,117
-111,no,no,72
-143,no,no,117
-93,no,yes,83
-79,no,no,87
-93,yes,no,127
-103,no,no,112
-93,no,no,107
-149,yes,no,83
-23,no,yes,96
-221,no,yes,92
-164,no,yes,121
-104,no,yes,65
-150,no,yes,170
-184,no,yes,105
-88,no,no,118
-61,yes,yes,83
-110,no,no,101
-115,no,no,60
-33,no,no,96
-100,no,no,111
-209,no,no,87
-27,no,no,101
-117,no,no,96
-87,no,no,105
-129,no,yes,95
-142,no,no,110
-112,no,no,100
-75,no,yes,111
-97,no,yes,85
-121,no,yes,66
-142,yes,no,119
-121,no,no,97
-87,no,yes,81
-34,no,no,99
-177,yes,no,73
-58,no,yes,109
-113,yes,no,94
-101,no,no,88
-89,no,no,94
-77,yes,yes,86
-146,no,no,122
-93,no,no,95
-55,no,no,114
-88,no,no,121
-63,no,no,87
-127,no,yes,105
-57,no,yes,83
-138,yes,no,60
-171,no,no,109
-148,no,no,91
-127,no,no,114
-61,no,no,108
-131,no,no,116
-88,no,no,84
-89,no,yes,67
-82,no,no,74
-138,no,yes,79
-115,no,no,107
-117,yes,no,104
-60,no,no,68
-62,no,no,99
-133,no,no,101
-131,no,no,91
-65,no,no,117
-120,no,yes,91
-142,no,yes,106
-134,no,no,96
-87,no,no,97
-139,no,yes,82
-76,no,no,133
-100,no,no,92
-99,no,yes,58
-48,no,yes,94
-57,no,no,149
-170,no,yes,90
-78,no,no,90
-127,no,no,77
-119,yes,yes,133
-95,no,no,98
-110,no,no,96
-74,no,no,111
-148,no,yes,84
-83,no,no,115
-73,no,no,143
-111,no,yes,116
-84,no,no,90
-75,yes,no,99
-114,no,yes,125
-71,yes,no,140
-58,no,yes,85
-106,no,yes,131
-172,no,no,123
-45,no,no,97
-100,yes,no,102
-94,no,no,107
-128,no,no,83
-181,no,no,93
-127,no,no,95
-89,no,no,74
-149,no,yes,106
-103,no,yes,96
-163,yes,no,113
-122,yes,no,77
-60,no,no,110
-62,no,no,122
-117,no,no,97
-159,no,no,105
-78,no,no,88
-96,no,no,87
-79,no,no,68
-192,no,yes,126
-68,no,no,55
-28,no,no,58
-184,yes,no,84
-74,no,yes,82
-137,no,no,139
-103,no,yes,105
-99,no,no,88
-108,no,no,101
-117,no,no,68
-63,no,yes,125
-138,no,no,46
-128,no,yes,89
-140,no,no,116
-102,no,no,97
-96,no,no,107
-178,no,yes,100
-75,no,no,81
-106,no,yes,108
-158,no,no,97
-102,no,no,106
-92,no,yes,120
-69,no,no,104
-117,no,yes,71
-76,no,yes,97
-72,yes,no,70
-115,yes,yes,100
-68,no,no,131
-97,no,no,88
-92,no,no,128
-90,no,yes,109
-72,no,no,126
-73,no,no,75
-54,no,no,87
-161,no,no,78
-125,yes,no,126
-194,no,no,88
-69,no,yes,94
-141,no,yes,106
-98,no,no,97
-110,no,no,127
-70,no,no,62
-72,no,no,103
-66,no,no,110
-79,no,no,107
-61,no,no,96
-97,yes,no,136
-63,no,no,67
-105,no,no,103
-159,no,no,148
-83,no,no,117
-93,no,no,70
-98,no,no,95
-163,no,no,103
-169,no,yes,91
-111,no,no,101
-163,no,no,91
-85,no,no,111
-190,no,no,88
-39,no,no,99
-84,no,no,117
-71,no,no,91
-114,no,no,99
-135,no,no,63
-93,no,no,95
-82,no,no,89
-64,no,no,97
-76,no,yes,119
-112,no,no,106
-137,no,no,89
-140,no,no,107
-106,no,no,93
-166,no,yes,119
-137,no,no,98
-161,no,no,102
-120,no,no,86
-187,no,yes,110
-102,no,yes,88
-82,no,no,88
-100,no,yes,126
-45,no,no,100
-114,no,no,104
-43,yes,no,121
-103,no,no,88
-57,no,no,56
-52,no,yes,100
-74,no,no,118
-74,no,yes,114
-40,yes,yes,110
-83,no,no,103
-102,no,no,94
-79,no,yes,95
-110,no,no,76
-69,no,yes,128
-56,no,no,98
-133,no,no,97
-131,no,no,119
-60,no,yes,97
-92,no,no,93
-52,no,no,110
-135,no,yes,65
-107,no,no,91
-110,no,no,123
-109,yes,yes,65
-90,no,no,88
-115,no,no,91
-73,no,no,91
-127,no,no,126
-79,no,no,91
-133,no,no,62
-47,no,yes,71
-53,no,yes,97
-148,no,no,125
-72,no,no,63
-96,no,no,67
-55,no,no,112
-143,no,no,104
-60,no,no,101
-90,no,yes,75
-65,no,no,101
-93,no,no,95
-117,yes,yes,85
-96,no,yes,107
-60,no,no,105
-157,no,no,96
-89,no,no,119
-91,no,no,91
-104,no,no,127
-40,no,no,98
-161,no,no,119
-131,no,yes,109
-79,no,no,111
-161,no,no,111
-108,no,yes,102
-69,yes,no,89
-80,no,no,112
-146,no,no,107
-113,no,no,104
-29,no,yes,96
-78,no,no,71
-120,no,no,71
-185,no,no,128
-130,no,no,102
-59,no,yes,115
-139,no,no,116
-12,no,no,104
-42,no,yes,109
-63,no,no,132
-143,no,no,89
-156,no,no,96
-98,no,no,67
-140,no,yes,143
-102,no,yes,114
-71,no,yes,85
-104,no,no,130
-96,no,no,121
-90,no,no,46
-106,no,yes,83
-148,no,no,97
-95,no,yes,104
-127,no,no,124
-79,no,yes,142
-83,no,no,105
-83,no,yes,110
-17,no,no,130
-165,yes,no,150
-149,no,no,74
-79,yes,no,93
-94,no,no,100
-93,no,no,76
-109,yes,yes,92
-106,no,no,72
-92,no,no,131
-124,no,no,70
-117,no,no,106
-163,no,yes,115
-87,yes,no,129
-59,no,no,115
-103,no,no,97
-101,no,no,126
-72,no,no,138
-108,yes,no,91
-80,no,no,86
-117,no,no,61
-51,no,no,116
-158,no,no,115
-66,no,no,114
-82,no,no,109
-127,no,no,143
-108,no,yes,122
-106,no,yes,131
-58,no,yes,91
-138,no,no,97
-81,no,yes,124
-36,yes,no,91
-108,yes,yes,62
-133,no,yes,106
-90,no,no,106
-94,no,no,116
-68,no,no,117
-171,no,no,80
-122,no,no,95
-94,no,no,94
-25,yes,no,89
-120,no,no,86
-107,no,yes,103
-78,no,no,81
-93,no,no,73
-80,no,no,122
-127,no,no,73
-44,no,no,122
-69,no,yes,97
-69,yes,no,92
-64,no,yes,104
-167,yes,no,77
-139,no,no,113
-104,no,no,120
-78,no,no,73
-60,no,no,72
-171,yes,no,103
-88,no,no,104
-156,no,no,90
-92,no,yes,94
-78,no,no,75
-102,no,no,113
-131,no,no,134
-100,no,no,89
-94,no,no,79
-81,no,yes,138
-100,no,no,124
-78,no,yes,67
-139,yes,no,123
-88,no,no,129
-152,no,yes,103
-127,yes,no,90
-102,no,no,107
-49,yes,yes,121
-36,no,no,121
-13,no,no,102
-151,no,yes,116
-111,no,no,106
-135,yes,no,83
-114,no,yes,84
-122,no,yes,123
-89,no,no,116
-96,no,no,111
-106,no,no,89
-122,no,no,133
-87,no,yes,101
-145,no,no,92
-136,no,yes,89
-131,no,no,89
-90,no,no,125
-95,no,no,109
-42,no,yes,121
-69,no,no,109
-99,no,no,104
-72,no,no,96
-88,no,yes,86
-113,no,no,70
-142,yes,yes,110
-3,no,no,103
-75,no,no,103
-91,no,no,113
-78,no,no,134
-98,no,no,89
-166,no,yes,107
-78,no,no,95
-69,no,no,114
-122,no,no,113
-19,no,yes,118
-141,no,no,84
-79,no,yes,108
-171,no,no,113
-51,no,no,82
-98,no,no,65
-94,no,no,87
-100,no,yes,80
-125,no,no,123
-81,no,no,107
-94,no,no,142
-57,no,no,112
-140,no,no,151
-64,no,no,89
-52,yes,no,129
-117,no,no,76
-119,no,no,91
-85,no,no,101
-92,no,no,97
-116,no,no,71
-163,no,no,92
-83,no,no,114
-117,no,no,103
-90,no,no,114
-137,no,no,98
-112,no,no,100
-52,no,no,136
-173,no,yes,76
-3,no,no,78
-120,no,yes,103
-132,no,no,76
-101,no,no,122
-58,no,no,104
-74,no,no,103
-113,no,no,81
-132,no,no,97
-24,no,yes,77
-127,no,no,85
-85,no,no,75
-59,no,no,121
-113,no,yes,89
-185,no,yes,77
-127,no,no,99
-69,no,no,99
-102,no,no,70
-126,no,no,91
-137,no,no,115
-80,no,no,83
-86,no,no,96
-120,no,yes,84
-85,no,yes,105
-103,no,no,100
-53,no,yes,119
-115,yes,no,68
-116,yes,no,97
-93,no,yes,107
-106,no,no,112
-92,no,no,100
-110,no,no,97
-122,yes,no,98
-82,no,no,110
-71,no,no,105
-91,no,no,79
-109,no,no,91
-126,no,yes,98
-98,no,no,114
-98,no,no,130
-78,no,no,121
-44,no,no,72
-60,no,no,85
-113,no,no,106
-101,no,no,136
-147,no,no,123
-21,no,no,88
-141,no,no,86
-87,no,no,95
-69,no,no,106
-169,no,no,120
-102,no,no,124
-174,no,no,81
-44,no,yes,147
-89,no,yes,97
-143,no,no,93
-78,yes,yes,105
-93,no,no,136
-106,no,no,79
-116,no,no,103
-42,no,no,58
-173,no,no,95
-80,no,no,69
-70,no,yes,80
-112,no,no,136
-186,no,no,115
-99,no,no,117
-56,no,no,69
-135,no,yes,93
-83,no,no,86
-48,no,no,61
-112,no,yes,107
-112,no,no,118
-141,no,no,119
-73,no,yes,90
-81,no,no,103
-165,no,yes,112
-70,no,no,113
-79,no,no,83
-126,no,no,93
-77,no,no,131
-72,no,yes,96
-110,no,yes,141
-88,no,no,80
-80,no,yes,68
-43,no,yes,116
-144,no,yes,85
-142,no,no,91
-78,no,yes,99
-131,no,no,93
-61,no,yes,120
-73,no,yes,98
-100,no,yes,83
-100,no,no,130
-109,no,yes,108
-139,no,no,106
-115,no,no,119
-77,no,no,84
-14,no,no,103
-81,no,no,109
-113,no,no,87
-93,yes,yes,88
-77,no,no,91
-125,no,yes,61
-88,no,no,92
-89,no,no,87
-124,no,no,130
-83,no,no,98
-7,no,no,80
-104,no,no,127
-76,no,no,91
-135,no,no,100
-59,no,yes,95
-110,no,no,116
-173,yes,yes,114
-60,no,no,65
-117,no,no,92
-54,no,no,89
-76,no,yes,101
-98,no,no,92
-74,no,no,105
-112,no,no,75
-138,no,yes,122
-65,no,no,89
-194,no,yes,125
-131,no,no,96
-78,no,yes,75
-99,no,no,120
-120,no,no,103
-1,no,yes,79
-94,no,no,109
-178,no,yes,55
-136,no,no,123
-86,no,yes,118
-18,no,no,114
-49,no,no,100
-20,no,yes,120
-131,no,yes,70
-99,no,no,117
-61,no,no,76
-137,no,no,81
-49,no,yes,125
-83,no,no,138
-105,no,no,83
-90,no,no,94
-111,no,no,70
-135,no,no,120
-121,no,yes,94
-57,yes,no,115
-63,no,no,112
-97,no,no,91
-134,no,yes,94
-57,no,yes,76
-109,yes,no,119
-66,no,yes,104
-162,no,yes,128
-115,no,yes,89
-132,no,no,89
-152,no,no,101
-86,no,yes,101
-36,no,no,69
-118,no,no,113
-137,no,yes,121
-67,no,no,88
-164,no,no,99
-180,no,no,138
-80,no,yes,111
-126,no,no,111
-138,no,no,64
-101,no,no,91
-147,no,no,83
-58,no,no,77
-35,no,yes,132
-163,no,yes,65
-152,no,no,69
-44,no,no,128
-103,no,no,129
-126,no,no,114
-104,no,no,96
-99,no,yes,47
-119,no,no,104
-155,yes,yes,119
-51,no,yes,105
-142,no,no,85
-108,no,no,107
-154,no,yes,144
-171,no,no,58
-33,no,no,102
-68,yes,no,106
-65,no,yes,90
-95,no,yes,132
-47,no,yes,106
-49,no,yes,105
-104,no,no,104
-173,no,no,100
-98,yes,yes,65
-81,no,no,80
-63,no,yes,103
-32,no,no,115
-111,no,no,87
-96,no,no,119
-79,no,no,72
-123,no,no,104
-88,no,no,130
-182,no,yes,85
-109,no,no,100
-79,no,yes,96
-68,no,yes,115
-70,no,no,103
-44,no,yes,169
-113,no,no,85
-86,yes,yes,101
-59,no,no,91
-112,no,yes,88
-152,no,no,102
-108,no,yes,99
-91,no,no,89
-57,no,yes,132
-112,no,no,68
-100,no,no,73
-42,yes,no,123
-68,no,no,143
-132,no,no,62
-137,yes,no,81
-42,no,no,78
-81,no,yes,70
-135,no,no,96
-102,no,no,107
-117,no,no,96
-37,no,yes,115
-48,no,no,114
-155,no,no,84
-124,no,no,89
-91,no,no,102
-169,no,no,88
-74,no,no,105
-101,yes,yes,113
-142,no,no,115
-61,no,yes,149
-50,no,no,123
-82,no,no,101
-142,no,yes,96
-27,no,yes,77
-165,no,yes,62
-33,no,yes,140
-55,no,no,122
-96,yes,no,83
-115,no,no,110
-65,no,no,88
-50,no,no,98
-137,no,no,86
-95,no,no,126
-118,no,no,114
-84,no,no,92
-42,no,no,76
-53,no,no,124
-123,no,no,101
-60,no,no,121
-112,no,no,108
-43,no,no,105
-150,no,yes,110
-92,no,no,94
-68,no,no,94
-159,no,no,119
-158,no,yes,82
-119,no,no,78
-54,no,yes,120
-60,yes,no,93
-111,no,yes,118
-119,no,yes,92
-74,no,no,100
-118,no,no,68
-124,no,no,93
-133,no,no,123
-49,no,no,103
-112,no,no,119
-130,no,no,105
-130,no,no,85
-188,no,no,93
-174,no,no,142
-57,no,no,119
-105,no,no,101
-175,yes,yes,100
-100,no,no,99
-132,no,no,85
-117,yes,no,96
-65,no,no,102
-131,no,no,103
-114,no,no,97
-127,no,yes,115
-67,no,no,114
-123,no,yes,96
-116,no,no,110
-107,no,no,116
-110,no,no,101
-29,no,no,88
-76,no,no,97
-115,no,no,109
-68,no,no,126
-63,no,yes,152
-69,no,no,101
-97,no,no,75
-108,yes,no,101
-79,no,no,110
-52,no,no,82
-114,no,no,93
-90,no,yes,105
-122,no,yes,73
-73,no,yes,96
-100,no,no,110
-124,no,no,98
-112,no,no,99
-120,no,yes,77
-95,no,no,123
-61,no,no,115
-42,no,no,116
-104,no,no,78
-184,no,no,105
-29,no,no,91
-5,no,no,86
-58,no,yes,103
-165,no,no,116
-77,yes,yes,88
-132,yes,yes,98
-115,no,no,94
-148,no,no,90
-135,no,no,74
-87,no,yes,62
-78,no,no,77
-78,no,no,88
-101,no,no,134
-90,no,no,111
-83,no,no,98
-81,no,no,103
-119,no,no,124
-134,no,no,86
-48,no,no,110
-91,no,yes,54
-90,no,yes,76
-159,no,no,114
-142,yes,no,125
-104,no,no,121
-82,no,no,124
-88,no,no,89
-118,no,no,119
-139,no,no,132
-87,no,yes,80
-167,no,no,105
-138,no,no,119
-130,no,no,108
-87,no,no,101
-164,yes,yes,140
-109,no,no,108
-59,no,no,113
-124,no,no,82
-73,no,no,154
-94,no,no,139
-80,no,no,103
-101,yes,no,83
-115,no,no,100
-100,yes,no,91
-85,no,no,122
-110,no,no,95
-92,yes,no,55
-102,no,no,94
-134,no,no,123
-96,no,no,109
-42,no,no,98
-175,no,no,86
-136,no,yes,81
-32,yes,no,77
-101,no,no,123
-132,yes,yes,105
-120,no,no,95
-122,no,no,77
-52,no,no,139
-182,no,no,101
-130,no,no,109
-106,no,no,95
-150,no,no,106
-94,no,no,67
-89,no,no,85
-45,no,no,108
-74,no,no,121
-158,no,no,104
-76,no,no,122
-102,yes,no,100
-4,no,yes,98
-161,no,no,98
-116,no,no,122
-86,no,no,118
-39,no,no,125
-57,no,no,102
-138,no,no,107
-98,no,no,85
-145,no,yes,114
-77,no,no,100
-99,no,yes,98
-106,yes,no,109
-32,no,no,134
-174,no,no,123
-98,no,no,99
-42,no,no,121
-99,no,no,103
-119,no,no,85
-47,yes,no,97
-77,no,no,104
-39,no,yes,87
-193,no,no,80
-103,no,yes,82
-36,yes,yes,111
-87,no,no,53
-1,no,no,94
-62,no,no,111
-112,no,no,101
-82,no,no,109
-55,no,yes,106
-82,no,yes,74
-69,no,no,100
-87,no,no,108
-63,no,no,72
-68,no,no,107
-119,no,no,100
-43,no,yes,83
-136,no,no,81
-149,no,no,100
-77,no,no,105
-110,no,no,97
-70,no,no,89
-155,no,no,68
-151,no,yes,109
-125,no,no,75
-83,no,no,102
-94,no,no,121
-11,no,yes,91
-92,no,no,134
-70,no,yes,111
-82,no,no,105
-65,no,no,119
-102,no,no,111
-78,no,no,119
-77,yes,no,91
-58,no,yes,80
-38,no,no,75
-87,no,no,133
-72,yes,no,110
-69,no,no,68
-85,no,no,106
-176,no,no,104
-133,no,no,124
-146,no,no,94
-31,no,no,72
-78,yes,no,127
-118,no,no,75
-119,no,no,132
-141,no,no,101
-150,yes,no,78
-76,no,no,110
-159,no,yes,105
-66,no,no,93
-139,no,no,106
-122,yes,no,98
-91,no,no,91
-131,no,no,104
-135,no,no,122
-129,no,no,102
-85,no,no,109
-125,no,no,148
-67,no,no,81
-61,no,yes,87
-135,yes,no,125
-43,no,yes,123
-120,no,no,106
-62,no,no,115
-160,no,yes,115
-67,no,no,83
-98,no,no,111
-103,no,no,151
-121,no,no,106
-111,no,no,132
-127,no,no,116
-65,no,no,80
-86,no,no,76
-119,no,no,103
-113,no,no,92
-126,no,no,102
-103,no,no,139
-104,no,no,111
-56,no,no,110
-56,no,yes,91
-155,yes,no,84
-100,no,yes,72
-113,no,no,140
-103,no,yes,116
-160,no,no,75
-142,no,yes,120
-73,yes,yes,79
-135,no,yes,102
-29,no,no,60
-158,no,no,91
-104,no,no,101
-74,no,no,110
-28,no,no,65
-45,yes,no,69
-60,no,no,67
-173,no,no,92
-152,no,yes,135
-140,no,no,70
-94,no,yes,111
-88,no,no,125
-170,no,yes,83
-57,no,no,86
-102,no,yes,76
-49,no,no,131
-195,no,no,94
-64,no,no,114
-105,yes,no,69
-81,no,yes,96
-63,no,no,90
-126,no,no,61
-153,no,no,78
-67,no,no,94
-65,no,no,119
-21,no,no,75
-72,no,no,100
-176,no,no,64
-150,no,yes,91
-108,yes,no,94
-129,no,yes,102
-73,yes,no,121
-90,no,no,96
-105,no,no,91
-115,no,no,91
-82,no,no,97
-77,no,no,81
-201,no,no,124
-139,yes,no,75
-94,no,no,100
-95,no,no,75
-138,no,no,103
-105,no,no,109
-81,yes,no,122
-127,no,no,119
-84,no,no,113
-47,no,yes,74
-128,yes,no,86
-76,no,no,62
-167,no,no,102
-104,no,no,114
-136,no,no,109
-83,no,yes,114
-78,yes,no,98
-135,no,yes,78
-79,no,no,94
-133,no,no,83
-76,no,yes,101
-216,no,no,71
-73,no,no,95
-183,no,yes,79
-106,no,no,92
-90,no,no,111
-112,no,yes,104
-92,no,no,105
-35,no,no,78
-28,no,no,90
-93,no,no,68
-26,no,no,90
-33,yes,no,110
-120,no,no,105
-124,no,no,91
-56,no,no,64
-39,no,no,131
-158,no,no,122
-52,no,yes,124
-112,no,no,85
-12,no,no,122
-109,yes,no,126
-142,no,yes,121
-60,no,no,122
-168,no,no,120
-138,yes,no,120
-88,no,no,73
-119,no,no,107
-31,no,no,79
-102,no,no,102
-149,no,yes,89
-138,no,no,127
-118,no,no,93
-222,no,yes,76
-130,no,no,103
-140,no,no,89
-101,no,yes,96
-134,no,yes,103
-88,yes,no,82
-118,no,no,92
-93,no,yes,72
-232,no,no,96
-137,no,yes,118
-3,no,yes,83
-137,no,no,96
-42,no,no,106
-58,no,no,115
-55,no,yes,141
-69,no,no,87
-100,no,no,127
-86,no,no,145
-105,no,no,79
-111,yes,no,102
-75,no,no,107
-95,no,yes,68
-137,no,no,76
-116,yes,no,91
-125,no,no,117
-65,no,no,90
-100,no,no,88
-70,no,no,93
-67,no,no,87
-50,no,yes,74
-42,no,no,96
-103,no,yes,99
-90,no,no,150
-66,no,no,106
-22,no,no,106
-147,no,yes,81
-57,no,yes,105
-7,no,yes,110
-85,no,no,116
-92,no,no,79
-92,no,no,129
-133,no,no,103
-134,no,no,116
-66,no,yes,108
-65,no,no,106
-102,no,no,83
-101,yes,no,111
-115,no,yes,104
-111,no,yes,123
-121,no,no,130
-108,no,no,97
-63,no,yes,96
-59,no,yes,78
-82,no,no,95
-110,no,no,96
-85,no,no,108
-46,no,no,84
-44,no,no,76
-171,no,no,95
-88,no,yes,106
-169,no,no,102
-48,no,no,70
-65,no,no,82
-53,no,no,111
-72,no,yes,106
-100,no,no,73
-82,no,no,100
-71,no,no,82
-103,no,no,87
-87,no,no,116
-116,no,no,89
-140,no,no,89
-93,no,no,95
-90,no,no,119
-130,no,no,62
-121,yes,no,114
-94,yes,yes,99
-76,no,no,109
-69,no,no,142
-117,no,yes,107
-70,no,no,105
-130,no,no,116
-109,no,yes,99
-115,no,no,76
-114,no,no,76
-135,no,no,90
-79,no,yes,123
-123,no,no,56
-112,yes,no,124
-57,no,no,80
-143,no,no,155
-107,no,no,84
-103,yes,no,70
-157,no,no,79
-120,no,no,82
-81,yes,yes,113
-136,no,no,125
-83,no,yes,89
-137,no,no,108
-93,no,yes,89
-103,no,no,84
-96,no,no,86
-77,yes,no,121
-116,no,no,116
-96,yes,no,100
-60,yes,yes,73
-105,yes,yes,102
-107,no,no,93
-86,no,no,109
-115,no,no,89
-128,no,yes,111
-97,no,no,152
-90,no,no,105
-22,no,no,91
-121,no,no,106
-169,no,no,125
-83,no,no,100
-87,no,yes,106
-126,no,yes,51
-61,no,yes,133
-90,yes,no,87
-131,no,no,81
-89,no,no,108
-71,no,no,86
-166,no,no,73
-146,yes,no,149
-90,yes,no,108
-59,no,no,81
-25,no,no,97
-105,no,no,83
-143,no,yes,136
-56,no,no,91
-105,no,no,104
-73,no,yes,106
-54,no,no,112
-98,no,no,90
-100,no,yes,116
-107,no,no,123
-167,no,no,76
-49,no,no,85
-34,no,no,86
-109,no,no,103
-109,no,no,84
-39,no,no,108
-90,no,no,120
-114,no,no,136
-113,no,no,91
-19,no,yes,60
-94,no,no,103
-69,no,no,124
-90,no,no,100
-48,no,no,79
-122,no,yes,91
-123,no,yes,112
-81,no,no,106
-43,no,no,145
-25,no,no,97
-170,no,no,105
-129,no,no,116
-132,no,yes,109
-42,no,no,107
-8,no,no,136
-145,no,no,145
-131,no,no,143
-105,no,no,89
-90,no,yes,90
-124,no,no,83
-82,no,no,118
-76,no,no,117
-98,no,no,155
-80,yes,no,66
-57,no,no,105
-137,no,no,88
-87,no,no,81
-131,no,no,113
-116,no,no,112
-136,no,yes,126
-149,no,no,63
-108,no,no,103
-25,no,no,81
-104,no,no,102
-25,no,no,84
-140,no,yes,71
-106,no,no,101
-81,no,yes,104
-77,no,yes,84
-87,no,yes,98
-72,no,yes,127
-45,no,yes,76
-41,yes,yes,103
-122,no,no,62
-92,no,yes,70
-65,yes,no,93
-57,no,yes,107
-127,no,no,80
-121,no,no,112
-117,no,no,94
-37,no,no,92
-162,no,no,87
-193,no,no,104
-80,no,no,80
-176,no,no,107
-89,no,yes,117
-128,no,no,108
-138,no,no,132
-90,no,no,98
-57,no,yes,112
-177,no,yes,96
-98,no,yes,117
-140,no,no,107
-133,no,no,93
-166,no,yes,67
-86,no,no,82
-117,no,no,132
-86,no,no,123
-74,no,no,100
-178,no,no,90
-95,no,yes,123
-85,no,no,121
-81,no,no,90
-41,no,no,119
-217,no,no,97
-79,no,no,82
-15,no,no,148
-96,no,no,108
-140,no,no,112
-67,no,no,91
-105,no,no,84
-38,no,no,82
-110,no,no,95
-74,no,no,110
-79,no,yes,128
-114,yes,no,79
-44,no,no,112
-107,no,no,94
-104,no,yes,108
-98,no,no,89
-60,no,no,107
-138,no,yes,97
-89,no,no,125
-22,no,yes,135
-69,no,no,107
-106,no,no,104
-104,no,no,96
-174,no,no,83
-127,no,yes,107
-2,no,yes,136
-91,no,no,86
-34,no,yes,94
-111,no,no,96
-110,no,yes,88
-65,no,no,129
-51,no,yes,64
-64,no,no,78
-117,no,no,69
-38,no,no,114
-112,yes,no,105
-48,no,yes,74
-105,no,no,80
-140,no,no,52
-185,no,yes,111
-99,no,no,121
-52,no,no,107
-200,yes,yes,101
-82,no,no,102
-143,no,no,89
-97,no,no,110
-83,no,no,89
-92,no,no,78
-130,no,no,85
-97,yes,no,113
-53,no,yes,104
-87,yes,no,91
-138,no,no,76
-136,no,no,125
-98,no,no,75
-109,no,no,103
-84,no,no,103
-157,no,yes,60
-74,no,yes,84
-66,no,no,112
-142,no,yes,102
-136,no,yes,111
-75,no,yes,109
-59,no,no,92
-45,no,yes,101
-48,no,no,114
-16,no,no,75
-140,no,no,110
-108,no,yes,125
-53,no,no,99
-91,no,no,93
-26,yes,no,100
-129,no,no,126
-118,yes,yes,137
-51,no,yes,84
-57,no,yes,104
-103,no,no,129
-57,no,no,90
-84,no,no,93
-166,yes,no,88
-130,no,no,127
-116,yes,no,127
-161,no,no,117
-130,no,no,99
-42,no,no,109
-97,no,yes,91
-127,no,yes,105
-34,no,yes,125
-116,no,no,104
-158,no,no,71
-86,no,yes,104
-21,no,no,95
-78,no,no,97
-137,no,no,89
-84,no,no,93
-132,no,no,80
-83,no,no,38
-49,yes,no,69
-43,no,no,92
-78,no,yes,93
-65,no,no,93
-79,no,no,126
-76,no,no,81
-124,no,no,93
-98,no,no,64
-142,no,no,102
-146,no,no,117
-84,no,no,96
-200,no,no,96
-17,no,no,111
-125,no,no,119
-61,no,no,108
-103,no,yes,116
-20,no,no,124
-115,no,no,84
-139,no,no,91
-96,no,no,125
-101,no,no,109
-86,no,yes,98
-42,no,yes,90
-48,no,no,123
-134,no,no,67
-149,no,no,83
-120,no,no,91
-62,no,no,81
-84,no,yes,99
-16,no,no,103
-80,no,no,67
-78,no,no,80
-102,no,yes,128
-74,no,yes,103
-135,no,no,89
-55,no,no,98
-106,no,no,95
-34,no,no,108
-100,no,no,101
-127,no,no,116
-65,no,yes,106
-109,no,yes,108
-98,no,no,84
-141,no,no,111
-136,no,no,78
-42,no,no,91
-162,yes,no,93
-49,no,no,120
-103,no,no,103
-102,no,no,114
-222,no,no,98
-100,no,yes,125
-86,no,no,126
-94,no,yes,119
-106,no,no,129
-91,no,no,116
-62,no,no,104
-47,no,no,108
-51,no,no,125
-116,no,no,116
-145,no,no,109
-180,no,no,93
-67,no,no,95
-38,no,yes,118
-164,no,yes,93
-119,no,no,115
-74,no,no,71
-18,no,no,127
-93,no,no,97
-64,no,yes,67
-108,no,no,75
-112,no,no,83
-77,no,no,103
-68,no,yes,108
-83,yes,no,96
-87,no,yes,77
-43,no,yes,107
-113,no,no,95
-95,no,yes,104
-30,no,no,95
-172,no,no,77
-82,no,yes,78
-95,no,no,91
-97,no,no,122
-115,no,no,82
-94,no,no,111
-88,no,no,91
-95,no,no,100
-52,no,no,135
-91,no,no,89
-163,no,no,85
-145,yes,no,131
-116,no,no,92
-95,no,no,94
-49,no,no,121
-121,no,no,104
-39,no,no,116
-41,no,yes,106
-60,no,no,74
-158,no,no,100
-121,no,yes,114
-45,no,no,135
-154,no,no,127
-127,no,no,96
-74,yes,no,110
-26,no,no,97
-101,no,yes,78
-67,no,no,71
-142,no,no,118
-183,no,yes,125
-202,no,no,98
-24,yes,no,128
-36,no,no,108
-167,no,no,140
-118,no,no,149
-136,no,no,97
-77,no,no,125
-133,no,no,110
-122,no,no,61
-19,no,no,101
-140,no,no,97
-119,no,no,81
-80,no,yes,115
-116,no,no,90
-87,no,no,62
-7,no,no,123
-25,no,no,89
-133,no,no,93
-63,no,no,142
-120,no,no,91
-39,no,yes,85
-132,yes,no,125
-108,no,yes,84
-76,no,no,101
-95,no,no,109
-120,no,no,121
-51,no,yes,57
-61,no,no,108
-17,no,no,55
-98,no,yes,110
-181,no,yes,119
-114,no,yes,129
-111,yes,no,143
-160,no,yes,82
-58,no,no,124
-89,no,no,102
-71,no,yes,110
-141,no,no,111
-1,no,no,123
-50,no,no,70
-38,yes,no,68
-77,yes,no,99
-155,no,no,68
-65,no,no,96
-102,no,yes,134
-97,no,yes,91
-110,no,no,89
-52,no,no,98
-66,no,no,82
-82,no,no,105
-129,no,yes,51
-93,no,no,83
-120,no,no,74
-149,no,yes,86
-62,yes,no,107
-80,no,no,56
-30,no,no,68
-89,no,no,109
-57,no,no,96
-145,no,no,112
-132,no,no,90
-57,no,no,92
-175,no,no,109
-50,no,no,90
-114,yes,yes,90
-154,no,no,147
-152,no,no,69
-102,no,yes,97
-110,no,no,98
-90,no,no,106
-88,no,no,98
-97,no,no,147
-115,no,no,113
-88,no,no,123
-137,yes,no,73
-128,no,yes,86
-71,no,no,91
-91,no,no,80
-47,yes,yes,44
-126,no,no,85
-92,no,no,122
-36,no,no,98
-122,no,no,104
-117,no,no,94
-131,no,no,113
-133,no,no,98
-128,no,yes,94
-81,no,no,132
-81,no,no,88
-96,no,no,88
-93,no,no,92
-145,no,no,88
-53,yes,no,82
-108,no,no,146
-52,no,no,89
-61,no,no,78
-86,no,no,105
-137,no,no,68
-74,no,no,122
-118,no,yes,136
-125,no,no,94
-127,no,yes,49
-80,no,no,127
-150,no,no,138
-140,no,no,101
-97,no,no,91
-83,no,no,88
-73,no,no,82
-75,no,no,126
-50,no,yes,126
-86,no,yes,104
+SE,Principal Data Scientist,80000,L
+MI,ML Engineer,30000,S
+MI,ML Engineer,25500,S
+SE,Data Scientist,175000,M
+SE,Data Scientist,120000,M
+SE,Applied Scientist,222200,L
+SE,Applied Scientist,136000,L
+SE,Data Scientist,219000,M
+SE,Data Scientist,141000,M
+SE,Data Scientist,147100,M
+SE,Data Scientist,90700,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,100000,M
+EN,Applied Scientist,213660,L
+EN,Applied Scientist,130760,L
+SE,Data Modeler,147100,M
+SE,Data Modeler,90700,M
+SE,Data Scientist,170000,M
+SE,Data Scientist,150000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,110000,M
+SE,Research Engineer,275000,M
+SE,Research Engineer,174000,M
+SE,Analytics Engineer,230000,M
+SE,Analytics Engineer,143200,M
+SE,Business Intelligence Engineer,225000,M
+SE,Business Intelligence Engineer,156400,M
+SE,Machine Learning Engineer,200000,M
+SE,Machine Learning Engineer,130000,M
+SE,Data Strategist,90000,M
+SE,Data Strategist,72000,M
+SE,Data Engineer,253200,M
+SE,Data Engineer,90700,M
+SE,Computer Vision Engineer,342810,M
+SE,Computer Vision Engineer,184590,M
+MI,Data Engineer,162500,M
+MI,Data Engineer,130000,M
+MI,Data Analyst,105380,M
+MI,Data Analyst,64500,M
+EN,Data Quality Analyst,100000,L
+EN,Compliance Data Analyst,30000,L
+MI,Machine Learning Engineer,1650000,L
+EN,Applied Scientist,204620,L
+EN,Applied Scientist,110680,L
+SE,Data Engineer,270703,M
+SE,Data Engineer,221484,M
+SE,Data Scientist,212750,M
+SE,Data Scientist,185000,M
+SE,Data Scientist,262000,M
+SE,Data Scientist,245000,M
+SE,Data Scientist,275300,M
+SE,Data Scientist,183500,M
+SE,Data Scientist,218500,M
+SE,Data Scientist,199098,M
+SE,Data Engineer,203300,M
+SE,Data Engineer,123600,M
+SE,Research Engineer,189110,M
+SE,Research Engineer,139000,M
+EX,Data Scientist,258750,M
+EX,Data Scientist,185000,M
+SE,Data Engineer,231500,M
+SE,Data Engineer,166000,M
+SE,Data Scientist,172500,M
+SE,Data Scientist,110500,M
+SE,Data Engineer,238000,M
+SE,Data Engineer,176000,M
+SE,Data Engineer,237000,M
+SE,Data Engineer,201450,M
+SE,Applied Scientist,309400,L
+SE,Applied Scientist,159100,L
+SE,Data Engineer,115000,M
+SE,Data Engineer,81500,M
+SE,Data Scientist,237000,M
+SE,Data Scientist,201450,M
+SE,Computer Vision Engineer,280000,M
+SE,Computer Vision Engineer,210000,M
+SE,Data Architect,280100,M
+SE,Data Architect,168100,M
+SE,Data Engineer,193500,M
+SE,Data Engineer,139000,M
+MI,Data Scientist,510000,L
+SE,Machine Learning Engineer,150000,M
+MI,Applied Machine Learning Engineer,65000,S
+EN,AI Developer,300000,L
+MI,Machine Learning Engineer,90000,L
+SE,Business Intelligence Engineer,185900,M
+SE,Business Intelligence Engineer,129300,M
+SE,Data Engineer,225000,M
+SE,Data Engineer,175000,M
+SE,Data Engineer,185000,M
+SE,Data Engineer,140000,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+SE,Data Scientist,105000,M
+SE,Data Scientist,70000,M
+EN,Machine Learning Engineer,163196,M
+EN,Machine Learning Engineer,145885,M
+SE,Data Engineer,217000,M
+SE,Data Engineer,185000,M
+SE,Data Analyst,202800,L
+SE,Data Analyst,104300,L
+SE,Data Analyst,145000,M
+SE,Data Analyst,65000,M
+SE,Data Engineer,165000,M
+SE,Data Engineer,132300,M
+SE,Data Engineer,179170,M
+SE,Data Engineer,94300,M
+SE,Analytics Engineer,152500,M
+SE,Analytics Engineer,116450,M
+SE,Data Engineer,247300,M
+SE,Data Engineer,133800,M
+SE,Research Engineer,203000,M
+SE,Research Engineer,133000,M
+EN,Research Scientist,220000,L
+EN,Machine Learning Engineer,54000,S
+SE,Data Scientist,150000,M
+SE,Data Scientist,120000,M
+SE,Analytics Engineer,289800,M
+SE,Analytics Engineer,214000,M
+SE,Analytics Engineer,179820,M
+SE,Analytics Engineer,143860,M
+SE,Machine Learning Engineer,283200,M
+SE,Machine Learning Engineer,188800,M
+SE,Analytics Engineer,289800,M
+SE,Analytics Engineer,214200,M
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+MI,Data Analytics Manager,155000,M
+MI,Data Analytics Manager,140000,M
+SE,Data Engineer,161800,M
+SE,Data Engineer,141600,M
+SE,Machine Learning Engineer,342300,L
+SE,Machine Learning Engineer,176100,L
+MI,Data Engineer,100000,M
+MI,Data Engineer,70000,M
+EN,Data Engineer,85000,M
+EN,Data Engineer,65000,M
+SE,Data Scientist,138784,M
+SE,Data Scientist,83270,M
+EN,Data Analyst,75000,M
+EN,Data Analyst,70000,M
+SE,Data Analyst,204500,M
+SE,Data Analyst,138900,M
+SE,Machine Learning Engineer,318300,M
+SE,Machine Learning Engineer,212200,M
+SE,Data Engineer,95000,M
+SE,Data Engineer,75000,M
+SE,Data Scientist,195000,M
+SE,Data Scientist,160000,M
+SE,Analytics Engineer,230000,M
+SE,Analytics Engineer,143200,M
+MI,Data Engineer,100000,M
+MI,Data Engineer,70000,M
+MI,Business Data Analyst,105000,L
+MI,Applied Data Scientist,1700000,L
+MI,Data Analyst,38000,M
+MI,Data Analyst,35000,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,115000,M
+SE,Data Analyst,168400,M
+SE,Data Analyst,105200,M
+SE,Applied Scientist,309400,L
+SE,Applied Scientist,159100,L
+SE,Machine Learning Engineer,190000,M
+SE,Machine Learning Engineer,150000,M
+MI,Data Engineer,162500,M
+MI,Data Engineer,130000,M
+SE,Analytics Engineer,150000,M
+SE,Analytics Engineer,120000,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,120000,M
+SE,Applied Scientist,222200,L
+SE,Applied Scientist,136000,L
+SE,Data Analyst,45000,M
+SE,Data Analyst,35000,M
+SE,Data Engineer,241000,M
+SE,Data Engineer,155000,M
+SE,Data Engineer,220000,M
+SE,Data Engineer,190000,M
+MI,Data Scientist,55000,M
+MI,Data Scientist,45000,M
+EX,Staff Data Analyst,15000,M
+MI,ETL Engineer,70000,M
+MI,ETL Engineer,47500,M
+EN,Data Analyst,85000,M
+EN,Data Analyst,75000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,140000,M
+MI,Machine Learning Engineer,300000,M
+MI,Machine Learning Engineer,250000,M
+SE,Data Scientist,228000,M
+SE,Data Scientist,186000,M
+SE,Data Scientist,190000,M
+SE,Data Scientist,170000,M
+MI,Research Engineer,230000,M
+MI,Research Engineer,200000,M
+SE,Data Architect,180000,M
+SE,Data Architect,115000,M
+SE,Data Architect,200000,M
+SE,Data Architect,115000,M
+SE,Data DevOps Engineer,50000,S
+EX,Data Engineer,220000,M
+EX,Data Engineer,205000,M
+MI,Data Engineer,180000,M
+MI,Data Engineer,130000,M
+SE,Data Engineer,200000,M
+SE,Data Engineer,150000,M
+SE,Computer Vision Engineer,215000,M
+SE,Computer Vision Engineer,170000,M
+SE,Machine Learning Engineer,247500,M
+SE,Machine Learning Engineer,172200,M
+SE,Data Scientist,224000,M
+SE,Data Scientist,176000,M
+SE,Data Analyst,120000,M
+SE,Data Analyst,75000,M
+EN,Data Engineer,1400000,L
+SE,Applied Data Scientist,100000,M
+MI,AI Developer,100000,M
+SE,Data Analyst,140000,M
+SE,Data Analyst,120000,M
+SE,Data Engineer,128000,M
+SE,Data Engineer,81500,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,115000,M
+SE,Data Engineer,185000,M
+SE,Data Engineer,140000,M
+EX,Head of Data,329500,M
+EX,Head of Data,269600,M
+SE,Data Quality Analyst,100000,M
+SE,Data Quality Analyst,80000,M
+SE,Data Scientist,250000,M
+SE,Data Scientist,162500,M
+MI,AI Developer,200000,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,100000,M
+EX,Data Engineer,145000,M
+EX,Data Engineer,115000,M
+SE,Data Scientist,203500,M
+SE,Data Scientist,152000,M
+SE,Data Scientist,239000,L
+SE,Data Scientist,122900,L
+SE,Data Scientist,237000,M
+SE,Data Scientist,145000,M
+SE,Data Science Manager,191765,M
+SE,Data Science Manager,134236,M
+SE,Analytics Engineer,190000,M
+SE,Analytics Engineer,112000,M
+SE,Data Scientist,84000,L
+EN,Data Engineer,85000,M
+EN,Data Engineer,65000,M
+SE,Data Analyst,135000,M
+SE,Data Analyst,105500,M
+SE,Research Engineer,293000,M
+SE,Research Engineer,185000,M
+SE,Data Analyst,80000,M
+SE,Data Analyst,70000,M
+SE,Data Engineer,220000,M
+SE,Data Engineer,160000,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,145000,M
+SE,Data Analyst,200000,M
+SE,Data Analyst,148500,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+SE,Data Engineer,240500,L
+SE,Data Engineer,123700,L
+SE,Analytics Engineer,152900,M
+SE,Analytics Engineer,117100,M
+SE,Analytics Engineer,173000,M
+SE,Analytics Engineer,113000,M
+SE,Applied Scientist,260000,L
+SE,Applied Scientist,136000,L
+EX,Data Engineer,175000,M
+EX,Data Engineer,110000,M
+SE,Applied Scientist,260000,L
+SE,Applied Scientist,136000,L
+SE,Research Scientist,130000,M
+SE,Research Scientist,110000,M
+SE,Applied Scientist,205000,M
+SE,Applied Scientist,184000,M
+SE,Data Analyst,149500,M
+SE,Data Analyst,127075,M
+SE,Data Scientist,195000,M
+SE,Data Scientist,160000,M
+SE,Data Engineer,219535,M
+SE,Data Engineer,146115,M
+SE,Data Scientist,170000,M
+SE,Data Scientist,135000,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,145000,M
+SE,Data Scientist,199000,M
+SE,Data Scientist,162000,M
+SE,Applied Scientist,222200,L
+SE,Applied Scientist,136000,L
+EX,Analytics Engineer,221000,M
+EX,Analytics Engineer,153000,M
+SE,Data Analyst,187000,M
+SE,Data Analyst,128000,M
+SE,Research Scientist,210000,M
+SE,Research Scientist,136000,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,100000,M
+SE,Data Engineer,179000,M
+SE,Data Engineer,109000,M
+SE,Data Scientist,245000,M
+SE,Data Scientist,180000,M
+SE,Data Analyst,142000,M
+SE,Data Analyst,75000,M
+SE,Data Manager,198800,M
+SE,Data Manager,105200,M
+SE,Data Analyst,125000,M
+SE,Data Analyst,112000,M
+SE,Data Scientist,210000,M
+SE,Data Scientist,155000,M
+SE,Data Manager,115000,M
+SE,Data Manager,86000,M
+SE,Data Scientist,165000,M
+SE,Data Scientist,140000,M
+SE,Data Analyst,139000,M
+SE,Data Analyst,106000,M
+EN,Data Analyst,55000,L
+SE,AI Developer,275000,S
+SE,Machine Learning Researcher,50000,S
+MI,Machine Learning Engineer,280700,M
+MI,Machine Learning Engineer,150450,M
+EN,Data Scientist,70000,L
+SE,Data Architect,250500,M
+SE,Data Architect,159500,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,115000,M
+SE,Data Analyst,140000,M
+SE,Data Analyst,120000,M
+EN,Data Scientist,130001,M
+EN,Data Scientist,71907,M
+MI,Data Scientist,93918,M
+MI,Data Scientist,51962,M
+SE,Data Analyst,175000,M
+SE,Data Analyst,135000,M
+EN,Data Engineer,85000,M
+EN,Data Engineer,65000,M
+SE,Machine Learning Engineer,257000,M
+SE,Machine Learning Engineer,147000,M
+SE,Data Engineer,222000,M
+SE,Data Engineer,175000,M
+SE,Data Scientist,203000,M
+SE,Data Scientist,133200,M
+EN,Applied Scientist,213660,L
+EN,Applied Scientist,130760,L
+SE,Data Engineer,221000,M
+SE,Data Engineer,147000,M
+SE,Data Quality Analyst,100000,M
+SE,Data Quality Analyst,80000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Data Scientist,238000,M
+SE,Data Scientist,156000,M
+SE,Machine Learning Engineer,304000,M
+SE,Machine Learning Engineer,199000,M
+MI,Big Data Engineer,45000,M
+SE,Data Engineer,150000,M
+SE,Data Engineer,130000,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,110000,M
+MI,Data Analyst,90000,M
+MI,Data Analyst,75000,M
+MI,Research Scientist,161200,M
+MI,Research Scientist,84570,M
+SE,Data Engineer,240000,M
+SE,Data Engineer,183600,M
+MI,Data Specialist,130000,M
+MI,Data Specialist,80000,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,150000,M
+SE,Data Analytics Manager,160000,M
+SE,Data Analytics Manager,120000,M
+SE,Machine Learning Engineer,289076,M
+SE,Machine Learning Engineer,202353,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,120000,M
+SE,Data Analyst,155000,M
+SE,Data Analyst,106000,M
+SE,Data Engineer,200000,M
+SE,Data Engineer,160000,M
+SE,Data Scientist,157750,M
+SE,Data Scientist,104650,M
+MI,Data Scientist,180000,M
+MI,Data Scientist,140000,M
+EX,Data Scientist,200000,M
+EX,Data Scientist,145000,M
+MI,Lead Data Analyst,68000,L
+EN,BI Data Engineer,60000,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+EN,Data Engineer,85000,M
+EN,Data Engineer,65000,M
+MI,Data Engineer,125000,M
+MI,Data Engineer,90000,M
+SE,Data Analyst,105000,M
+SE,Data Analyst,90000,M
+SE,Analytics Engineer,179820,M
+SE,Analytics Engineer,143860,M
+SE,Data Analyst,135000,M
+SE,Data Analyst,105500,M
+EN,Research Engineer,155000,M
+EN,Research Engineer,125000,M
+SE,Machine Learning Engineer,241000,M
+SE,Machine Learning Engineer,181000,M
+SE,Data Scientist,252000,M
+SE,Data Scientist,154000,M
+EX,Data Architect,180000,M
+EX,Data Architect,155000,M
+SE,Data Scientist,191765,M
+SE,Data Scientist,134236,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,145000,M
+SE,Data Scientist,237000,M
+SE,Data Scientist,145000,M
+EN,Research Engineer,155000,M
+EN,Research Engineer,125000,M
+SE,Data Analyst,80000,M
+SE,Data Analyst,70000,M
+SE,Data Engineer,146000,M
+SE,Data Engineer,75000,M
+EN,Data Analyst,64200,M
+EN,Data Analyst,56100,M
+SE,Machine Learning Engineer,170000,M
+SE,Machine Learning Engineer,130000,M
+SE,Data Analyst,208450,M
+SE,Data Analyst,170550,M
+SE,Machine Learning Engineer,125000,M
+SE,Machine Learning Engineer,100000,M
+MI,Data Manager,135000,M
+MI,Data Manager,120000,M
+SE,Data Scientist,200000,M
+SE,Data Scientist,170000,M
+SE,Data Scientist,171250,M
+SE,Data Scientist,113750,M
+SE,Applied Scientist,222200,L
+SE,Applied Scientist,136000,L
+SE,Applied Scientist,260000,L
+SE,Applied Scientist,136000,L
+SE,Data Analyst,153600,M
+SE,Data Analyst,100500,M
+SE,Applied Scientist,205000,M
+SE,Applied Scientist,184000,M
+SE,Machine Learning Engineer,115000,M
+SE,Machine Learning Engineer,95000,M
+MI,Data Analyst,182500,M
+MI,Data Analyst,121500,M
+SE,Data Engineer,203100,M
+SE,Data Engineer,114500,M
+MI,Data Analyst,60000,M
+MI,Data Analyst,45000,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+EN,Data Engineer,92700,M
+EN,Data Engineer,61800,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,130000,M
+SE,Data Scientist,258000,M
+SE,Data Scientist,190000,M
+SE,Data Scientist,170000,M
+SE,Data Scientist,135000,M
+MI,Data Architect,167500,M
+MI,Data Architect,106500,M
+SE,Data Scientist,195000,M
+SE,Data Scientist,160000,M
+MI,Data Engineer,146000,M
+MI,Data Engineer,75000,M
+EN,Data Engineer,57000,L
+EX,Data Engineer,286000,M
+EX,Data Engineer,207000,M
+SE,Data Analyst,100000,M
+SE,Data Analyst,80000,M
+SE,Data Engineer,223250,M
+SE,Data Engineer,178600,M
+EX,Director of Data Science,353200,M
+EX,Director of Data Science,249300,M
+MI,Machine Learning Scientist,230000,M
+MI,Machine Learning Scientist,220000,M
+SE,Data Scientist,297300,M
+SE,Data Scientist,198200,M
+MI,Research Scientist,210000,M
+MI,Research Scientist,151800,M
+SE,Data Scientist,200000,M
+SE,Data Scientist,170000,M
+SE,Data Scientist,317070,M
+SE,Data Scientist,170730,M
+SE,Data Engineer,128000,M
+SE,Data Engineer,81500,M
+EN,Business Data Analyst,20000,M
+SE,AI Developer,108000,M
+SE,AI Developer,60000,M
+MI,MLOps Engineer,134000,M
+MI,MLOps Engineer,124000,M
+SE,Data Engineer,171250,M
+SE,Data Engineer,113750,M
+SE,Data Engineer,165000,M
+SE,Data Engineer,132300,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,175000,M
+SE,Data Engineer,230000,M
+SE,Data Engineer,124500,M
+SE,Machine Learning Engineer,247500,M
+SE,Machine Learning Engineer,172200,M
+SE,Data Analyst,175000,M
+SE,Data Analyst,145000,M
+SE,Data Analyst,148700,M
+SE,Data Analyst,125600,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,115000,M
+SE,Research Scientist,200000,M
+SE,Research Scientist,150000,M
+EN,Research Engineer,160000,M
+EN,Research Engineer,120000,M
+SE,Data Analyst,185000,M
+SE,Data Analyst,120250,M
+SE,Data Scientist,275300,M
+SE,Data Scientist,183000,M
+SE,Data Architect,170000,M
+SE,Data Architect,125000,M
+MI,Data Architect,167500,M
+MI,Data Architect,106500,M
+SE,Research Scientist,250000,M
+SE,Research Scientist,200000,M
+MI,Machine Learning Engineer,135000,L
+SE,AI Scientist,1500000,L
+SE,Machine Learning Engineer,216000,M
+SE,Machine Learning Engineer,184000,M
+SE,Data Engineer,180000,M
+SE,Data Engineer,165000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,120000,M
+MI,Data Engineer,143865,M
+MI,Data Engineer,115092,M
+MI,Machine Learning Engineer,130000,M
+MI,Machine Learning Engineer,90000,M
+SE,Data Scientist,173000,M
+SE,Data Scientist,132000,M
+SE,Data Analyst,208049,M
+SE,Data Analyst,128500,M
+SE,Analytics Engineer,179820,M
+SE,Analytics Engineer,143860,M
+SE,Data Engineer,167500,M
+SE,Data Engineer,106500,M
+SE,Data Scientist,275300,M
+SE,Data Scientist,183500,M
+MI,Data Engineer,149600,M
+MI,Data Engineer,102000,M
+EX,Data Scientist,145000,M
+EX,Data Scientist,100000,M
+SE,Data Analyst,190000,M
+SE,Data Analyst,95000,M
+SE,Data Analyst,153600,M
+SE,Data Analyst,106800,M
+MI,Data Scientist,90000,M
+MI,Data Scientist,75000,M
+MI,Data Analyst,128000,M
+MI,Data Analyst,85000,M
+MI,Data Engineer,151000,M
+MI,Data Engineer,140000,M
+SE,Data Scientist,275300,M
+SE,Data Scientist,183500,M
+SE,Machine Learning Scientist,220000,M
+SE,Machine Learning Scientist,170000,M
+SE,Data Analyst,135000,M
+SE,Data Analyst,105500,M
+SE,Data Analyst,100000,M
+SE,Data Analyst,80000,M
+EN,Autonomous Vehicle Technician,7000,S
+EN,Applied Machine Learning Scientist,40000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,145000,M
+MI,Data Analyst,154000,M
+MI,Data Analyst,143000,M
+MI,Data Scientist,65000,M
+MI,Data Scientist,42000,M
+EN,Data Scientist,190000,M
+EN,Data Scientist,120000,M
+MI,Data Scientist,70000,M
+MI,Data Scientist,42000,M
+MI,Data Scientist,90000,M
+MI,Data Scientist,60000,M
+SE,Data Engineer,150000,M
+SE,Data Engineer,111000,M
+EX,Data Engineer,265000,M
+EX,Data Engineer,235000,M
+EN,Data Scientist,112000,L
+MI,Data Scientist,70000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,130000,M
+MI,Data Engineer,75000,M
+MI,Data Engineer,60400,M
+EN,Data Analyst,85000,M
+EN,Data Analyst,75000,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+EN,Data Engineer,92700,M
+EN,Data Engineer,61800,M
+SE,Lead Data Scientist,164000,L
+MI,Data Scientist,56000,M
+MI,Data Analyst,83500,M
+MI,Data Analyst,52500,M
+SE,Data Scientist,201036,M
+SE,Data Scientist,134024,M
+SE,Data Analyst,165000,M
+SE,Data Analyst,140000,M
+EN,Data Engineer,62000,M
+EN,Data Engineer,58000,M
+SE,Data Scientist,172000,M
+SE,Data Scientist,115000,M
+EN,Data Engineer,125000,M
+EN,Data Engineer,90000,M
+SE,Data Engineer,163800,M
+SE,Data Engineer,126000,M
+SE,Data Scientist,237000,M
+SE,Data Scientist,145000,M
+MI,Data Engineer,90000,M
+MI,Data Engineer,90000,M
+SE,Data Engineer,139500,M
+SE,Data Engineer,109400,M
+SE,Data Scientist,258000,M
+SE,Data Scientist,190000,M
+MI,Data Engineer,145000,M
+MI,Data Engineer,120000,M
+SE,Data Engineer,205600,L
+SE,Data Engineer,105700,L
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+SE,Data Scientist,239748,M
+SE,Data Scientist,159832,M
+SE,Data Scientist,186300,M
+SE,Data Scientist,102500,M
+SE,Data Engineer,165000,M
+SE,Data Engineer,132300,M
+SE,Data Scientist,190000,M
+SE,Data Scientist,126000,M
+SE,Data Architect,149040,M
+SE,Data Architect,113900,M
+SE,Data Engineer,153600,M
+SE,Data Engineer,106800,M
+SE,Data Engineer,172600,M
+SE,Data Engineer,107900,M
+SE,Data Analyst,180180,M
+SE,Data Analyst,106020,M
+SE,Data Architect,376080,M
+SE,Data Architect,213120,M
+SE,Data Analyst,153600,M
+SE,Data Analyst,100500,M
+SE,Data Analyst,206500,M
+SE,Data Analyst,121600,M
+SE,Data Engineer,260000,M
+SE,Data Engineer,225000,M
+EX,Data Engineer,194500,M
+EX,Data Engineer,115500,M
+SE,Cloud Database Engineer,170000,L
+SE,Applied Machine Learning Scientist,90000,L
+EN,Data Analyst,95000,M
+EN,Data Analyst,70000,M
+SE,Data Engineer,275000,M
+SE,Data Engineer,160000,M
+SE,Data Analyst,115934,M
+SE,Data Analyst,81666,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,120000,M
+SE,Machine Learning Engineer,150000,M
+SE,Machine Learning Engineer,120000,M
+SE,Research Engineer,200000,M
+SE,Research Engineer,175000,M
+MI,Data Analyst,206000,M
+MI,Data Analyst,130000,M
+SE,Data Architect,138000,M
+SE,Data Architect,92000,M
+SE,Data Manager,65000,M
+SE,Data Manager,48000,M
+SE,Data Analyst,110000,M
+SE,Data Analyst,75000,M
+SE,Analytics Engineer,130000,M
+SE,Analytics Engineer,87000,M
+MI,Data Analyst,160000,M
+MI,Data Analyst,112000,M
+MI,Data Engineer,162500,M
+MI,Data Engineer,130000,M
+SE,Data Science Manager,299500,M
+SE,Data Science Manager,245100,M
+MI,Data Scientist,145000,M
+MI,Data Scientist,100000,M
+SE,Data Engineer,147100,M
+SE,Data Engineer,90700,M
+EN,Data Engineer,115100,M
+EN,Data Engineer,73900,M
+SE,Data Engineer,168400,M
+SE,Data Engineer,105200,M
+SE,Data Scientist,210000,M
+SE,Data Scientist,160000,M
+MI,Data Scientist,145000,M
+MI,Data Scientist,100000,M
+SE,Applied Scientist,222200,L
+SE,Applied Scientist,136000,L
+MI,Data Analyst,100000,M
+MI,Data Analyst,85000,M
+MI,Data Engineer,70000,M
+MI,Data Engineer,47500,M
+EX,Data Scientist,200000,M
+EX,Data Scientist,145000,M
+MI,Data Engineer,140000,M
+MI,Data Engineer,95000,M
+SE,Data Analyst,185000,M
+SE,Data Analyst,120250,M
+MI,Financial Data Analyst,130000,L
+SE,Data Scientist,205000,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,297300,M
+SE,Data Scientist,198200,M
+SE,Research Scientist,141288,M
+SE,Research Scientist,94192,M
+SE,Data Infrastructure Engineer,184000,M
+SE,Data Infrastructure Engineer,143000,M
+SE,Data Analyst,70000,M
+SE,Data Analyst,55000,M
+SE,Analytics Engineer,275300,M
+SE,Analytics Engineer,183500,M
+MI,Data Analyst,75000,M
+MI,Data Analyst,65000,M
+MI,ML Engineer,160000,M
+MI,ML Engineer,147000,M
+SE,Data Architect,149040,M
+SE,Data Architect,113900,M
+MI,Software Data Engineer,100000,L
+SE,Data Analyst,180180,M
+SE,Data Analyst,106020,M
+MI,Data Scientist,1400000,L
+EN,AI Programmer,70000,L
+EN,AI Developer,80000,M
+MI,Lead Data Analyst,1500000,L
+MI,Machine Learning Engineer,250000,M
+MI,Machine Learning Engineer,150000,M
+SE,Data Engineer,139500,M
+SE,Data Engineer,109400,M
+SE,Data Scientist,105000,M
+SE,Data Scientist,70000,M
+EX,Data Engineer,210914,M
+EX,Data Engineer,116704,M
+EN,Research Scientist,150000,M
+EN,Research Scientist,100000,M
+SE,Data Engineer,146000,M
+SE,Data Engineer,75000,M
+EN,Data Analyst,75000,M
+EN,Data Analyst,60000,M
+MI,Analytics Engineer,185700,M
+MI,Analytics Engineer,165000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,130000,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+SE,Data Operations Engineer,193000,M
+SE,Data Operations Engineer,136850,M
+SE,Machine Learning Engineer,139500,M
+SE,Machine Learning Engineer,109400,M
+SE,Data Engineer,276000,M
+SE,Data Engineer,178500,M
+MI,Data Scientist,55000,M
+MI,Data Scientist,45000,M
+MI,Data Engineer,70000,M
+MI,Data Engineer,45000,M
+SE,Machine Learning Engineer,161000,M
+SE,Machine Learning Engineer,83300,M
+SE,Data Engineer,112700,M
+SE,Data Engineer,83300,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+SE,BI Developer,130000,L
+MI,Data Science Lead,150000,M
+SE,Data Engineer,163800,M
+SE,Data Engineer,126000,M
+SE,ML Engineer,260000,M
+SE,ML Engineer,110000,M
+SE,Analytics Engineer,170000,M
+SE,Analytics Engineer,130000,M
+SE,Machine Learning Engineer,247500,M
+SE,Machine Learning Engineer,172200,M
+SE,Data Scientist,239748,M
+SE,Data Scientist,159832,M
+SE,Machine Learning Engineer,163800,M
+SE,Machine Learning Engineer,126000,M
+MI,Data Scientist,128750,M
+MI,Data Scientist,106250,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+SE,Data Science Manager,299500,M
+SE,Data Science Manager,245100,M
+MI,Data Analytics Manager,155000,M
+MI,Data Analytics Manager,140000,M
+EX,Data Engineer,167500,M
+EX,Data Engineer,106500,M
+SE,Data Architect,188500,M
+SE,Data Architect,117000,M
+SE,Data Analyst,250000,M
+SE,Data Analyst,138000,M
+MI,Data Analyst,130000,M
+MI,Data Analyst,100000,M
+SE,Deep Learning Researcher,115000,L
+SE,Data Engineer,140000,M
+SE,Data Engineer,120000,M
+SE,BI Analyst,160000,M
+SE,BI Analyst,135000,M
+MI,Data Science Manager,104500,M
+MI,Data Science Manager,70000,M
+MI,Data Science Consultant,90000,M
+MI,Data Science Consultant,70000,M
+SE,Data Engineer,153600,M
+SE,Data Engineer,106800,M
+EN,Data Engineer,125000,M
+EN,Data Engineer,90000,M
+MI,Research Scientist,185000,M
+MI,Research Scientist,125000,M
+SE,Data Analyst,127000,M
+SE,Data Analyst,94000,M
+SE,Data Scientist,210550,M
+SE,Data Scientist,153300,M
+MI,Data Scientist,200000,M
+MI,Data Scientist,150000,M
+SE,Data Analyst,161500,M
+SE,Data Analyst,119500,M
+SE,Data Analyst,175000,M
+SE,Data Analyst,145000,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,148750,M
+SE,Data Analytics Specialist,105000,M
+SE,Data Analytics Specialist,85000,M
+SE,Research Scientist,215000,M
+SE,Research Scientist,146300,M
+EN,AI Developer,200000,L
+MI,Data Engineer,72000,M
+MI,Data Engineer,60000,M
+SE,Machine Learning Engineer,153400,M
+SE,Machine Learning Engineer,122700,M
+MI,Data Engineer,260000,M
+MI,Data Engineer,175000,M
+SE,Data Scientist,186300,M
+SE,Data Scientist,123900,M
+MI,Research Scientist,340000,M
+MI,Research Scientist,150000,M
+SE,Machine Learning Engineer,153400,M
+SE,Machine Learning Engineer,122700,M
+MI,Data Engineer,250000,M
+MI,Data Engineer,175000,M
+MI,Data Scientist,60000,M
+SE,Data Analyst,185900,M
+SE,Data Analyst,121700,M
+SE,Data Analyst,153600,M
+SE,Data Analyst,106800,M
+SE,Software Data Engineer,50000,M
+EN,Data Analyst,100000,L
+SE,Machine Learning Engineer,247500,M
+SE,Machine Learning Engineer,172200,M
+EX,Data Engineer,310000,M
+EX,Data Engineer,239000,M
+SE,Data Analyst,125000,M
+SE,Data Analyst,110000,M
+EN,Data Analyst,150000,M
+EN,Data Analyst,100000,M
+SE,Data Scientist,149076,M
+SE,Data Scientist,82365,M
+MI,Data Engineer,146000,M
+MI,Data Engineer,75000,M
+SE,Machine Learning Engineer,139500,M
+SE,Machine Learning Engineer,109400,M
+SE,Data Engineer,139500,M
+SE,Data Engineer,109400,M
+MI,Data Engineer,149600,M
+MI,Data Engineer,102000,M
+MI,Data Analyst,80000,M
+MI,Data Analyst,40000,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+SE,Data Analyst,95000,M
+SE,Data Analyst,85500,M
+SE,Data Analyst,185900,M
+SE,Data Analyst,121700,M
+EN,Research Scientist,150000,M
+EN,Research Scientist,100000,M
+MI,Data Engineer,145000,M
+MI,Data Engineer,125000,M
+MI,Data Scientist,150000,M
+MI,Data Scientist,97750,M
+SE,Data Scientist,201000,M
+SE,Data Scientist,122000,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+SE,Data Analyst,120000,M
+SE,Data Analyst,75000,M
+MI,Data Scientist,116990,M
+MI,Data Scientist,82920,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+MI,Machine Learning Scientist,200000,S
+MI,Machine Learning Scientist,125000,S
+SE,Data Scientist,201000,M
+SE,Data Scientist,122000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+SE,Data Manager,155000,M
+SE,Data Manager,140000,M
+MI,Machine Learning Infrastructure Engineer,205920,M
+MI,Machine Learning Infrastructure Engineer,171600,M
+SE,Data Engineer,121500,M
+SE,Data Engineer,78000,M
+MI,Data Engineer,154000,M
+MI,Data Engineer,116000,M
+SE,Data Scientist,190000,M
+SE,Data Scientist,136000,M
+MI,Data Analyst,65000,M
+MI,Data Analyst,36050,M
+SE,Data Analyst,180000,M
+SE,Data Analyst,110000,M
+SE,Data Scientist,275300,M
+SE,Data Scientist,183000,M
+SE,Data Engineer,170000,M
+SE,Data Engineer,140000,M
+SE,Data Engineer,154000,M
+SE,Data Engineer,116000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,130000,M
+MI,Data Engineer,200000,M
+MI,Data Engineer,120000,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,160000,M
+MI,Data Engineer,105000,M
+MI,Data Engineer,85000,M
+SE,Data Engineer,153600,M
+SE,Data Engineer,106800,M
+EN,Data Analyst,85000,M
+EN,Data Analyst,75000,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+SE,Analytics Engineer,150000,M
+SE,Analytics Engineer,120000,M
+SE,Machine Learning Engineer,163800,M
+SE,Machine Learning Engineer,126000,M
+SE,Data Analyst,145000,M
+SE,Data Analyst,90000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+SE,Data Analyst,95000,M
+SE,Data Analyst,85500,M
+SE,Data Engineer,167500,M
+SE,Data Engineer,106500,M
+SE,Data Engineer,163800,M
+SE,Data Engineer,126000,M
+MI,Data Analytics Manager,155000,M
+MI,Data Analytics Manager,140000,M
+SE,Research Scientist,250000,M
+SE,Research Scientist,200000,M
+SE,Data Scientist,260000,M
+SE,Data Scientist,186000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,130000,M
+SE,Research Scientist,200000,M
+SE,Research Scientist,150000,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+SE,Data Scientist,150000,M
+SE,Data Scientist,120000,M
+EN,Data Analyst,30000,M
+MI,Research Scientist,185000,M
+MI,Research Scientist,125000,M
+EN,Data Analyst,34320,S
+MI,Business Data Analyst,48000,M
+SE,Head of Data,70000,L
+EX,Data Science Manager,106000,L
+SE,Data Analyst,175000,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,122000,M
+SE,Data Analyst,93800,M
+SE,Data Science Manager,150000,M
+SE,Data Science Manager,90000,M
+SE,Data Analyst,165000,M
+SE,Data Analyst,112000,M
+EN,Computer Vision Engineer,220000,M
+SE,BI Data Analyst,67000,M
+EN,AI Developer,60000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+SE,Data Analyst,1300000,S
+MI,Machine Learning Engineer,200000,M
+MI,Machine Learning Engineer,175000,M
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+SE,Data Analyst,185900,M
+SE,Data Analyst,121700,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+MI,Data Scientist,40000,L
+SE,Data Science Consultant,1000000,M
+SE,Data Analyst,180180,M
+SE,Data Analyst,106020,M
+SE,Data Scientist,136000,M
+SE,Data Scientist,104000,M
+SE,Data Analyst,125000,M
+SE,Data Analyst,110000,M
+SE,Machine Learning Engineer,153400,M
+SE,Machine Learning Engineer,122700,M
+EX,Data Engineer,310000,M
+EX,Data Engineer,239000,M
+SE,Data Analyst,152380,M
+SE,Data Analyst,121904,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Machine Learning Engineer,247500,M
+SE,Machine Learning Engineer,172200,M
+SE,Data Architect,168400,M
+SE,Data Architect,105200,M
+SE,Machine Learning Engineer,128280,M
+SE,Machine Learning Engineer,106900,M
+SE,Lead Data Scientist,192000,L
+MI,Data Engineer,140000,M
+MI,Data Engineer,100000,M
+SE,Research Engineer,100000,S
+SE,Research Engineer,80000,S
+SE,Machine Learning Engineer,275000,M
+SE,Machine Learning Engineer,174000,M
+SE,Data Engineer,139500,M
+SE,Data Engineer,109400,M
+SE,Machine Learning Engineer,139500,M
+SE,Machine Learning Engineer,109400,M
+SE,Data Analyst,170500,M
+SE,Data Analyst,85000,M
+SE,Data Manager,60027,M
+SE,Data Manager,44737,M
+EX,Head of Data Science,131899,M
+EX,Head of Data Science,104891,M
+SE,Data Engineer,80000,M
+SE,Data Engineer,65000,M
+SE,Data Engineer,124740,M
+SE,Data Engineer,65488,M
+SE,Data Quality Analyst,72200,M
+SE,Data Quality Analyst,64980,M
+SE,Data Engineer,153600,M
+SE,Data Engineer,106800,M
+SE,Data Analyst,179975,M
+SE,Data Analyst,86466,M
+SE,Data Engineer,120000,M
+SE,Data Engineer,90000,M
+MI,Insight Analyst,42000,M
+MI,Insight Analyst,35000,M
+SE,Data Scientist,149076,M
+SE,Data Scientist,82365,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+SE,Data Science Manager,175000,M
+SE,Data Science Manager,120000,M
+SE,Data Analyst,230000,M
+SE,Data Analyst,180000,M
+SE,Data Analyst,153600,M
+SE,Data Analyst,106800,M
+SE,Data Manager,140000,M
+SE,Data Manager,120000,M
+SE,Machine Learning Infrastructure Engineer,205920,M
+SE,Machine Learning Infrastructure Engineer,171600,M
+SE,Data Analyst,165000,M
+SE,Data Analyst,125000,M
+SE,Data Engineer,265000,M
+SE,Data Engineer,185000,M
+MI,Applied Machine Learning Engineer,130000,M
+EN,Data Scientist,168000,M
+MI,AI Scientist,36000,L
+SE,Data Analyst,95000,M
+SE,Data Analyst,85500,M
+SE,Data Scientist,147100,M
+SE,Data Scientist,90700,M
+SE,Data Engineer,167580,M
+SE,Data Engineer,87980,M
+SE,Data Engineer,202000,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,163800,M
+SE,Data Engineer,126000,M
+SE,Machine Learning Engineer,163800,M
+SE,Machine Learning Engineer,126000,M
+SE,Data Engineer,104000,M
+SE,Data Engineer,65000,M
+SE,Research Engineer,230000,M
+SE,Research Engineer,148000,M
+SE,Machine Learning Engineer,269000,M
+SE,Machine Learning Engineer,158000,M
+SE,Analytics Engineer,197000,M
+SE,Analytics Engineer,106000,M
+MI,Deep Learning Engineer,150000,M
+MI,Deep Learning Engineer,100000,M
+SE,Data Engineer,290000,M
+SE,Data Engineer,210000,M
+SE,Data Engineer,192000,M
+SE,Data Engineer,172800,M
+SE,Data Scientist,300240,M
+SE,Data Scientist,200160,M
+SE,Data Scientist,300240,M
+SE,Data Scientist,200160,M
+SE,Analytics Engineer,175000,M
+SE,Analytics Engineer,140000,M
+SE,Data Manager,169000,M
+SE,Data Manager,100000,M
+SE,Data Scientist,370000,M
+SE,Data Scientist,245000,M
+MI,Data Engineer,95000,L
+SE,Data Analyst,110000,S
+SE,Data Analyst,80000,S
+EN,Data Analyst,55000,M
+EN,Data Analyst,48000,M
+SE,Data Analyst,95000,M
+SE,Data Analyst,85000,M
+SE,Data Engineer,137500,M
+SE,Data Engineer,81500,M
+SE,Machine Learning Engineer,323300,M
+SE,Machine Learning Engineer,184700,M
+MI,AI Scientist,30000,S
+SE,Machine Learning Engineer,186000,M
+SE,Machine Learning Engineer,153088,M
+MI,Data Infrastructure Engineer,190000,M
+MI,Data Infrastructure Engineer,160000,M
+SE,Machine Learning Engineer,200000,M
+SE,Machine Learning Engineer,150000,M
+MI,Data Infrastructure Engineer,190000,M
+MI,Data Infrastructure Engineer,183310,M
+SE,Machine Learning Engineer,240000,M
+SE,Machine Learning Engineer,180000,M
+SE,Machine Learning Engineer,200000,M
+SE,Machine Learning Engineer,150000,M
+SE,Data Science Manager,299500,M
+SE,Data Science Manager,245100,M
+SE,Data Engineer,144000,M
+SE,Data Engineer,66000,M
+MI,Machine Learning Engineer,148500,M
+MI,Machine Learning Engineer,126277,M
+SE,Data Architect,228000,M
+SE,Data Architect,120000,M
+SE,Machine Learning Software Engineer,180000,M
+SE,Machine Learning Software Engineer,90000,M
+SE,Data Scientist,126500,M
+SE,Data Scientist,78000,M
+SE,Data Engineer,180000,M
+SE,Data Engineer,160000,M
+SE,Machine Learning Software Engineer,272000,M
+SE,Machine Learning Software Engineer,170000,M
+MI,Data Analyst,80000,M
+MI,Data Analyst,60000,M
+SE,Data Engineer,259000,M
+SE,Data Engineer,146000,M
+SE,Data Engineer,200000,M
+SE,Data Engineer,160000,M
+EX,Data Engineer,310000,M
+EX,Data Engineer,239000,M
+SE,Data Analyst,142000,M
+SE,Data Analyst,95000,M
+SE,Data Scientist,155000,M
+SE,Data Scientist,139500,M
+MI,Data Engineer,140000,M
+MI,Data Engineer,120000,M
+SE,Data Engineer,259000,M
+SE,Data Engineer,146000,M
+MI,Data Analyst,90000,M
+MI,Data Analyst,60000,M
+EN,Data Analyst,78000,L
+EN,Data Scientist,101400,L
+SE,Data Science Lead,247500,M
+SE,Data Science Lead,172200,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+SE,Data Engineer,139500,M
+SE,Data Engineer,109400,M
+MI,Data Engineer,125000,M
+MI,Data Engineer,90000,M
+SE,Machine Learning Infrastructure Engineer,100000,M
+SE,Machine Learning Infrastructure Engineer,70000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Machine Learning Engineer,139500,M
+SE,Machine Learning Engineer,109400,M
+SE,Data Analyst,120000,M
+SE,Data Analyst,75000,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+SE,Machine Learning Engineer,288000,M
+SE,Machine Learning Engineer,140000,M
+SE,Machine Learning Engineer,288000,M
+SE,Machine Learning Engineer,140000,M
+MI,Data Engineer,120000,M
+MI,Data Engineer,90000,M
+MI,Data Science Lead,60000,M
+MI,Data Science Lead,50000,M
+SE,Data Scientist,215050,M
+SE,Data Scientist,156400,M
+SE,Data Architect,198000,M
+SE,Data Architect,114000,M
+EN,Data Analyst,75000,M
+EN,Data Analyst,60000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+SE,Data Scientist,209300,M
+SE,Data Scientist,182200,M
+SE,Data Manager,140000,M
+SE,Data Manager,120000,M
+EN,Data Scientist,85000,M
+MI,Machine Learning Engineer,40000,M
+EN,Research Engineer,120000,M
+EN,Research Engineer,60000,M
+SE,Machine Learning Engineer,147100,M
+SE,Machine Learning Engineer,90700,M
+SE,Data Engineer,230000,M
+SE,Data Engineer,170000,M
+SE,Data Analyst,227000,M
+SE,Data Analyst,108000,M
+SE,Data Engineer,180000,M
+SE,Data Engineer,160000,M
+SE,Data Architect,180000,M
+SE,Data Architect,160000,M
+SE,Data Engineer,180000,M
+SE,Data Engineer,130000,M
+SE,Data Analyst,52000,M
+SE,Data Analyst,48000,M
+EN,Data Analyst,60000,L
+EN,Data Analyst,50000,L
+SE,Data Engineer,226700,M
+SE,Data Engineer,133300,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+SE,Big Data Architect,124999,L
+EN,Data Scientist,800000,L
+SE,Data Analyst,80000,M
+SE,Data Analyst,52500,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,162500,M
+EN,Data Analyst,85000,M
+EN,Data Analyst,75000,M
+SE,Data Analyst,153600,M
+SE,Data Analyst,106800,M
+MI,Data Analyst,165000,M
+MI,Data Analyst,124000,M
+SE,Data Analyst,115934,M
+SE,Data Analyst,81666,M
+SE,Data Engineer,167580,M
+SE,Data Engineer,87980,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,63000,M
+SE,Research Scientist,253750,M
+SE,Research Scientist,169200,M
+SE,Research Scientist,253750,M
+SE,Research Scientist,169200,M
+MI,Data Scientist,170000,M
+MI,Data Scientist,120000,M
+SE,Data Engineer,124740,M
+SE,Data Engineer,65488,M
+SE,Data Engineer,213580,M
+SE,Data Engineer,163625,M
+EN,Data Engineer,12000,L
+SE,Machine Learning Software Engineer,375000,M
+SE,Data Engineer,95000,M
+MI,Product Data Analyst,1350000,L
+SE,Machine Learning Engineer,220000,M
+SE,Machine Learning Engineer,170000,M
+EX,Data Engineer,235000,M
+EX,Data Engineer,210000,M
+SE,Data Architect,180000,M
+SE,Data Architect,115000,M
+SE,Data Architect,200000,M
+SE,Data Architect,115000,M
+SE,Data Science Manager,231250,M
+SE,Data Science Manager,138750,M
+SE,Machine Learning Engineer,284310,M
+SE,Machine Learning Engineer,153090,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,75000,M
+MI,Data Analyst,125000,M
+MI,Data Analyst,105000,M
+MI,Data Analyst,90000,M
+MI,Data Analyst,70000,M
+EN,Data Analyst,55000,M
+EN,Data Analyst,48000,M
+EN,Data Analyst,100000,M
+SE,Data Science Lead,225900,M
+SE,Data Science Lead,156400,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,162500,M
+SE,Machine Learning Engineer,318300,M
+SE,Machine Learning Engineer,188800,M
+SE,Data Analyst,385000,M
+SE,Data Analyst,60000,M
+MI,Data Analyst,110000,M
+MI,Data Analyst,95000,M
+SE,Data Scientist,145000,M
+SE,Data Scientist,135000,M
+SE,Data Analyst,180180,M
+SE,Data Analyst,106020,M
+SE,Data Analyst,93919,M
+SE,Data Analyst,51962,M
+SE,Data Engineer,241871,M
+SE,Data Engineer,133832,M
+SE,Data Scientist,170000,M
+SE,Data Scientist,90000,M
+EX,Data Engineer,210914,M
+EX,Data Engineer,116704,M
+SE,Data Analyst,192500,M
+SE,Data Analyst,140000,M
+SE,Data Scientist,149076,M
+SE,Data Scientist,82365,M
+MI,Machine Learning Engineer,36000,S
+SE,Data Scientist,175000,M
+SE,Data Scientist,148750,M
+SE,Research Scientist,370000,M
+SE,Research Scientist,200000,M
+SE,Data Scientist,235000,M
+SE,Data Scientist,185000,M
+MI,Machine Learning Engineer,100000,M
+MI,Machine Learning Engineer,80000,M
+SE,Data Scientist,216100,M
+SE,Data Scientist,140800,M
+MI,Machine Learning Engineer,120000,M
+MI,Machine Learning Engineer,100000,M
+SE,Computer Vision Software Engineer,50000,L
+EN,Data Scientist,110000,S
+SE,Data Engineer,128000,M
+SE,Data Engineer,81500,M
+MI,Data Engineer,55000,M
+MI,Data Engineer,52000,M
+MI,Data Analyst,50000,M
+MI,Data Analyst,45000,M
+EX,Data Engineer,284000,M
+EX,Data Engineer,236000,M
+SE,Research Scientist,248100,M
+SE,Research Scientist,145900,M
+SE,Research Engineer,155850,M
+SE,Research Engineer,102544,M
+MI,Data Scientist,151410,M
+MI,Data Scientist,115360,M
+MI,Data Engineer,62000,M
+MI,Data Engineer,55000,M
+SE,Director of Data Science,170000,M
+SE,Azure Data Engineer,100000,L
+EN,Data Scientist,1050000,L
+SE,Data Scientist,250000,M
+SE,Data Scientist,162500,M
+SE,Data Scientist,185000,M
+SE,Data Scientist,120250,M
+EN,Data Engineer,25000,L
+EN,Data Scientist,180000,M
+MI,Research Scientist,85000,M
+MI,Research Scientist,70000,M
+SE,BI Developer,135000,M
+SE,BI Developer,100000,M
+EX,Data Analytics Manager,155000,M
+EX,Data Analytics Manager,140000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+SE,Data Engineer,226700,M
+SE,Data Engineer,133300,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+SE,Data Engineer,163800,M
+SE,Data Engineer,126000,M
+SE,Machine Learning Engineer,163800,M
+SE,Machine Learning Engineer,126000,M
+SE,ML Engineer,220000,M
+SE,ML Engineer,150000,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,115000,M
+SE,Data Analytics Manager,204500,M
+SE,Data Analytics Manager,138900,M
+MI,Data Engineer,162500,M
+MI,Data Engineer,130000,M
+SE,Data Engineer,150000,M
+SE,Data Engineer,107000,M
+EX,Data Engineer,175000,M
+EX,Data Engineer,110000,M
+SE,Data Engineer,226700,M
+SE,Data Engineer,133300,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+SE,Machine Learning Engineer,150000,M
+SE,Machine Learning Engineer,125000,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+MI,Research Scientist,23000,L
+MI,Machine Learning Engineer,110000,L
+SE,Data Engineer,265000,M
+SE,Data Engineer,182750,M
+MI,Data Analyst,130000,M
+MI,Data Analyst,100000,M
+SE,Data Analyst,153600,M
+SE,Data Analyst,106800,M
+SE,Data Engineer,137500,M
+SE,Data Engineer,81500,M
+EX,Head of Data Science,314100,M
+EX,Head of Data Science,195800,M
+SE,Applied Scientist,205000,M
+SE,Applied Scientist,180000,M
+SE,Data Scientist,165000,M
+SE,Data Scientist,144000,M
+EN,BI Developer,160000,M
+EN,BI Developer,100000,M
+EX,Data Engineer,200000,M
+EX,Data Engineer,145000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Data Manager,199000,M
+SE,Data Manager,112000,M
+SE,Data Scientist,105000,M
+SE,Data Scientist,70000,M
+EN,Big Data Engineer,130000,S
+SE,Data Analyst,180180,M
+SE,Data Analyst,106020,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+SE,Data Scientist,183000,M
+SE,Data Scientist,134000,M
+SE,Machine Learning Engineer,220000,M
+SE,Machine Learning Engineer,150000,M
+SE,Applied Scientist,350000,L
+SE,Applied Scientist,262500,L
+SE,Data Analyst,122000,M
+SE,Data Analyst,94000,M
+SE,Machine Learning Engineer,276000,M
+SE,Machine Learning Engineer,184000,M
+EX,Data Engineer,310000,M
+EX,Data Engineer,239000,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+MI,Machine Learning Engineer,180000,M
+MI,Machine Learning Engineer,150000,M
+SE,Data Scientist,228000,M
+SE,Data Scientist,152000,M
+SE,Data Scientist,209450,M
+SE,Data Scientist,158677,M
+SE,Data Analyst,175000,M
+SE,Data Analyst,145000,M
+SE,Data Engineer,240000,M
+SE,Data Engineer,170000,M
+MI,Data Analyst,103200,M
+MI,Data Analyst,61200,M
+MI,Data Scientist,155000,L
+EN,Marketing Data Engineer,90000,L
+SE,Data Scientist,59000,L
+SE,Data Scientist,237000,M
+SE,Data Scientist,145000,M
+SE,Data Scientist,240000,M
+SE,Data Scientist,139000,M
+SE,Data Architect,174500,M
+SE,Data Architect,113000,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,87000,M
+SE,Data Analyst,160000,M
+SE,Data Analyst,108000,M
+SE,Data Engineer,165000,M
+SE,Data Engineer,107250,M
+SE,Data Engineer,300000,M
+SE,Data Engineer,119000,M
+SE,Data Scientist,285800,M
+SE,Data Scientist,154600,M
+MI,Head of Data Science,5000000,L
+EN,Data Analyst,30000,S
+MI,Data Science Manager,220000,M
+MI,Data Science Manager,195000,M
+SE,Data Manager,168400,M
+SE,Data Manager,105200,M
+MI,Data Analyst,206000,M
+MI,Data Analyst,160000,M
+SE,Analytics Engineer,200000,M
+SE,Analytics Engineer,175000,M
+SE,Analytics Engineer,231250,M
+SE,Analytics Engineer,138750,M
+SE,Data Engineer,153000,M
+SE,Data Engineer,94000,M
+SE,Data Engineer,240500,L
+SE,Data Engineer,123700,L
+SE,Data Engineer,160000,M
+SE,Data Engineer,90000,M
+EN,Data Scientist,124234,M
+EN,Data Scientist,74540,M
+MI,Data Analyst,109000,M
+MI,Data Analyst,79000,M
+SE,Machine Learning Engineer,80000,L
+MI,Machine Learning Engineer,50000,S
+SE,Data Scientist,275300,M
+SE,Data Scientist,183500,M
+SE,Data Scientist,275300,M
+SE,Data Scientist,183500,M
+SE,Data Analyst,160000,M
+SE,Data Analyst,125600,M
+SE,Data Engineer,170000,M
+SE,Data Engineer,120000,M
+SE,Data Engineer,225000,M
+SE,Data Engineer,140000,M
+SE,Data Analyst,141290,M
+SE,Data Analyst,74178,M
+SE,Data Scientist,150000,M
+SE,Data Scientist,120000,M
+SE,Data Engineer,85000,M
+SE,Data Engineer,75000,M
+SE,Data Engineer,220000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,205600,M
+SE,Data Engineer,107500,M
+MI,Data Engineer,120000,M
+MI,Data Engineer,95000,M
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,130000,M
+EN,Data Scientist,1060000,S
+MI,Data Engineer,250000,M
+MI,Data Engineer,175000,M
+SE,Data Scientist,136000,M
+SE,Data Scientist,104000,M
+MI,Data Analyst,80000,M
+MI,Data Analyst,52500,M
+SE,Data Scientist,110000,M
+SE,Data Scientist,84000,M
+SE,BI Analyst,125000,M
+SE,BI Analyst,110000,M
+MI,Data Analyst,90000,M
+MI,Data Analyst,80000,M
+SE,ML Engineer,200000,M
+SE,ML Engineer,135000,M
+EN,Business Data Analyst,48000,L
+EN,AI Developer,120000,S
+SE,Data Engineer,130000,M
+SE,Data Engineer,75000,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Data Engineer,226700,M
+SE,Data Engineer,133300,M
+SE,Data Scientist,190000,M
+SE,Data Scientist,165000,M
+SE,Data Engineer,170000,M
+SE,Data Engineer,150000,M
+MI,Data Engineer,150000,M
+MI,Data Engineer,130000,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+SE,Computer Vision Engineer,200000,S
+MI,Applied Data Scientist,80000,S
+EN,Business Data Analyst,12000,L
+EN,AI Developer,6000,S
+MI,Data Analytics Lead,1440000,M
+SE,Data Scientist,257000,M
+SE,Data Scientist,134000,M
+SE,Data Scientist,72000,M
+SE,Data Scientist,36000,M
+SE,Data Engineer,205600,L
+SE,Data Engineer,105700,L
+SE,BI Developer,140000,M
+SE,BI Developer,110000,M
+SE,Data Science Manager,299500,M
+SE,Data Science Manager,245100,M
+SE,Research Scientist,210000,M
+SE,Research Scientist,151800,M
+MI,Data Scientist,50000,L
+SE,Data Analyst,48000,M
+SE,Data Analyst,38000,M
+SE,Data Analyst,48000,M
+SE,Data Analyst,38000,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+MI,Data Engineer,120000,M
+MI,Data Engineer,95000,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,63000,M
+SE,Data Scientist,237000,M
+SE,Data Scientist,145000,M
+SE,Data Scientist,130000,M
+SE,Data Scientist,90000,M
+MI,Data Analyst,120000,M
+MI,Data Analyst,100000,M
+SE,Data Architect,174500,M
+SE,Data Architect,113000,M
+MI,Data Scientist,183310,M
+MI,Data Scientist,183310,M
+SE,Data Analyst,145000,M
+SE,Data Analyst,102500,M
+SE,Data Scientist,210000,M
+SE,Data Scientist,185000,M
+SE,Data Architect,174500,M
+SE,Data Architect,113000,M
+SE,Data Science Consultant,122000,M
+SE,Data Science Consultant,94000,M
+SE,Data Scientist,220000,M
+SE,Data Scientist,146000,M
+SE,Data Engineer,300000,M
+SE,Data Engineer,130000,M
+MI,Data Scientist,840000,L
+MI,Computer Vision Engineer,1250000,M
+SE,Data Science Consultant,145000,M
+SE,Data Science Consultant,128000,M
+SE,Data Scientist,182000,M
+SE,Data Scientist,140000,M
+SE,Data Engineer,122000,M
+SE,Data Engineer,94000,M
+SE,Machine Learning Engineer,72000,M
+SE,Machine Learning Engineer,36000,M
+EX,Data Scientist,300000,M
+EX,Data Scientist,200000,M
+MI,Data Analyst,135000,M
+MI,Data Analyst,105500,M
+SE,Data Engineer,252000,M
+SE,Data Engineer,129000,M
+MI,Data Scientist,110000,L
+SE,Data Scientist,136000,M
+SE,Data Scientist,104000,M
+SE,Data Scientist,168000,M
+SE,Data Scientist,130000,M
+MI,Data Analyst,65000,M
+MI,Data Analyst,36050,M
+MI,Data Engineer,120000,M
+MI,Data Engineer,95000,M
+SE,Data Scientist,153400,M
+SE,Data Scientist,122700,M
+SE,Data Scientist,185000,M
+SE,Data Scientist,160000,M
+SE,Data Scientist,205000,M
+SE,Data Scientist,185000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+MI,Machine Learning Engineer,145000,M
+MI,Machine Learning Engineer,87000,M
+EN,Data Scientist,50000,M
+SE,ML Engineer,234100,M
+SE,ML Engineer,203500,M
+SE,Data Scientist,223800,M
+SE,Data Scientist,172100,M
+SE,Data Scientist,180000,M
+SE,Data Scientist,150000,M
+SE,Data Engineer,232200,M
+SE,Data Engineer,167200,M
+SE,BI Developer,197000,M
+SE,BI Developer,106000,M
+SE,Research Scientist,180000,M
+SE,Research Scientist,145000,M
+SE,Data Lead,225000,M
+SE,Data Lead,200000,M
+SE,Data Engineer,170000,M
+SE,Data Engineer,114000,M
+SE,Data Engineer,291500,M
+SE,Data Engineer,180000,M
+EX,Data Engineer,196200,M
+EX,Data Engineer,150900,M
+SE,Data Scientist,168400,M
+SE,Data Scientist,105200,M
+MI,Data Engineer,95000,M
+MI,Data Engineer,80000,M
+MI,Data Analyst,116000,M
+MI,Data Analyst,72000,M
+SE,Analytics Engineer,207000,M
+SE,Analytics Engineer,167000,M
+SE,Machine Learning Engineer,145000,M
+SE,Machine Learning Engineer,135000,M
+MI,Data Engineer,105000,M
+MI,Data Engineer,70000,M
+SE,Data Architect,180000,M
+SE,Data Architect,115000,M
+SE,Data Engineer,133800,M
+SE,Data Engineer,96100,M
+MI,Data Analyst,120000,M
+MI,Data Analyst,80000,M
+SE,Data Science Engineer,140000,M
+SE,Data Science Engineer,100000,M
+SE,Research Scientist,150000,M
+SE,Research Scientist,120000,M
+SE,Cloud Database Engineer,140000,M
+SE,Cloud Database Engineer,115000,M
+SE,Data Science Manager,297300,M
+SE,Data Science Manager,198200,M
+SE,Data Scientist,297300,M
+SE,Data Scientist,198200,M
+SE,Data Engineer,202000,M
+SE,Data Engineer,135000,M
+SE,Data Scientist,110000,M
+SE,Data Scientist,84000,M
+MI,Machine Learning Engineer,219000,L
+SE,Applied Scientist,230000,M
+SE,Applied Scientist,196000,M
+SE,BI Developer,140000,M
+SE,BI Developer,110000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,110000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Applied Scientist,126100,L
+SE,Applied Scientist,72000,L
+SE,Data Engineer,170000,M
+SE,Data Engineer,150000,M
+MI,Machine Learning Engineer,175000,M
+MI,Machine Learning Engineer,140000,M
+SE,Data Analyst,240500,M
+SE,Data Analyst,137500,M
+MI,Data Scientist,187500,M
+MI,Data Scientist,165000,M
+MI,Machine Learning Research Engineer,60000,L
+EN,Data Analyst,24000,L
+SE,Research Scientist,210000,M
+SE,Research Scientist,165750,M
+SE,Machine Learning Scientist,225000,M
+SE,Machine Learning Scientist,165750,M
+MI,Machine Learning Engineer,89700,M
+MI,Machine Learning Engineer,55250,M
+SE,Data Scientist,135000,M
+SE,Data Scientist,115000,M
+SE,NLP Engineer,275000,M
+SE,NLP Engineer,175000,M
+SE,Data Scientist,170000,M
+SE,Data Scientist,140000,M
+SE,Data Engineer,175308,M
+SE,Data Engineer,100706,M
+SE,NLP Engineer,235000,M
+SE,NLP Engineer,135000,M
+SE,Data Engineer,310000,M
+SE,Data Engineer,229000,M
+SE,ML Engineer,289076,M
+SE,ML Engineer,202353,M
+SE,Data Engineer,65000,M
+SE,Data Engineer,35000,M
+MI,Research Engineer,120000,M
+MI,Research Engineer,100000,M
+SE,Data Engineer,226700,M
+SE,Data Engineer,133300,M
+SE,Data Analyst,125000,M
+SE,Data Analyst,85000,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,80000,M
+MI,Data Engineer,120000,M
+MI,Data Engineer,100000,M
+SE,Data Scientist,4000000,L
+MI,Business Data Analyst,1440000,L
+SE,Data Engineer,231250,M
+SE,Data Engineer,138750,M
+SE,Data Engineer,199000,M
+SE,Data Engineer,162000,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+EN,Data Scientist,100000,M
+SE,Research Scientist,200000,M
+SE,Research Scientist,150000,M
+EN,Research Engineer,160000,M
+EN,Research Engineer,120000,M
+SE,Research Scientist,250000,M
+SE,Research Scientist,200000,M
+EN,Deep Learning Engineer,150000,M
+EN,Deep Learning Engineer,120000,M
+SE,Research Engineer,150000,M
+SE,Research Engineer,100000,M
+SE,Data Analytics Manager,133000,L
+SE,Data Scientist,272550,M
+SE,Data Scientist,198200,M
+SE,Data Scientist,182000,M
+SE,Data Scientist,140000,M
+SE,Data Engineer,200000,M
+SE,Data Engineer,160000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+MI,Data Scientist,120000,M
+MI,Data Scientist,105000,M
+SE,Data Engineer,187500,M
+SE,Data Engineer,175000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+SE,Data Analyst,155000,M
+SE,Data Analyst,64000,M
+SE,Computer Vision Engineer,235000,M
+SE,Computer Vision Engineer,185000,M
+SE,Data Architect,174500,M
+SE,Data Architect,113000,M
+SE,Data Scientist,143100,M
+SE,Data Scientist,113000,M
+SE,Applied Scientist,184000,M
+SE,Applied Scientist,142000,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,120000,M
+SE,Data Architect,174500,M
+SE,Data Architect,113000,M
+SE,Data Scientist,180560,M
+SE,Data Scientist,115440,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,120000,M
+SE,Research Scientist,248100,M
+SE,Research Scientist,145900,M
+SE,Data Scientist,120000,M
+SE,Data Scientist,110000,M
+SE,Data Engineer,291500,M
+SE,Data Engineer,180000,M
+MI,Machine Learning Engineer,62000,M
+MI,Machine Learning Engineer,52000,M
+SE,Data Engineer,161800,M
+SE,Data Engineer,141600,M
+MI,Machine Learning Engineer,48000,M
+MI,Machine Learning Engineer,38000,M
+SE,Data Engineer,166000,M
+SE,Data Engineer,128000,M
+SE,Data Architect,170000,M
+SE,Data Architect,110000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,75000,M
+SE,Data Engineer,236000,M
+SE,Data Engineer,182000,M
+MI,Data Analyst,1125000,L
+EN,Data Scientist,130000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Machine Learning Engineer,261500,L
+SE,Machine Learning Engineer,134500,L
+MI,Data Scientist,1100000,L
+MI,Data Scientist,130000,M
+MI,Data Scientist,90000,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+SE,Manager Data Management,125000,L
+SE,Data Engineer,175000,M
+SE,Data Engineer,155000,M
+SE,Data Engineer,153600,M
+SE,Data Engineer,106800,M
+SE,Data Scientist,150000,M
+SE,Data Scientist,140000,M
+SE,Data Science Consultant,122000,M
+SE,Data Science Consultant,94500,M
+SE,Data Engineer,170000,M
+SE,Data Engineer,130000,M
+SE,Data Science Consultant,145000,M
+SE,Data Science Consultant,128000,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,100000,M
+SE,Data Engineer,175000,M
+SE,Data Engineer,120000,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,115000,M
+SE,Applied Machine Learning Scientist,150000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+MI,Data Scientist,150000,M
+MI,Data Scientist,127500,M
+SE,Data Scientist,126500,M
+SE,Data Scientist,51000,M
+MI,Data Engineer,260000,M
+MI,Data Engineer,175000,M
+EN,Applied Data Scientist,40000,M
+EN,AI Programmer,40000,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,63000,M
+SE,Machine Learning Engineer,210000,M
+SE,Machine Learning Engineer,160000,M
+SE,Data Scientist,272550,M
+SE,Data Scientist,198200,M
+MI,Data Scientist,90000,M
+MI,Data Scientist,50000,M
+SE,Data Scientist,220000,M
+SE,Data Scientist,146000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Machine Learning Software Engineer,248400,M
+SE,Machine Learning Software Engineer,183600,M
+MI,Data Engineer,150000,M
+MI,Data Engineer,150000,M
+EN,Machine Learning Developer,40000,M
+SE,Lead Data Scientist,4460000,L
+MI,Data Engineer,120000,M
+MI,Data Engineer,95000,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+EN,Data Science Consultant,23000,M
+SE,Data Engineer,216000,M
+SE,Data Engineer,144000,M
+EN,Data Engineer,85000,M
+EN,Data Engineer,65000,M
+SE,Data Analyst,149000,M
+SE,Data Analyst,119000,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,120000,M
+MI,Data Scientist,150000,M
+MI,Data Scientist,110000,M
+SE,Machine Learning Engineer,246000,M
+SE,Machine Learning Engineer,201000,M
+SE,Data Scientist,190000,M
+SE,Data Scientist,155000,M
+SE,ML Engineer,235000,M
+SE,ML Engineer,185000,M
+SE,Cloud Database Engineer,190000,M
+SE,Cloud Database Engineer,160000,M
+EN,Product Data Analyst,100000,M
+MI,Data Engineer,130000,M
+MI,Data Engineer,115000,M
+MI,Data Scientist,75000,M
+MI,Data Scientist,55000,M
+MI,Data Engineer,105000,M
+MI,Data Engineer,70000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+SE,Machine Learning Engineer,192000,M
+SE,Machine Learning Engineer,164000,M
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+SE,Data Engineer,130000,M
+SE,Data Engineer,75000,M
+SE,Data Science Manager,175000,M
+SE,Data Science Manager,120000,M
+SE,Data Engineer,167500,M
+SE,Data Engineer,106500,M
+MI,Data Analyst,75000,M
+MI,Data Analyst,60000,M
+SE,Applied Scientist,184000,M
+SE,Applied Scientist,142000,M
+MI,Data Scientist,145000,M
+MI,Data Scientist,100000,M
+EN,Machine Learning Software Engineer,10000,S
+MI,Data Scientist,2500000,M
+MI,NLP Engineer,198000,S
+SE,Data Engineer,175000,M
+SE,Data Engineer,120000,M
+SE,Data Engineer,175000,M
+SE,Data Engineer,120000,M
+EX,Data Engineer,200000,M
+EX,Data Engineer,145000,M
+MI,Data Engineer,75000,M
+MI,Data Engineer,60000,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,100000,M
+SE,Applied Scientist,192000,M
+SE,Applied Scientist,164000,M
+EX,Data Engineer,310000,M
+EX,Data Engineer,239000,M
+SE,Data Analyst,120000,M
+SE,Data Analyst,95000,M
+SE,Machine Learning Engineer,145000,M
+SE,Machine Learning Engineer,135000,M
+SE,Data Engineer,100000,M
+SE,Data Engineer,78000,M
+SE,Data Engineer,70000,M
+SE,Data Engineer,35000,M
+MI,Data Engineer,160000,M
+MI,Data Engineer,120000,M
+SE,Data Scientist,190000,M
+SE,Data Scientist,150000,M
+MI,Data Engineer,2800000,L
+SE,AI Scientist,125000,L
+SE,Data Engineer,120000,M
+SE,Data Engineer,95000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+SE,Data Analyst,115934,M
+SE,Data Analyst,81666,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,140000,M
+SE,Data Engineer,120000,M
+SE,Data Engineer,95000,M
+SE,Research Engineer,249500,M
+SE,Research Engineer,149850,M
+MI,Analytics Engineer,122500,M
+MI,Analytics Engineer,100000,M
+SE,Data Scientist,249500,M
+SE,Data Scientist,149850,M
+EN,Data Analyst,55000,M
+EN,Data Analyst,48000,M
+SE,Research Scientist,249500,M
+SE,Research Scientist,149850,M
+MI,Computer Vision Engineer,56000,S
+SE,Data Engineer,190000,M
+SE,Data Engineer,120000,M
+SE,Data Analyst,127000,M
+SE,Data Analyst,104000,M
+SE,Data Scientist,210000,M
+SE,Data Scientist,150000,M
+SE,Machine Learning Engineer,210000,M
+SE,Machine Learning Engineer,150000,M
+SE,Data Engineer,210000,M
+SE,Data Engineer,130000,M
+SE,Data Scientist,182750,M
+SE,Data Scientist,161500,M
+MI,Data Analyst,102640,M
+MI,Data Analyst,66100,M
+SE,Research Scientist,210000,M
+SE,Research Scientist,150000,M
+SE,Data Engineer,198800,M
+SE,Data Engineer,122600,M
+MI,Data Engineer,130000,M
+MI,Data Engineer,80000,M
+SE,Data Scientist,136000,M
+SE,Data Scientist,104000,M
+SE,Data Analyst,150000,M
+SE,Data Analyst,100000,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+SE,Data Engineer,216000,M
+SE,Data Engineer,144000,M
+EX,Data Scientist,159000,M
+EX,Data Scientist,130000,M
+SE,Data Analyst,115934,M
+SE,Data Analyst,81666,M
+SE,Data Engineer,215000,M
+SE,Data Engineer,150000,M
+SE,Machine Learning Engineer,246000,M
+SE,Machine Learning Engineer,201000,M
+MI,Data Engineer,187000,M
+MI,Data Engineer,153000,M
+SE,Machine Learning Engineer,255000,M
+SE,Machine Learning Engineer,185000,M
+MI,Data Analyst,350000,M
+MI,Data Analyst,45000,M
+SE,Data Analyst,48000,M
+SE,Data Analyst,38000,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+EN,BI Data Analyst,58000,L
+SE,BI Developer,140000,M
+SE,BI Developer,120000,M
+MI,Data Analyst,75000,M
+MI,Data Analyst,60000,M
+SE,3D Computer Vision Researcher,10000,S
+EN,Data Analyst,50000,L
+MI,MLOps Engineer,134000,M
+MI,MLOps Engineer,124000,M
+SE,Data Analyst,166700,M
+SE,Data Analyst,119000,M
+EN,Data Scientist,124234,M
+EN,Data Scientist,74540,M
+MI,Data Analyst,100000,M
+MI,Data Analyst,65000,M
+MI,Data Analyst,1250000,L
+EN,AI Scientist,200000,L
+EN,Machine Learning Engineer,12000,L
+SE,Data Engineer,220000,M
+SE,Data Engineer,146000,M
+SE,Data Engineer,65000,M
+SE,Data Engineer,35000,M
+SE,Data Specialist,110000,M
+SE,Data Specialist,70000,M
+EN,Data Analyst,50000,L
+SE,Data Engineer,120000,M
+SE,Data Engineer,95000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+SE,Data Architect,190000,M
+SE,Data Architect,135000,M
+SE,Data Scientist,128000,M
+SE,Data Scientist,81500,M
+SE,Data Scientist,173000,M
+SE,Data Scientist,110000,M
+SE,Machine Learning Engineer,192000,M
+SE,Machine Learning Engineer,120000,M
+SE,Data Analyst,115934,M
+SE,Data Analyst,81666,M
+SE,Data Analyst,120000,M
+SE,Data Analyst,95000,M
+SE,Principal Machine Learning Engineer,190000,L
+SE,Data Engineer,194000,M
+SE,Data Engineer,129400,M
+SE,Data Analyst,201000,M
+SE,Data Analyst,89200,M
+SE,Data Scientist,165000,M
+SE,Data Scientist,125000,M
+SE,Applied Scientist,230000,M
+SE,Applied Scientist,196000,M
+MI,Machine Learning Engineer,130000,M
+MI,Machine Learning Engineer,90000,M
+MI,Machine Learning Researcher,150000,M
+MI,Machine Learning Researcher,100000,M
+MI,Machine Learning Engineer,230000,M
+MI,Machine Learning Engineer,150000,M
+SE,Data Engineer,153600,M
+SE,Data Engineer,106800,M
+MI,Machine Learning Researcher,130000,M
+MI,Machine Learning Researcher,100000,M
+SE,Data Engineer,216000,M
+SE,Data Engineer,144000,M
+MI,Data Scientist,180000,M
+MI,Data Scientist,120000,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+SE,Data Analyst,192500,M
+SE,Data Analyst,140000,M
+SE,Data Engineer,152500,M
+SE,Data Engineer,130000,M
+SE,Data Analyst,65000,M
+SE,Data Analyst,55000,M
+SE,Data Engineer,178750,M
+SE,Data Engineer,160000,M
+MI,Data Scientist,60000,M
+MI,Data Scientist,50000,M
+MI,Machine Learning Scientist,165000,M
+MI,Machine Learning Scientist,135000,M
+SE,Analytics Engineer,170000,M
+SE,Analytics Engineer,125000,M
+SE,Data Engineer,105000,M
+SE,Data Engineer,70000,M
+SE,Data Scientist,130000,M
+SE,Data Scientist,95000,M
+SE,Data Scientist,203500,M
+SE,Data Scientist,152000,M
+SE,Data Engineer,197430,M
+SE,Data Engineer,134760,M
+MI,Data Scientist,120000,M
+SE,Data Engineer,197000,M
+SE,Data Engineer,99000,M
+SE,Data Engineer,220000,M
+SE,Data Engineer,162000,M
+MI,Data Engineer,105120,M
+MI,Data Engineer,75360,M
+MI,Data Science Consultant,57000,M
+MI,Data Science Consultant,42000,M
+SE,Data Architect,149040,M
+SE,Data Architect,113900,M
+MI,Business Data Analyst,95000,M
+SE,Data Analyst,115000,S
+SE,Data Analyst,171000,L
+EN,Data Analytics Engineer,13000,S
+SE,Data Engineer,100000,M
+SE,Data Engineer,78000,M
+SE,Data Engineer,120000,M
+SE,Data Engineer,95000,M
+SE,Data Specialist,110000,M
+SE,Data Specialist,70000,M
+EN,Data Analytics Consultant,50000,S
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Data Engineer,230000,M
+SE,Data Engineer,154600,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+MI,Data Engineer,160000,M
+MI,Data Engineer,75000,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+SE,Data Engineer,213000,M
+SE,Data Engineer,152000,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,120000,M
+SE,Data Scientist,110000,M
+SE,Data Scientist,70000,M
+SE,Machine Learning Software Engineer,227200,M
+SE,Machine Learning Software Engineer,168000,M
+EN,3D Computer Vision Researcher,20000,M
+MI,Data Scientist,61000,M
+MI,Data Scientist,58000,M
+SE,ML Engineer,243000,M
+SE,ML Engineer,183000,M
+SE,Data Engineer,175000,M
+SE,Data Engineer,150000,M
+MI,Data Scientist,130000,M
+MI,Data Scientist,90000,M
+MI,Data Analyst,165000,M
+MI,Data Analyst,124000,M
+SE,Data Engineer,178000,M
+SE,Data Engineer,132000,M
+SE,Data Engineer,300000,M
+SE,Data Engineer,130000,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+SE,Data Analyst,116000,M
+SE,Data Analyst,96000,M
+SE,Data Analyst,75000,M
+SE,Data Analyst,57000,M
+SE,Data Analyst,105000,M
+SE,Data Analyst,70000,M
+MI,Machine Learning Researcher,137000,L
+SE,Data Engineer,194000,M
+SE,Data Engineer,129400,M
+SE,Data Architect,190000,M
+SE,Data Architect,135000,M
+SE,Data Analyst,100000,M
+SE,Data Analyst,70000,M
+EN,Machine Learning Engineer,189750,M
+EN,Machine Learning Engineer,140250,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,100000,M
+MI,Data Analyst,160000,M
+MI,Data Analyst,109000,M
+SE,Research Engineer,250000,M
+SE,Research Engineer,150000,M
+MI,Data Analyst,206000,M
+MI,Data Analyst,160000,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,120000,M
+SE,Machine Learning Engineer,110000,M
+SE,Machine Learning Engineer,70000,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+MI,Data Engineer,120000,M
+MI,Data Engineer,95000,M
+SE,Data Engineer,65000,M
+SE,Data Engineer,40000,M
+SE,Data Engineer,191200,M
+SE,Data Engineer,130000,M
+SE,Data Engineer,191200,M
+SE,Data Engineer,130000,M
+EN,Machine Learning Research Engineer,63000,L
+EN,3D Computer Vision Researcher,50000,S
+SE,Data Engineer,230000,L
+SE,Data Engineer,154600,L
+SE,Data Engineer,120000,M
+SE,Data Engineer,95000,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,120000,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+MI,Data Analyst,80000,L
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+SE,Analytics Engineer,135000,M
+SE,Analytics Engineer,110000,M
+MI,Data Analytics Manager,155000,M
+MI,Data Analytics Manager,140000,M
+SE,Data Engineer,205000,M
+SE,Data Engineer,150000,M
+SE,Data Engineer,179500,M
+SE,Data Engineer,134000,M
+MI,Data Scientist,180000,M
+MI,Data Scientist,120000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,145000,M
+SE,Data Architect,235000,M
+SE,Data Architect,175000,M
+EN,Data Science Consultant,26000,L
+MI,Data Engineer,160000,M
+MI,Data Engineer,90000,M
+SE,Data Engineer,65000,M
+SE,Data Engineer,35000,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,115000,M
+MI,Data Specialist,165000,M
+MI,Data Specialist,135000,M
+SE,Data Engineer,168400,M
+SE,Data Engineer,105200,M
+MI,Deep Learning Engineer,70000,M
+MI,Deep Learning Engineer,40000,M
+SE,Data Engineer,200000,M
+SE,Data Engineer,160000,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+SE,Data Scientist,198800,M
+SE,Data Scientist,122600,M
+EN,Machine Learning Engineer,100000,M
+MI,BI Data Analyst,100000,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,100000,M
+MI,Analytics Engineer,85000,M
+MI,Analytics Engineer,60000,M
+SE,Data Engineer,125000,M
+SE,Data Engineer,110000,M
+MI,Data Analyst,165000,M
+MI,Data Analyst,124000,M
+SE,Data Scientist,148000,M
+SE,Data Scientist,107000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+MI,Data Engineer,120000,M
+MI,Data Engineer,95000,M
+SE,Data Engineer,153600,M
+SE,Data Engineer,106800,M
+MI,Data Analyst,100000,M
+MI,Data Analyst,65000,M
+MI,Data Engineer,120000,M
+MI,Data Engineer,95000,M
+SE,Data Engineer,60000,M
+SE,Data Engineer,35000,M
+EX,Data Engineer,310000,M
+EX,Data Engineer,239000,M
+SE,Data Science Manager,299500,M
+SE,Data Science Manager,245100,M
+SE,Data Scientist,168000,M
+SE,Data Scientist,130000,M
+SE,Data Scientist,136000,M
+SE,Data Scientist,104000,M
+MI,Data Engineer,161000,M
+MI,Data Engineer,118000,M
+SE,Applied Scientist,205000,M
+SE,Applied Scientist,184000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Data Science Manager,247500,M
+SE,Data Science Manager,172200,M
+SE,Data Management Specialist,65000,L
+SE,Data Analyst,177000,M
+SE,Data Analyst,131000,M
+SE,Applied Scientist,205000,M
+SE,Applied Scientist,184000,M
+SE,Data Engineer,146000,M
+SE,Data Engineer,102000,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+SE,Applied Scientist,230000,M
+SE,Applied Scientist,196000,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,100000,M
+MI,Data Engineer,80000,M
+MI,Data Engineer,65000,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,100000,M
+SE,Data Engineer,50000,M
+SE,Data Engineer,35000,M
+MI,Data Engineer,175000,M
+MI,Data Engineer,135000,M
+EN,Data Scientist,80000,M
+SE,Data Engineer,231250,M
+SE,Data Engineer,138750,M
+SE,Analytics Engineer,193750,M
+SE,Analytics Engineer,116250,M
+SE,Data Engineer,231250,M
+SE,Data Engineer,138750,M
+SE,Analytics Engineer,231250,M
+SE,Analytics Engineer,138750,M
+SE,Analytics Engineer,231250,M
+SE,Analytics Engineer,138750,M
+SE,Data Engineer,193750,M
+SE,Data Engineer,116250,M
+SE,Data Scientist,208000,M
+SE,Data Scientist,127000,M
+SE,Research Scientist,300000,M
+SE,Research Scientist,196000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+MI,Autonomous Vehicle Technician,45555,M
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+SE,Data Scientist,205000,M
+SE,Data Scientist,185000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Machine Learning Engineer,247500,M
+SE,Machine Learning Engineer,172200,M
+EN,Data Engineer,160000,M
+EN,Data Engineer,135000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Data Analyst,110000,M
+SE,Data Analyst,95000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Applied Scientist,205000,M
+SE,Applied Scientist,184000,M
+EN,Data Scientist,6600000,M
+SE,Data Science Tech Lead,375000,L
+SE,Data Engineer,191200,M
+SE,Data Engineer,130000,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+MI,Machine Learning Engineer,85000,M
+MI,Machine Learning Engineer,65000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Data Scientist,140700,M
+SE,Data Scientist,93800,M
+SE,Data Scientist,350000,M
+SE,Data Scientist,135000,M
+SE,Data Analyst,115934,M
+SE,Data Analyst,81666,M
+EN,BI Analyst,12000,L
+MI,Machine Learning Engineer,100000,L
+EN,Machine Learning Developer,33000,S
+EN,Machine Learning Scientist,33000,S
+SE,Machine Learning Engineer,201000,M
+SE,Machine Learning Engineer,119000,M
+SE,Data Engineer,175000,M
+SE,Data Engineer,150000,M
+SE,Data Analyst,154560,M
+SE,Data Analyst,123648,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,100000,M
+MI,Data Engineer,170000,M
+MI,Data Engineer,145000,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,100000,M
+SE,Data Scientist,247500,M
+SE,Data Scientist,172200,M
+SE,Data Scientist,177500,M
+SE,Data Scientist,134000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Data Architect,192564,M
+SE,Data Architect,144854,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,105000,M
+SE,Data Engineer,179305,M
+SE,Data Engineer,142127,M
+SE,Data Engineer,315000,M
+SE,Data Engineer,225000,M
+SE,Data Scientist,243900,M
+SE,Data Scientist,156600,M
+MI,Data Analyst,206000,M
+MI,Data Analyst,160000,M
+MI,Data Analyst,109000,M
+MI,Data Analyst,79000,M
+MI,Data Analyst,160000,M
+MI,Data Analyst,109000,M
+MI,Data Scientist Lead,85000,L
+SE,Data Engineer,182500,M
+SE,Data Engineer,128500,M
+MI,Data Engineer,160000,M
+MI,Data Engineer,90000,M
+EN,Data Manager,77300,M
+EN,Data Manager,45600,M
+SE,Data Analyst,127000,M
+SE,Data Analyst,110000,M
+SE,Data Architect,210000,M
+SE,Data Architect,136000,M
+SE,Cloud Data Engineer,12000,S
+SE,Data Engineer,170000,M
+SE,Data Engineer,140000,M
+SE,Data Engineer,247500,M
+SE,Data Engineer,172200,M
+SE,Data Engineer,225000,M
+SE,Data Engineer,184100,M
+MI,Machine Learning Engineer,130000,M
+MI,Machine Learning Engineer,90000,M
+MI,Data Scientist,120000,M
+MI,Data Scientist,100000,M
+MI,Data Scientist,85000,M
+MI,Data Scientist,78000,M
+SE,Data Engineer,161000,M
+SE,Data Engineer,110000,M
+SE,Data Scientist,136000,M
+SE,Data Scientist,104000,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+EX,Head of Data,205000,M
+EX,Head of Data,160000,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+EN,Data Engineer,50000,M
+EN,Data Engineer,40000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,130000,M
+SE,Data Scientist,245000,M
+SE,Data Scientist,180000,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,100000,M
+SE,Data Engineer,220000,M
+SE,Data Engineer,150000,M
+SE,Data Scientist,198440,L
+SE,Data Scientist,144000,L
+SE,Data Engineer,240000,M
+SE,Data Engineer,170000,M
+SE,Data Scientist,198440,M
+SE,Data Scientist,144000,M
+MI,Data Analyst,150000,M
+MI,Data Analyst,100000,M
+SE,Data Analyst,120000,M
+SE,Data Analyst,95000,M
+MI,Data Scientist,47000,M
+EN,Data Analyst,64000,L
+EN,Data Scientist,38000,L
+SE,Machine Learning Engineer,187200,M
+SE,Machine Learning Engineer,116100,M
+SE,Data Analyst,150000,M
+SE,Data Analyst,127000,M
+SE,Data Engineer,275000,M
+SE,Data Engineer,166000,M
+SE,Data Scientist,159699,M
+SE,Data Scientist,138938,M
+EN,BI Analyst,76000,L
+SE,Data Analyst,166700,M
+SE,Data Analyst,119000,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,100000,M
+SE,Analytics Engineer,84000,M
+SE,Analytics Engineer,75000,M
+SE,Data Analyst,80000,M
+SE,Data Analyst,52500,M
+SE,Data Engineer,236000,M
+SE,Data Engineer,182000,M
+SE,Data Scientist,180000,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+SE,Data Analyst,135000,M
+SE,Data Analyst,100000,M
+SE,Machine Learning Engineer,204500,M
+SE,Machine Learning Engineer,142200,M
+MI,Research Engineer,240000,M
+EN,Data Analyst,125404,S
+SE,Data Engineer,300000,M
+SE,Data Engineer,130000,M
+SE,Data Engineer,195000,M
+SE,Data Engineer,175000,M
+SE,Data Engineer,155000,M
+SE,Data Engineer,110000,M
+SE,Data Operations Analyst,123000,M
+SE,Data Operations Analyst,92250,M
+SE,Data Engineer,170000,M
+SE,Data Engineer,150000,M
+MI,ML Engineer,180000,M
+MI,ML Engineer,100000,M
+SE,Data Engineer,97000,M
+SE,Data Engineer,90000,M
+SE,Data Engineer,200000,M
+SE,Data Engineer,160000,M
+SE,Machine Learning Engineer,210000,M
+SE,Machine Learning Engineer,180000,M
+SE,Data Engineer,260000,M
+SE,Data Engineer,180000,M
+EX,Analytics Engineer,210000,M
+EX,Analytics Engineer,157000,M
+EN,Data Scientist,180000,M
+EN,Data Scientist,100000,M
+MI,Data Analyst,80000,M
+MI,Data Analyst,52500,M
+SE,Data Architect,128000,M
+SE,Data Architect,81500,M
+SE,Data Operations Engineer,105000,M
+SE,Data Operations Engineer,70000,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,122500,M
+SE,Data Engineer,171000,M
+SE,Data Engineer,117000,M
+SE,Data Scientist,202800,L
+SE,Data Scientist,104300,L
+SE,Data Analyst,48000,M
+SE,Data Analyst,35000,M
+SE,Data Engineer,197000,M
+SE,Data Engineer,99000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,110000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+MI,Data Scientist,30000,L
+MI,Analytics Engineer,78000,M
+MI,Analytics Engineer,48000,M
+SE,Data Engineer,170000,M
+SE,Data Engineer,130000,M
+SE,Data Analyst,150000,M
+SE,Data Analyst,95000,M
+MI,Data Engineer,78000,M
+MI,Data Engineer,42000,M
+SE,Data Architect,345600,M
+SE,Data Architect,230400,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,115000,M
+MI,BI Analyst,78000,M
+MI,BI Analyst,48000,M
+SE,Data Analyst,175950,M
+SE,Data Analyst,130050,M
+SE,Data Engineer,205600,L
+SE,Data Engineer,105700,L
+SE,Data Analyst,236600,M
+SE,Data Analyst,89200,M
+MI,Data Scientist,84000,M
+MI,Data Scientist,54000,M
+EN,Data Scientist,80000,L
+SE,Marketing Data Analyst,200000,S
+EN,Data Scientist,96000,L
+SE,Data Science Lead,165000,S
+EN,Data Scientist,27000,L
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+EN,Power BI Developer,400000,L
+MI,Data Engineer,100000,L
+SE,Data Engineer,225000,M
+SE,Data Engineer,184100,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+EN,Machine Learning Engineer,108000,S
+SE,Product Data Scientist,8000,L
+SE,Data Scientist,155000,M
+SE,Data Scientist,38000,M
+MI,Data Analyst,85000,M
+MI,Data Analyst,65000,M
+SE,Data Scientist,155000,M
+SE,Data Scientist,38000,M
+MI,Data Engineer,90000,M
+MI,Data Engineer,75000,M
+SE,Data Scientist,153600,M
+SE,Data Scientist,106800,M
+SE,Data Scientist,185000,M
+SE,Data Scientist,50000,M
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+SE,Data Scientist,155000,M
+SE,Data Scientist,38000,M
+SE,Data Scientist,168000,M
+SE,Data Scientist,130000,M
+SE,Data Scientist,123400,M
+SE,Data Scientist,88100,M
+SE,Data Scientist,120000,S
+SE,Data Scientist,55000,S
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Data Engineer,191200,M
+SE,Data Engineer,130000,M
+SE,Data Analyst,169000,M
+SE,Data Analyst,110600,M
+SE,Analytics Engineer,150000,M
+SE,Analytics Engineer,120000,M
+SE,Data Science Consultant,139000,M
+SE,Data Science Consultant,122000,M
+SE,Data Scientist,185900,M
+SE,Data Scientist,129300,M
+SE,Data Analyst,139600,M
+SE,Data Analyst,85700,M
+SE,Data Engineer,185000,M
+SE,Data Engineer,50000,M
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+SE,Data Scientist,225000,M
+SE,Data Scientist,156400,M
+SE,Data Scientist,200000,M
+SE,Data Scientist,175000,M
+SE,Data Engineer,185900,M
+SE,Data Engineer,129300,M
+MI,ML Engineer,148500,L
+MI,ML Engineer,98200,L
+SE,Data Analyst,115000,M
+SE,Data Analyst,95000,M
+SE,Data Architect,225000,M
+SE,Data Architect,66000,M
+SE,Data Scientist,185000,M
+SE,Data Scientist,50000,M
+SE,Data Scientist,45000,M
+SE,Data Scientist,36000,M
+MI,Data Manager,134000,M
+MI,Data Manager,98000,M
+MI,Data Analyst,105000,M
+MI,Data Analyst,62000,M
+EN,BI Data Analyst,57000,L
+SE,Big Data Engineer,210000,M
+MI,Data Scientist,144200,M
+MI,Data Scientist,115360,M
+MI,Data Scientist,120000,L
+SE,Principal Data Architect,3000000,L
+SE,Data Engineer,70000,M
+SE,Data Engineer,40000,M
+SE,Data Engineer,170000,M
+SE,Data Engineer,150000,M
+SE,Data Architect,180000,M
+SE,Data Architect,160000,M
+MI,Data Scientist,108000,L
+SE,Machine Learning Manager,200000,M
+SE,Machine Learning Manager,150000,M
+EX,Data Manager,164000,L
+SE,Data Engineer,188700,M
+SE,Data Engineer,160395,M
+SE,Data Analyst,115934,M
+SE,Data Analyst,81666,M
+SE,Data Engineer,300000,M
+SE,Data Engineer,225000,M
+SE,Data Scientist,198440,M
+SE,Data Scientist,144000,M
+SE,Applied Scientist,191475,M
+SE,Applied Scientist,141525,M
+SE,Data Analyst,48000,M
+SE,Data Analyst,35000,M
+MI,Data Scientist,72000,S
+SE,Lead Data Scientist,156868,L
+SE,BI Analyst,200000,S
+SE,Data Scientist,198440,L
+SE,Data Scientist,144000,L
+SE,Lead Machine Learning Engineer,66000,L
+MI,NLP Engineer,120000,M
+SE,Data Analyst,90000,M
+MI,Research Scientist,120000,S
+MI,Research Scientist,80000,S
+SE,Data Engineer,200000,M
+SE,Data Engineer,180000,M
+MI,Analytics Engineer,108000,M
+MI,Analytics Engineer,85000,M
+SE,Machine Learning Engineer,210000,M
+SE,Machine Learning Engineer,180000,M
+SE,Data Engineer,165000,M
+SE,Data Engineer,132000,M
+SE,Analytics Engineer,130000,M
+SE,Analytics Engineer,110000,M
+MI,BI Data Analyst,65000,L
+EN,Data Analyst,56000,L
+MI,Data Analytics Engineer,135000,L
+SE,Data Engineer,178800,L
+SE,Data Engineer,132100,L
+EN,Data Analyst,20000,M
+SE,Machine Learning Engineer,140000,M
+SE,Machine Learning Engineer,110000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,85000,M
+SE,ETL Developer,250000,M
+SE,ETL Developer,63000,M
+EX,Data Engineer,187200,M
+EX,Data Engineer,116100,M
+MI,Data Scientist,10000,M
+SE,Data Engineer,200000,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,229998,L
+SE,Data Engineer,154545,L
+SE,Data Scientist,215000,L
+SE,Data Scientist,159000,L
+SE,Data Engineer,229998,L
+SE,Data Engineer,154545,L
+EN,AI Scientist,50000,M
+SE,Data Scientist Lead,183000,L
+SE,Data Analyst,99750,M
+SE,Data Analyst,68400,M
+SE,Data Scientist,236900,L
+SE,Data Scientist,159200,L
+SE,Data Science Manager,243225,M
+SE,Data Science Manager,179775,M
+SE,Data Engineer,175000,M
+SE,Data Engineer,150000,M
+SE,Machine Learning Engineer,210000,M
+SE,Machine Learning Engineer,180000,M
+SE,Data Scientist,148000,M
+SE,Data Scientist,128000,M
+SE,Data Architect,190000,M
+SE,Data Architect,135000,M
+SE,Analytics Engineer,130000,M
+SE,Analytics Engineer,110000,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,85000,M
+SE,Data Scientist,218000,M
+SE,Data Scientist,145300,M
+SE,ML Engineer,195400,L
+SE,ML Engineer,131300,L
+EN,Data Specialist,105000,L
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,207000,M
+SE,Data Scientist,153000,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Analyst,110000,M
+SE,Data Analyst,99000,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Machine Learning Engineer,200000,M
+SE,Machine Learning Engineer,135000,M
+SE,Data Scientist,207000,M
+SE,Data Scientist,153000,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Engineer,195700,M
+SE,Data Engineer,130500,M
+SE,ML Engineer,130000,M
+SE,ML Engineer,84000,M
+MI,Data Operations Engineer,100000,M
+MI,Data Operations Engineer,60000,M
+MI,Data Engineer,65000,M
+MI,Data Engineer,55000,M
+SE,Data Engineer,141300,M
+SE,Data Engineer,102100,M
+SE,Data Analyst,48000,M
+SE,Data Analyst,35000,M
+MI,Business Data Analyst,150000,L
+MI,Data Scientist,83000,M
+EN,Data Scientist,1800000,M
+SE,Data Analyst,144000,M
+SE,Data Analyst,113000,M
+EN,AI Scientist,30000,M
+SE,Data Architect,195400,L
+SE,Data Architect,131300,L
+SE,Machine Learning Engineer,195400,L
+SE,Machine Learning Engineer,131300,L
+SE,Data Architect,195400,L
+SE,Data Architect,131300,L
+SE,Data Architect,190000,M
+SE,Data Architect,135000,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,80000,M
+EN,BI Data Analyst,633000,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,85000,M
+SE,Data Engineer,178800,L
+SE,Data Engineer,132100,L
+MI,NLP Engineer,60000,S
+SE,Machine Learning Engineer,60000,S
+EN,Business Data Analyst,50000,L
+SE,Data Engineer,140000,M
+SE,Data Engineer,105000,M
+MI,Data Engineer,65000,M
+MI,Data Engineer,55000,M
+SE,Analytics Engineer,190000,M
+SE,Analytics Engineer,140000,M
+MI,Data Operations Engineer,100000,M
+MI,Data Operations Engineer,60000,M
+SE,Data Scientist,180000,L
+SE,Data Scientist,165000,L
+SE,Applied Machine Learning Scientist,108000,L
+EN,Machine Learning Research Engineer,20000,M
+SE,Data Architect,190000,M
+SE,Data Architect,135000,M
+SE,Data Scientist,179400,M
+SE,Data Scientist,154000,M
+SE,Machine Learning Scientist,193900,M
+SE,Machine Learning Scientist,129300,M
+EX,Data Science Manager,222640,M
+EX,Data Science Manager,182160,M
+MI,Data Engineer,150000,M
+MI,Data Engineer,100000,M
+SE,Analytics Engineer,122500,M
+SE,Analytics Engineer,100000,M
+EX,Data Engineer,297500,M
+EX,Data Engineer,260000,M
+EN,Machine Learning Developer,15000,L
+SE,Data Engineer,193000,M
+EN,Data Scientist,93000,M
+EN,Data Scientist,73000,M
+MI,Data Operations Engineer,100000,M
+MI,Data Operations Engineer,60000,M
+EN,Data Analyst,40300,L
+SE,Data Scientist,136994,M
+SE,Data Scientist,101570,M
+SE,ETL Developer,250000,M
+SE,ETL Developer,63000,M
+MI,Data Manager,134000,M
+MI,Data Manager,98000,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Director of Data Science,55000,L
+MI,Data Analyst,136000,M
+MI,Data Analyst,112000,M
+SE,Data Scientist,172000,M
+SE,Data Scientist,140000,M
+SE,Data Engineer,215000,M
+SE,Data Engineer,164000,M
+SE,Data Engineer,300000,M
+SE,Data Engineer,130000,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,63000,M
+SE,Data Engineer,180000,M
+SE,Data Engineer,150000,M
+EN,Data Engineer,33000,L
+SE,Data Engineer,250000,M
+SE,Data Engineer,63000,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+MI,Data Analyst,97500,L
+SE,Applied Scientist,212800,M
+SE,Applied Scientist,142800,M
+MI,Data Scientist,70000,L
+EN,Data Scientist,50000,M
+EN,Data Analyst,500000,L
+SE,Data Scientist,151800,M
+SE,Data Scientist,130240,M
+SE,Analytics Engineer,165000,M
+SE,Analytics Engineer,140250,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,115000,M
+SE,Data Scientist,179400,M
+SE,Data Scientist,154000,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+MI,Financial Data Analyst,75000,M
+MI,Data Engineer,80000,M
+MI,Data Engineer,70000,M
+MI,Data Engineer,80000,M
+MI,Data Engineer,70000,M
+MI,Data Engineer,80000,M
+MI,Data Engineer,70000,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Analytics Engineer,83376,M
+SE,Analytics Engineer,65004,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Engineer,84958,M
+SE,Data Engineer,66822,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Analyst,115000,L
+EN,Data Scientist,30000,M
+SE,Data Operations Analyst,81000,M
+SE,Data Operations Analyst,66000,M
+EN,Data Analyst,46000,L
+EN,Data Engineer,80000,L
+EX,Machine Learning Scientist,200000,S
+EX,Machine Learning Scientist,180000,S
+EX,AI Scientist,200000,S
+SE,Data Scientist,204100,M
+SE,Data Scientist,136100,M
+SE,Analytics Engineer,250000,M
+SE,Analytics Engineer,63000,M
+MI,Data Scientist,96000,M
+MI,Data Scientist,90000,M
+EN,Computer Vision Software Engineer,120000,L
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Scientist,191475,M
+SE,Data Scientist,141525,M
+SE,Data Specialist,95000,M
+SE,Data Specialist,70000,M
+MI,Applied Machine Learning Scientist,75000,M
+MI,Analytics Engineer,7500,M
+MI,Data Analyst,113000,L
+SE,Data Scientist,170000,M
+SE,Data Scientist,130000,M
+MI,Data Analytics Consultant,113000,L
+MI,Product Data Analyst,140000,M
+SE,Data Analyst,50000,S
+MI,BI Data Analyst,77000,M
+SE,Data Scientist,175000,M
+SE,Data Scientist,140000,M
+SE,Lead Data Scientist,28500,S
+SE,Analytics Engineer,250000,M
+SE,Analytics Engineer,63000,M
+SE,Data Scientist,160000,L
+SE,Data Scientist,119300,L
+MI,Research Scientist,145000,L
+SE,Data Engineer,105000,M
+SE,Data Engineer,90000,M
+SE,ETL Developer,146200,M
+SE,ETL Developer,124270,M
+MI,Data Scientist,225000,M
+MI,Data Scientist,160000,M
+MI,Data Scientist,52000,S
+SE,Data Engineer,185800,M
+SE,Data Engineer,137400,M
+SE,Analytics Engineer,245000,M
+SE,Analytics Engineer,180000,M
+SE,Analytics Engineer,203500,M
+SE,Analytics Engineer,152000,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,63000,M
+SE,Machine Learning Infrastructure Engineer,186000,M
+SE,Machine Learning Infrastructure Engineer,148800,M
+SE,Lead Machine Learning Engineer,7500000,L
+MI,Machine Learning Engineer,104000,L
+EN,Data Scientist,82000,L
+EN,Data Scientist,110000,M
+MI,Applied Machine Learning Scientist,173000,M
+SE,Data Scientist,203500,M
+SE,Data Scientist,152000,M
+SE,Machine Learning Engineer,186000,M
+SE,Machine Learning Engineer,148800,M
+EN,BI Data Analyst,32400,L
+MI,Data Science Manager,158000,M
+MI,Data Science Manager,134000,M
+SE,Data Scientist,170000,M
+SE,Data Scientist,120000,M
+EX,Analytics Engineer,200000,M
+EX,Analytics Engineer,150000,M
+SE,Data Analyst,216200,M
+SE,Data Analyst,144100,M
+MI,Data Scientist,110000,M
+MI,Data Scientist,85000,M
+SE,ETL Developer,250000,M
+SE,ETL Developer,63000,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,85000,M
+SE,Machine Learning Engineer,135000,M
+SE,Machine Learning Engineer,85000,M
+SE,Data Science Manager,206000,M
+SE,Data Science Manager,175100,M
+SE,Machine Learning Engineer,189650,M
+SE,Machine Learning Engineer,164996,M
+SE,Data Architect,149040,M
+SE,Data Architect,113900,M
+SE,Data Engineer,154000,M
+SE,Data Engineer,126000,M
+SE,Machine Learning Engineer,200000,L
+SE,Machine Learning Engineer,150000,L
+SE,Data Engineer,195700,M
+SE,Data Engineer,130500,M
+SE,Analytics Engineer,170000,M
+SE,Analytics Engineer,135000,M
+MI,Data Engineer,80000,M
+MI,Data Engineer,60000,M
+SE,Data Analyst,117000,M
+SE,Data Analyst,99450,M
+SE,Data Engineer,200000,M
+SE,Data Engineer,135000,M
+SE,Machine Learning Engineer,193900,M
+SE,Machine Learning Engineer,129300,M
+EN,Machine Learning Engineer,45000,S
+SE,Data Analyst,70000,M
+SE,Data Analyst,50000,M
+SE,Data Analyst,175000,M
+SE,Data Analyst,130000,M
+SE,Data Engineer,188100,M
+SE,Data Engineer,139860,M
+SE,Machine Learning Engineer,248700,M
+SE,Machine Learning Engineer,167100,M
+MI,Data Analyst,450000,S
+SE,Data Scientist,123400,M
+SE,Data Scientist,88100,M
+MI,BI Data Analyst,48000,S
+SE,Data Scientist,245000,M
+SE,Data Scientist,205000,M
+SE,Data Engineer,141300,M
+SE,Data Engineer,102100,M
+SE,Data Architect,141300,M
+SE,Data Architect,102100,M
+EN,Data Analyst,50000,L
+EN,Data Scientist,80000,L
+MI,Lead Data Scientist,50000,S
+SE,Data Architect,250000,M
+SE,Data Architect,63000,M
+SE,Data Science Manager,189500,L
+SE,Data Science Manager,140100,L
+SE,Data Engineer,177600,L
+SE,Data Engineer,131300,L
+MI,Data Engineer,24000,M
+MI,Data Engineer,24000,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,63000,M
+SE,Machine Learning Engineer,202900,L
+SE,Machine Learning Engineer,131300,L
+SE,Data Engineer,145000,M
+SE,Data Engineer,115000,M
+EN,Machine Learning Engineer,115000,L
+MI,Machine Learning Engineer,193900,M
+MI,Machine Learning Engineer,129300,M
+SE,Data Scientist,180000,L
+SE,Data Scientist,140000,L
+MI,Data Analyst,216200,M
+MI,Data Analyst,144100,M
+SE,Machine Learning Scientist,216000,M
+SE,Machine Learning Scientist,144000,M
+EN,Data Analyst,150000,L
+EN,Machine Learning Research Engineer,900000,M
+MI,Data Scientist,4200000,L
+EN,Applied Data Scientist,50000,M
+SE,Cloud Data Architect,250000,L
+EX,Research Scientist,80000,L
+MI,Data Scientist,107000,M
+SE,Analytics Engineer,48000,S
+EX,Data Science Manager,260500,M
+EX,Data Science Manager,175100,M
+SE,Data Engineer,210000,M
+SE,Data Engineer,100000,M
+EN,Data Analyst,55000,S
+MI,Data Analyst,130000,M
+SE,Applied Machine Learning Scientist,73400,L
+EN,Data Scientist,49500,S
+MI,Applied Machine Learning Scientist,2400000,S
+SE,Data Engineer,206699,M
+SE,Data Engineer,99100,M
+MI,Analytics Engineer,200000,M
+MI,Analytics Engineer,54000,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,63000,M
+SE,Data Architect,250000,M
+SE,Data Architect,63000,M
+SE,Data Engineer,250000,M
+SE,Data Engineer,63000,M
+EN,Analytics Engineer,130000,L
+SE,Data Engineer,100000,L
+SE,Data Engineer,80000,L
+SE,Data Scientist,160000,L
+SE,Data Scientist,100000,L
+SE,Data Specialist,221300,L
+SE,Data Specialist,148700,L
+EN,Machine Learning Engineer,30000,L
+EN,Data Analyst,27000,M
+MI,Data Engineer,74000,M
+MI,Data Engineer,50000,M
+MI,Data Scientist,58000,S
+SE,Data Science Manager,249260,M
+SE,Data Science Manager,185400,M
+SE,Data Engineer,170000,M
+SE,Data Engineer,130000,M
+MI,Data Scientist,65000,M
+SE,Data Analyst,128875,M
+SE,Data Analyst,93700,M
+SE,Machine Learning Engineer,180000,M
+SE,Machine Learning Engineer,100000,M
+SE,Data Analyst,136260,M
+SE,Data Analyst,109280,M
+SE,Data Scientist,160000,L
+SE,Data Scientist,92000,L
+SE,Data Engineer,200000,M
+SE,Data Engineer,160000,M
+MI,Data Engineer,110000,M
+MI,Data Engineer,85000,M
+SE,Data Analyst,117000,M
+SE,Data Analyst,99450,M
+EN,Data Engineer,129000,L
+EN,Data Engineer,86000,L
+EN,Data Engineer,1000000,L
+EN,Data Engineer,1000000,L
+SE,Data Scientist,160000,L
+SE,Data Scientist,119300,L
+SE,Business Data Analyst,100000,L
+MI,Data Scientist,25000,M
+MI,Data Analyst,90000,M
+MI,AI Scientist,200000,M
+EN,Machine Learning Developer,180000,L
+MI,Data Scientist,153000,L
+SE,Data Engineer,210000,M
+SE,Data Engineer,100000,M
+SE,Data Analyst,150075,M
+SE,Data Analyst,110925,M
+MI,Machine Learning Scientist,22800,M
+SE,Data Scientist,160000,L
+SE,Data Scientist,92000,L
+SE,Machine Learning Engineer,202900,L
+SE,Machine Learning Engineer,131300,L
+EN,Data Analyst,20000,M
+EN,Data Analyst,15000,L
+SE,Data Engineer,175000,M
+SE,Data Engineer,135000,M
+SE,Data Science Manager,193000,L
+EN,Machine Learning Engineer,83000,L
+MI,Data Engineer,75000,M
+MI,Data Engineer,55000,M
+SE,Data Scientist,186000,M
+SE,Data Scientist,148800,M
+SE,Data Analyst,112900,M
+SE,Data Analyst,90320,M
+SE,ML Engineer,240000,M
+SE,ML Engineer,160000,M
+SE,Data Science Manager,300000,M
+SE,Data Science Manager,200000,M
+MI,Data Engineer,62500,S
+MI,AI Scientist,200000,L
+MI,Machine Learning Engineer,95000,M
+MI,Machine Learning Engineer,75000,M
+MI,AI Scientist,120000,M
+SE,Data Analyst,112900,M
+SE,Data Analyst,90320,M
+SE,Data Analytics Manager,145000,M
+SE,Data Analytics Manager,105400,M
+EN,Data Scientist,43200,S
+MI,Data Engineer,90000,M
+MI,Data Engineer,75000,M
+SE,Data Scientist,215300,L
+SE,Data Scientist,158200,L
+SE,Data Engineer,209100,L
+SE,Data Engineer,154600,L
+SE,Data Analyst,115934,M
+SE,Data Analyst,81666,M
+SE,Data Engineer,175000,M
+SE,Data Engineer,155000,M
+MI,Machine Learning Engineer,80000,M
+SE,Data Analyst,164000,M
+SE,Data Analyst,132000,M
+SE,Data Scientist,170000,M
+SE,Data Scientist,123000,M
+SE,Machine Learning Engineer,189650,M
+SE,Machine Learning Engineer,164996,M
+MI,ETL Developer,50000,M
+MI,ETL Developer,50000,M
+EX,Lead Data Engineer,150000,S
+SE,Data Engineer,165400,M
+SE,Data Engineer,132320,M
+SE,Data Architect,208775,M
+SE,Data Architect,147800,M
+SE,Data Engineer,136994,M
+SE,Data Engineer,101570,M
+SE,Data Analyst,128875,M
+SE,Data Analyst,93700,M
+EX,Head of Machine Learning,6000000,L
+EN,Machine Learning Engineer,28500,L
+SE,Data Engineer,183600,L
+SE,Data Engineer,100800,L
+MI,Data Analyst,40000,M
+MI,Data Analyst,30000,M
+MI,Data Analyst,40000,M
+MI,Data Analyst,30000,M
+MI,Data Engineer,80000,M
+MI,Data Engineer,70000,M
+MI,Data Engineer,80000,M
+MI,Data Engineer,70000,M
+MI,Data Engineer,80000,M
+MI,Data Engineer,70000,M
+SE,Machine Learning Engineer,189650,M
+SE,Machine Learning Engineer,164996,M
+MI,Data Analyst,40000,M
+MI,Data Analyst,30000,M
+MI,Data Engineer,75000,M
+MI,Data Engineer,60000,M
+SE,Data Scientist,215300,L
+SE,Data Scientist,140400,L
+MI,Data Engineer,60000,M
+MI,Data Engineer,45000,M
+SE,Data Scientist,260000,M
+SE,Data Scientist,180000,M
+MI,Data Scientist,55000,M
+MI,Data Scientist,35000,M
+MI,Data Engineer,60000,M
+MI,Data Engineer,45000,M
+MI,Data Engineer,60000,M
+MI,Data Engineer,45000,M
+MI,Machine Learning Engineer,43200,L
+SE,Data Science Engineer,60000,L
+MI,Data Engineer,82900,M
+MI,Data Engineer,63900,M
+MI,Machine Learning Scientist,160000,L
+MI,Machine Learning Scientist,112300,L
+MI,Data Science Manager,241000,M
+MI,Data Science Manager,159000,M
+SE,Data Scientist,180000,M
+SE,Data Scientist,80000,M
+MI,Data Analyst,58000,S
+MI,Data Analyst,58000,S
+SE,Data Engineer,136000,M
+SE,Data Engineer,108800,M
+EX,Data Engineer,242000,M
+EX,Data Engineer,200000,M
+MI,Data Scientist,50000,M
+MI,Data Scientist,30000,M
+MI,Data Engineer,60000,M
+MI,Data Engineer,40000,M
+SE,Data Scientist,165220,M
+SE,Data Scientist,120160,M
+SE,Data Analyst,124190,M
+SE,Data Analyst,90320,M
+SE,Data Engineer,181940,M
+SE,Data Engineer,132320,M
+SE,Data Engineer,220110,M
+SE,Data Engineer,160080,M
+SE,Data Scientist,180000,L
+SE,Data Scientist,120000,L
+MI,Data Analyst,126500,M
+MI,Data Analyst,106260,M
+SE,Data Analyst,116000,M
+SE,Data Analyst,99000,M
+SE,Data Analyst,155000,M
+SE,Data Analyst,120600,M
+MI,Data Scientist,130000,M
+MI,Data Scientist,90000,M
+MI,Data Engineer,170000,M
+MI,Data Engineer,150000,M
+SE,Data Analyst,102100,M
+SE,Data Analyst,84900,M
+SE,Data Scientist,136620,M
+SE,Data Scientist,99360,M
+SE,Data Scientist,90000,M
+SE,Data Scientist,80000,M
+SE,Data Scientist,146000,M
+SE,Data Scientist,123000,M
+EN,Data Engineer,40000,M
+EN,Data Engineer,35000,M
+EX,Data Analyst,130000,M
+EX,Data Analyst,110000,M
+SE,Data Analyst,170000,M
+SE,Data Analyst,135000,M
+SE,Data Science Manager,161342,M
+SE,Data Science Manager,137141,M
+SE,Data Scientist,167000,M
+SE,Data Scientist,123000,M
+SE,Data Engineer,60000,M
+SE,Data Engineer,50000,M
+SE,Data Scientist,211500,M
+SE,Data Scientist,138600,M
+SE,Data Architect,192400,M
+SE,Data Architect,90700,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,61300,M
+SE,Data Analyst,130000,M
+SE,Data Analyst,61300,M
+SE,Data Engineer,160000,L
+SE,Data Engineer,113000,L
+SE,Data Scientist,150000,M
+SE,Data Scientist,95550,M
+MI,Data Analyst,167000,M
+MI,Data Analyst,115500,M
+SE,Data Analyst,112900,M
+SE,Data Analyst,90320,M
+SE,Data Analyst,112900,M
+SE,Data Analyst,90320,M
+SE,Data Engineer,165400,M
+SE,Data Engineer,132320,M
+SE,Data Engineer,243900,M
+SE,Data Engineer,156600,M
+SE,Data Analyst,136600,M
+SE,Data Analyst,109280,M
+SE,Data Engineer,128875,M
+SE,Data Engineer,93700,M
+EX,Head of Data Science,224000,M
+EX,Head of Data Science,167875,M
+EX,Analytics Engineer,175000,M
+EX,Analytics Engineer,135000,M
+SE,Data Engineer,209100,L
+SE,Data Engineer,154600,L
+SE,Data Engineer,180000,M
+SE,Data Engineer,160000,M
+SE,Data Scientist,205300,L
+SE,Data Scientist,140400,L
+SE,Data Scientist,176000,M
+SE,Data Scientist,144000,M
+SE,Data Engineer,200100,M
+SE,Data Engineer,160000,M
+SE,Data Engineer,70500,M
+SE,Data Engineer,54000,M
+SE,Data Scientist,205300,M
+SE,Data Scientist,140400,M
+SE,Analytics Engineer,205300,M
+SE,Analytics Engineer,184700,M
+SE,Data Engineer,175100,M
+SE,Data Engineer,140250,M
+SE,Data Analyst,116150,M
+SE,Data Analyst,99050,M
+SE,Data Engineer,145000,M
+SE,Data Engineer,130000,M
+SE,Data Analyst,112900,M
+SE,Data Analyst,90320,M
+MI,Data Analyst,85000,M
+MI,Data Analyst,75000,M
+SE,Machine Learning Engineer,214000,M
+SE,Machine Learning Engineer,192600,M
+SE,Data Architect,266400,M
+SE,Data Architect,213120,M
+SE,Data Engineer,155000,M
+SE,Data Engineer,115000,M
+MI,Data Scientist,141300,M
+MI,Data Scientist,102100,M
+SE,Data Analyst,115934,M
+SE,Data Analyst,81666,M
+MI,Data Engineer,206699,M
+MI,Data Engineer,99100,M
+SE,Data Engineer,130000,M
+SE,Data Engineer,110500,M
+MI,Data Analyst,50000,M
+MI,Data Analyst,35000,M
+SE,Data Analyst,80000,M
+SE,Data Analyst,60000,M
+SE,Data Architect,192564,M
+SE,Data Architect,144854,M
+SE,Data Scientist,230000,M
+SE,Data Scientist,150000,M
+SE,Data Analytics Manager,150260,M
+SE,Data Analytics Manager,109280,M
+SE,Data Analyst,170000,M
+SE,Data Analyst,150000,M
+MI,Data Scientist,160000,M
+MI,Data Scientist,130000,M
+EN,Data Analyst,67000,M
+EN,Data Analyst,52000,M
+SE,Data Engineer,154000,M
+SE,Data Engineer,126000,M
+SE,Data Analyst,129000,M
+SE,Data Analyst,99000,M
+SE,Data Scientist,210000,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,210000,M
+SE,Data Scientist,140000,M
+SE,Data Scientist,210000,M
+SE,Data Scientist,140000,M
+SE,Data Analyst,100000,M
+SE,Data Analyst,69000,M
+SE,Data Scientist,210000,M
+SE,Data Scientist,140000,M
+SE,Data Analyst,150075,M
+SE,Data Analyst,110925,M
+SE,Data Engineer,100000,M
+SE,Data Engineer,25000,M
+SE,Data Analyst,126500,M
+SE,Data Analyst,106260,M
+SE,Data Engineer,220110,M
+SE,Data Engineer,160080,M
+SE,Data Analyst,105000,M
+SE,Data Analyst,100000,M
+SE,Data Analyst,170000,M
+SE,Data Analyst,135000,M
+SE,Data Scientist,230000,M
+SE,Data Scientist,140000,M
+MI,Data Analyst,135000,M
+MI,Data Analyst,50000,M
+SE,Data Scientist,220000,M
+SE,Data Scientist,140000,M
+MI,Data Scientist,140000,M
+MI,Data Scientist,70000,M
+SE,Machine Learning Engineer,220000,M
+SE,Machine Learning Engineer,120000,M
+MI,Data Scientist,200000,M
+MI,Data Scientist,120000,M
+SE,Machine Learning Engineer,120000,S
+SE,Machine Learning Engineer,65000,S
+EX,Data Engineer,324000,M
+EX,Data Engineer,216000,M
+SE,Data Engineer,210000,M
+SE,Data Engineer,100000,M
+SE,Data Scientist,185100,M
+SE,Data Scientist,104890,M
+SE,Data Engineer,105000,M
+SE,Data Engineer,80000,M
+MI,Machine Learning Developer,100000,M
+SE,Machine Learning Manager,157000,L
+EX,Director of Data Science,250000,L
+MI,Machine Learning Engineer,120000,S
+MI,Business Data Analyst,1400000,M
+MI,Data Scientist,2400000,L
+MI,Machine Learning Infrastructure Engineer,53000,L
+MI,Data Engineer,50000,L
+EN,Data Scientist,1400000,M
+MI,Applied Machine Learning Scientist,75000,L
+MI,Applied Data Scientist,157000,L
+MI,Business Data Analyst,90000,L
+EN,Data Engineer,65000,S
+SE,Machine Learning Engineer,65000,S
+MI,Data Scientist,109000,L
+MI,Data Scientist,88000,M
+EN,Computer Vision Engineer,10000,M
+MI,Data Analyst,20000,S
+SE,Head of Data,87000,L
+SE,Head of Data,200000,M
+EN,Data Scientist,66500,L
+MI,Data Scientist,78000,M
+SE,Data Engineer,135000,M
+SE,Data Engineer,115000,M
+MI,Machine Learning Engineer,121000,L
+EN,Data Scientist,40000,L
+MI,Head of Data,30000,S
+SE,Machine Learning Engineer,57000,L
+EN,Data Engineer,48000,L
+SE,Research Scientist,85000,L
+EN,Data Scientist,120000,M
+SE,Data Scientist,165000,M
+MI,Machine Learning Scientist,153000,M
+SE,Data Scientist,100000,M
+SE,Machine Learning Developer,100000,M
+MI,Data Scientist,150000,L
+MI,Principal Data Analyst,75000,S
+MI,Product Data Analyst,20000,S
+EN,Applied Machine Learning Scientist,29000,M
+MI,Research Scientist,69999,L
+EN,Data Engineer,52800,M
+MI,Research Scientist,59000,L
+SE,Data Science Manager,152500,M
+EN,Research Scientist,120000,L
+MI,Data Scientist,135000,L
+SE,Data Analytics Lead,405000,L
+SE,Data Engineer,150000,L
+SE,Data Science Manager,240000,L
+MI,Data Analyst,135000,L
+EN,Data Scientist,80000,M
+SE,Applied Data Scientist,380000,L
+MI,Data Scientist,115000,L
+SE,Applied Data Scientist,177000,L
+MI,Data Engineer,62000,M
+MI,Data Scientist,48000,S
+EN,Data Analytics Engineer,20000,M
+SE,Principal Data Scientist,220000,L
+MI,ML Engineer,8500000,S
+MI,ML Engineer,7000000,S
+EN,Computer Vision Software Engineer,150000,S
+MI,Data Analyst,90000,M
+MI,Data Scientist,100000,M
+EN,Data Scientist,100000,S
+EN,Data Scientist,100000,M
+SE,Research Scientist,144000,L
+SE,Principal Data Scientist,148000,M
+SE,Computer Vision Engineer,24000,M
+MI,Applied Machine Learning Scientist,38400,M
+EN,Financial Data Analyst,100000,L
+MI,Data Scientist,82500,S
+EN,Data Scientist,42000,M
+SE,Lead Data Scientist,3000000,L
+EN,Data Engineer,120000,M
+SE,Lead Machine Learning Engineer,80000,M
+EN,Machine Learning Engineer,20000,S
+EN,Computer Vision Engineer,125000,M
+MI,Data Scientist,700000,S
+SE,Machine Learning Scientist,120000,S
+EN,Data Analyst,8760,M
+EN,Applied Data Scientist,80000,L
+EN,ML Engineer,20000,L
+EN,Data Analyst,50000,M
+SE,Principal Data Engineer,200000,M
+MI,Big Data Engineer,60000,M
+MI,Data Engineer,200000,L
+EN,Machine Learning Developer,100000,S
+MI,Data Engineer,100000,L
+SE,Machine Learning Engineer,70000,M
+MI,Data Engineer,51999,S
+MI,Research Scientist,53000,M
+MI,Data Engineer,60000,L
+MI,Data Architect,170000,L
+MI,Data Architect,150000,L
+EN,BI Data Analyst,55000,S
+EX,Director of Data Science,250000,L
+EN,Data Engineer,80000,L
+EN,Big Data Engineer,70000,L
+EX,Director of Data Science,110000,M
+EN,Data Science Consultant,54000,L
+SE,Data Scientist,60000,L
+EX,Head of Data Science,85000,M
+EX,Head of Data,230000,L
+EN,Machine Learning Engineer,125000,S
+SE,Data Analytics Manager,120000,M
+MI,Research Scientist,450000,M
+MI,Data Analyst,41000,L
+MI,Data Engineer,65000,L
+SE,Data Science Engineer,159500,L
+SE,Data Science Manager,144000,L
+EN,Data Scientist,13400,L
+MI,Data Scientist,95000,L
+MI,Data Scientist,150000,M
+MI,Data Science Consultant,103000,L
+SE,Data Engineer,153000,L
+MI,Data Engineer,90000,L
+EN,Data Analyst,90000,S
+EN,Data Analyst,60000,S
+MI,Data Scientist,50000,L
+EN,AI Scientist,12000,M
+MI,3D Computer Vision Researcher,400000,M
+MI,ML Engineer,270000,L
+MI,Applied Data Scientist,68000,L
+MI,Machine Learning Engineer,40000,S
+EX,Director of Data Science,130000,L
+MI,Data Engineer,110000,L
+MI,Data Analytics Engineer,110000,L
+EN,Research Scientist,60000,L
+EN,Machine Learning Engineer,250000,L
+EN,Data Analyst,50000,M
+SE,Data Analyst,80000,S
+EN,Data Analyst,10000,S
+EN,Machine Learning Engineer,138000,S
+MI,Data Engineer,140000,L
+SE,Data Analytics Engineer,67000,L
+SE,Lead Data Analyst,170000,L
+EN,Data Analyst,80000,M
+MI,Data Scientist,45760,S
+MI,BI Data Analyst,100000,M
+SE,Data Scientist,45000,L
+EX,Head of Data,235000,L
+EX,BI Data Analyst,150000,L
+EX,Data Engineer,70000,L
+EN,Machine Learning Scientist,225000,L
+EN,Data Science Consultant,65000,S
+MI,Machine Learning Infrastructure Engineer,44000,M
+SE,Marketing Data Analyst,75000,L
+SE,Lead Data Engineer,75000,S
+SE,Data Engineer,82500,M
+SE,Machine Learning Engineer,80000,L
+EN,Data Engineer,2250000,L
+SE,Data Engineer,150000,M
+SE,Data Engineer,115000,S
+MI,Research Scientist,235000,L
+MI,Data Analyst,37456,L
+MI,Data Engineer,106000,L
+MI,Data Engineer,88000,L
+MI,BI Data Analyst,11000000,L
+SE,Data Engineer,150000,L
+EN,ML Engineer,14000,S
+MI,Computer Vision Software Engineer,81000,S
+EN,Computer Vision Software Engineer,70000,M
+MI,Data Scientist,60000,S
+MI,Cloud Data Engineer,120000,L
+EN,Data Scientist,2200000,L
+SE,Lead Data Engineer,276000,L
+SE,Data Engineer,188000,L
+SE,Cloud Data Engineer,160000,S
+MI,Data Scientist,105000,L
+MI,Data Engineer,200000,L
+SE,Data Engineer,174000,L
+MI,Data Analyst,93000,L
+EN,Data Scientist,2100000,M
+SE,Research Scientist,51400,L
+EN,Data Scientist,90000,S
+MI,Data Engineer,61500,L
+EN,Data Analyst,450000,S
+SE,Data Engineer,720000,S
+SE,Principal Data Analyst,170000,M
+SE,Data Engineer,70000,L
+MI,Data Engineer,108000,M
+EN,Data Scientist,31000,L
+MI,Data Engineer,52500,L
+EN,Data Analyst,91000,L
+SE,Big Data Architect,125000,M
+SE,Data Scientist,165000,L
+MI,Data Analyst,80000,L
+SE,Data Scientist,130000,L
+EN,Data Engineer,1600000,M
+EN,Research Scientist,42000,L
+MI,Lead Data Scientist,115000,L
+MI,Research Scientist,80000,M
+SE,Machine Learning Scientist,260000,S
+MI,Head of Data Science,110000,S
+MI,Data Architect,180000,L
+SE,Data Analyst,200000,L
+SE,Big Data Engineer,85000,M
+SE,Data Engineer,200000,L
+SE,ML Engineer,256000,S
+MI,Data Engineer,110000,L
+MI,Data Scientist,70000,L
+EN,Data Engineer,72500,L
+SE,Machine Learning Engineer,185000,L
+MI,Data Engineer,59000,L
+EN,Research Scientist,100000,L
+MI,Data Engineer,112000,L
+SE,Machine Learning Engineer,150000,L
+SE,Data Scientist,180000,L
+SE,AI Scientist,55000,L
+EN,Data Scientist,58000,L
+EN,Data Scientist,100000,M
+SE,Data Scientist,65720,M
+EN,Machine Learning Engineer,85000,S
+EN,Data Science Consultant,65000,L
+SE,Staff Data Scientist,105000,M
+EN,Data Analyst,72000,L
+EN,Data Engineer,55000,M
+MI,Data Engineer,250000,M
+MI,Data Engineer,111775,M
+MI,Data Engineer,93150,M
+SE,Lead Data Engineer,160000,S
+MI,Data Scientist,21600,S
+SE,Machine Learning Engineer,4900000,L
+MI,Data Scientist,1250000,S
+SE,Data Analyst,54000,L
+SE,Lead Data Scientist,190000,S
+EX,Director of Data Science,120000,L
+EN,Big Data Engineer,1200000,L
+SE,Data Analyst,90000,M
+MI,Data Scientist,11000000,L
+SE,Data Scientist,135000,L
+EN,Machine Learning Engineer,21000,M
+SE,Data Science Manager,4000000,L
+SE,Machine Learning Engineer,1799997,L
+EN,BI Data Analyst,9272,S
+MI,Data Scientist,147000,L
+SE,Research Scientist,120500,L
+SE,Data Science Manager,174000,L
+MI,Business Data Analyst,135000,L
+EN,Machine Learning Engineer,21844,M
+SE,Lead Data Engineer,125000,S
+EN,Data Scientist,45000,S
+MI,Data Scientist,3000000,L
+EX,Data Science Consultant,59000,S
+SE,Data Analytics Engineer,50000,M
+EN,Data Scientist,35000,M
+MI,Lead Data Analyst,87000,L
+MI,Data Engineer,22000,L
+MI,Data Scientist,76760,L
+MI,Big Data Engineer,1672000,L
+MI,Data Scientist,420000,S
+EN,Machine Learning Engineer,81000,S
+MI,Data Scientist,30400000,L
+EN,Data Science Consultant,90000,S
+MI,Data Scientist,52000,M
+SE,Machine Learning Infrastructure Engineer,195000,M
+MI,Data Scientist,32000,L
+MI,Data Analyst,85000,L
+EX,Principal Data Scientist,416000,S
+SE,Machine Learning Scientist,225000,L
+MI,Data Scientist,40900,L
+MI,Data Scientist,2500000,M
+MI,Data Scientist,85000,L
+MI,Machine Learning Engineer,180000,L
+MI,Data Analyst,8000,L
+EN,Data Engineer,4450000,S
+SE,Big Data Engineer,100000,S
+MI,Machine Learning Engineer,75000,M
+EN,Data Science Consultant,423000,M
+MI,Lead Data Engineer,56000,M
+EN,Computer Vision Engineer,180000,S
+MI,Data Scientist,75000,L
+MI,Product Data Analyst,450000,L
+SE,Data Engineer,42000,L
+MI,BI Data Analyst,98000,M
+MI,Data Engineer,48000,S
+MI,Research Scientist,48000,S
+MI,Machine Learning Engineer,21000,L
+SE,Data Analytics Manager,120000,L
+MI,Data Engineer,20000,L
+EX,Director of Data Science,325000,L
+SE,Machine Learning Engineer,200000,L
+EN,AI Scientist,300000,S
+MI,Data Scientist,160000,L
+SE,Research Scientist,50000,S
+MI,Data Science Engineer,34000,M
+MI,Data Scientist,69600,S
+SE,Data Engineer,165000,M
+EN,Big Data Engineer,435000,L
+MI,Data Scientist,37000,S
+SE,Principal Data Engineer,185000,L
+EN,Data Scientist,55000,S
+MI,Data Scientist,76760,L
+EN,Data Scientist,19000,S
+MI,Data Engineer,110000,L
+SE,Data Analytics Manager,140000,L
+SE,Data Scientist,120000,L
+SE,Data Scientist,110000,S
+SE,Finance Data Analyst,45000,L
+MI,Machine Learning Scientist,12000,M
+SE,Data Engineer,65000,S
+MI,Machine Learning Engineer,74000,S
+SE,Data Science Manager,152000,L
+MI,Big Data Engineer,18000,S
+SE,Computer Vision Engineer,60000,S
+MI,Data Scientist,130000,L
+SE,Computer Vision Engineer,102000,M
+EN,Business Data Analyst,50000,L
+SE,Principal Data Scientist,147000,M
+SE,Principal Data Scientist,130000,M
+MI,Data Scientist,34000,M
+MI,Data Scientist,39600,M
+EN,AI Scientist,1335000,S
+SE,Data Scientist,80000,S
+MI,Data Scientist,55000,S
+MI,Data Scientist,115000,L
+SE,Principal Data Scientist,235000,L
+MI,Lead Data Analyst,1450000,L
+EN,AI Scientist,12000,S
+MI,Data Analyst,75000,L
+MI,Data Analyst,62000,L
+MI,Data Scientist,73000,L
+MI,Data Engineer,38400,L
+SE,Data Science Manager,190200,M
+MI,Data Scientist,118000,M
+MI,Data Scientist,138350,M
+MI,Data Engineer,130800,M
+SE,Machine Learning Engineer,40000,S
+SE,Director of Data Science,168000,S
+MI,Data Scientist,160000,M
+MI,Applied Machine Learning Scientist,423000,L
+MI,Data Engineer,24000,L
+SE,Data Specialist,165000,L
+SE,Data Scientist,412000,L
+MI,Principal Data Scientist,151000,L
+EN,Data Scientist,105000,S
+EN,Business Data Analyst,100000,L
+SE,Data Science Manager,7000000,L
