@@ -1,6 +1,0 @@
-stages:
-  1_first_preprocessing:
-    cmd: scripts/1_first_preprocessing.py -o data/stage1 python3 scripts/1_first_preprocessing.py
-      data/train.csv
-    deps:
-    - data/train.csv

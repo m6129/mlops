@@ -1,24 +1,48 @@
 stages:
-  1_first_preprocessing:
-    cmd: scripts/1_first_preprocessing.py -o data/stage1 python3 scripts/1_first_preprocessing.py
-      data/X_train.csv data/X_test.csv
+  get-features:
+    cmd: python3 scripts/dataScripts/get_features.py data/train.csv
     deps:
-    - data/X_test.csv
-    - data/X_train.csv
-  2_data_preprocessing:
-    cmd: scripts/2_data_preprocessing.py
+    - data/train.csv
+    - scripts/dataScripts/get_features.py
+    outs:
+    - data/stage1
+  fill-na:
+    cmd: python3 scripts/dataScripts/fill_na.py  data/stage1/train.csv
     deps:
-    - data/X_test.csv
-    - data/X_train.csv
-  3_data_preparation:
-    cmd: scripts/3_data_preparation.py
+    - data/stage1/train.csv
+    - scripts/dataScripts/fill_na.py
+    outs:
+    - data/stage2
+  change_text:
+    cmd: python3 scripts/dataScripts/change_text_to_numeric.py data/stage2/train.csv
     deps:
-    - data/X_train.csv
-    - data/y_train.csv
-  4_model_testing:
-    cmd: scripts/4_model_testing.py -o data/stage4 python3 scripts/4_model_testing.py
-      data/X_test.csv data/y_test.csv scripts/knn.joblib
+    - data/stage2/train.csv
+    - scripts/dataScripts/change_text_to_numeric.py
+    outs:
+    - data/stage3
+  split:
+    cmd: python3 scripts/dataScripts/train_test_split.py data/stage3/train.csv
     deps:
-    - data/X_test.csv
-    - data/y_test.csv
-    - scripts/knn.joblib
+    - data/stage3/train.csv
+    - scripts/dataScripts/train_test_split.py
+    outs:
+    - data/stage4
+  train:
+    cmd: python3 scripts/model_learn/dt.py data/stage4/train.csv model.pkl
+    deps:
+      - data/stage4/train.csv
+      - scripts/model_learn/dt.py
+    params:
+      - train.seed
+      - train.normalize
+    outs:
+      - models/model.pkl
+  evaluate:
+    cmd: python3 scripts/model_learn/evaluate.py data/stage4/test.csv models/model.pkl
+    deps:
+    - data/stage4/test.csv
+    - models/model.pkl
+    - scripts/model_learn/evaluate.py
+    metrics:
+    - evaluate/metrics.json:
+        cache: false
